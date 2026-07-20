@@ -1,0 +1,2238 @@
+OrderID,OrderDate,Region,Salesperson,Category,Product,UnitsSold,UnitPrice,Revenue
+1000,2025-01-01,Selangor,Farid,Electronics,Power Bank,4,102.75,411.0
+1001,2025-01-01,Sabah,Kumar,Electronics,Bluetooth Speaker,1,86.5,86.5
+1002,2025-01-01,Kuala Lumpur,Ryan,Electronics,Smartwatch,12,138.59,1663.08
+1003,2025-01-01,Kuala Lumpur,Wei Ling,Beauty,Lip Tint,1,55.4,55.4
+1004,2025-01-01,Johor,Siti,Fashion,Sunglasses,3,76.56,229.68
+1005,2025-01-01,Selangor,Siti,Electronics,Bluetooth Speaker,2,114.15,228.3
+1006,2025-01-01,Sabah,Farid,Fashion,Sneakers,12,91.94,1103.28
+1007,2025-01-01,Johor,Siti,Electronics,Power Bank,11,135.96,1495.56
+1008,2025-01-02,Kuala Lumpur,Nadia,Electronics,Wireless Earbuds,11,103.14,1134.54
+1009,2025-01-02,Selangor,Siti,Home & Living,LED Lamp,7,71.57,500.99
+1010,2025-01-02,Kuala Lumpur,Farid,Fashion,Sunglasses,4,105.22,420.88
+1011,2025-01-02,Sabah,Nadia,Home & Living,Storage Box,3,81.89,245.67
+1012,2025-01-02,Sabah,Ain,Home & Living,Air Fryer,1,68.83,68.83
+1013,2025-01-02,Penang,Siti,Beauty,Lip Tint,2,38.15,76.3
+1014,2025-01-02,Kuala Lumpur,Nadia,Beauty,Hair Dryer,11,45.95,505.45
+1015,2025-01-03,Kuala Lumpur,Kumar,Fashion,Wallet,10,88.16,881.6
+1016,2025-01-03,Kuala Lumpur,Wei Ling,Beauty,Face Serum,1,58.62,58.62
+1017,2025-01-03,Kuala Lumpur,Divya,Beauty,Face Serum,7,43.52,304.64
+1018,2025-01-03,Sabah,Nadia,Fashion,Sneakers,11,108.41,1192.51
+1019,2025-01-04,Penang,Ain,Electronics,Power Bank,7,97.29,681.03
+1020,2025-01-04,Penang,Kumar,Home & Living,LED Lamp,11,72.71,799.81
+1021,2025-01-04,Kuala Lumpur,Ain,Fashion,Backpack,9,123.07,1107.63
+1022,2025-01-04,Sabah,Siti,Fashion,Wallet,1,70.05,70.05
+1023,2025-01-04,Penang,Farid,Home & Living,LED Lamp,4,105.17,420.68
+1024,2025-01-04,Selangor,Wei Ling,Beauty,Face Serum,9,55.62,500.58
+1025,2025-01-04,Johor,Ryan,Home & Living,Air Fryer,9,104.86,943.74
+1026,2025-01-04,Kuala Lumpur,Siti,Home & Living,Air Fryer,7,111.73,782.11
+1027,2025-01-04,Johor,Siti,Beauty,Face Serum,4,38.58,154.32
+1028,2025-01-05,Sabah,Ain,Home & Living,Storage Box,1,59.98,59.98
+1029,2025-01-05,Kuala Lumpur,Kumar,Electronics,Wireless Earbuds,6,89.95,539.7
+1030,2025-01-05,Penang,Divya,Beauty,Sunscreen,9,35.67,321.03
+1031,2025-01-06,Johor,Ryan,Beauty,Sunscreen,2,34.55,69.1
+1032,2025-01-06,Penang,Ain,Beauty,Hair Dryer,8,58.71,469.68
+1033,2025-01-06,Selangor,Farid,Electronics,Bluetooth Speaker,12,112.5,1350.0
+1034,2025-01-06,Kuala Lumpur,Ryan,Home & Living,Storage Box,9,81.12,730.08
+1035,2025-01-07,Penang,Farid,Beauty,Sunscreen,2,45.46,90.92
+1036,2025-01-07,Selangor,Divya,Electronics,Wireless Earbuds,4,97.97,391.88
+1037,2025-01-07,Johor,Ain,Home & Living,Blender,1,65.22,65.22
+1038,2025-01-07,Johor,Divya,Fashion,Wallet,5,89.65,448.25
+1039,2025-01-08,Kuala Lumpur,Ain,Fashion,Backpack,1,99.49,99.49
+1040,2025-01-08,Penang,Wei Ling,Electronics,Wireless Earbuds,10,124.05,1240.5
+1041,2025-01-08,Selangor,Kumar,Electronics,Smartwatch,2,133.98,267.96
+1042,2025-01-08,Johor,Farid,Electronics,Smartwatch,10,133.94,1339.4
+1043,2025-01-09,Sabah,Siti,Fashion,Sunglasses,4,105.19,420.76
+1044,2025-01-09,Kuala Lumpur,Nadia,Fashion,Wallet,3,105.32,315.96
+1045,2025-01-09,Johor,Farid,Fashion,Sneakers,1,91.87,91.87
+1046,2025-01-09,Selangor,Farid,Home & Living,Air Fryer,3,108.26,324.78
+1047,2025-01-09,Kuala Lumpur,Nadia,Fashion,Sunglasses,3,90.61,271.83
+1048,2025-01-09,Sabah,Wei Ling,Electronics,Power Bank,11,92.7,1019.7
+1049,2025-01-10,Selangor,Kumar,Electronics,Smartwatch,5,107.67,538.35
+1050,2025-01-10,Penang,Ain,Home & Living,Air Fryer,9,83.36,750.24
+1051,2025-01-10,Selangor,Wei Ling,Beauty,Lip Tint,1,31.61,31.61
+1052,2025-01-10,Penang,Ain,Home & Living,Blender,9,95.52,859.68
+1053,2025-01-10,Selangor,Siti,Electronics,Smartwatch,9,87.03,783.27
+1054,2025-01-11,Sabah,Siti,Home & Living,Blender,3,58.34,175.02
+1055,2025-01-11,Selangor,Farid,Fashion,Backpack,11,78.72,865.92
+1056,2025-01-11,Penang,Wei Ling,Beauty,Sunscreen,4,58.74,234.96
+1057,2025-01-11,Johor,Ryan,Electronics,Smartwatch,12,161.66,1939.92
+1058,2025-01-11,Kuala Lumpur,Ain,Fashion,Backpack,12,69.81,837.72
+1059,2025-01-11,Johor,Kumar,Home & Living,Storage Box,8,75.58,604.64
+1060,2025-01-11,Kuala Lumpur,Farid,Electronics,Smartwatch,7,111.57,780.99
+1061,2025-01-12,Penang,Siti,Fashion,Wallet,11,124.81,1372.91
+1062,2025-01-12,Selangor,Nadia,Electronics,Power Bank,3,132.77,398.31
+1063,2025-01-12,Selangor,Siti,Electronics,Bluetooth Speaker,6,145.2,871.2
+1064,2025-01-12,Johor,Ain,Electronics,Bluetooth Speaker,10,99.97,999.7
+1065,2025-01-12,Johor,Siti,Electronics,Smartwatch,6,120.23,721.38
+1066,2025-01-12,Sabah,Nadia,Fashion,Sneakers,12,119.7,1436.4
+1067,2025-01-12,Johor,Wei Ling,Fashion,Wallet,12,81.63,979.56
+1068,2025-01-12,Kuala Lumpur,Wei Ling,Beauty,Hair Dryer,11,55.07,605.77
+1069,2025-01-12,Sabah,Nadia,Fashion,Wallet,9,115.52,1039.68
+1070,2025-01-13,Kuala Lumpur,Kumar,Beauty,Lip Tint,8,45.42,363.36
+1071,2025-01-13,Sabah,Siti,Beauty,Sunscreen,11,34.17,375.87
+1072,2025-01-13,Selangor,Wei Ling,Home & Living,Air Fryer,4,101.17,404.68
+1073,2025-01-13,Selangor,Farid,Electronics,Smartwatch,8,135.35,1082.8
+1074,2025-01-13,Johor,Divya,Beauty,Sunscreen,12,53.44,641.28
+1075,2025-01-14,Kuala Lumpur,Kumar,Home & Living,LED Lamp,2,99.59,199.18
+1076,2025-01-14,Kuala Lumpur,Farid,Beauty,Face Serum,9,39.35,354.15
+1077,2025-01-14,Johor,Siti,Home & Living,Blender,11,85.74,943.14
+1078,2025-01-14,Johor,Divya,Beauty,Hair Dryer,3,54.93,164.79
+1079,2025-01-14,Johor,Divya,Fashion,Backpack,11,80.47,885.17
+1080,2025-01-14,Kuala Lumpur,Kumar,Fashion,Wallet,2,107.95,215.9
+1081,2025-01-15,Penang,Ryan,Fashion,Sneakers,3,72.5,217.5
+1082,2025-01-15,Kuala Lumpur,Divya,Home & Living,LED Lamp,7,78.83,551.81
+1083,2025-01-15,Johor,Ain,Electronics,Smartwatch,7,116.72,817.04
+1084,2025-01-15,Sabah,Nadia,Beauty,Hair Dryer,1,61.2,61.2
+1085,2025-01-15,Johor,Ryan,Beauty,Sunscreen,8,38.41,307.28
+1086,2025-01-16,Selangor,Ryan,Beauty,Lip Tint,11,52.89,581.79
+1087,2025-01-16,Kuala Lumpur,Ryan,Beauty,Sunscreen,10,48.32,483.2
+1088,2025-01-16,Sabah,Divya,Electronics,Wireless Earbuds,11,120.0,1320.0
+1089,2025-01-16,Kuala Lumpur,Divya,Electronics,Power Bank,7,111.5,780.5
+1090,2025-01-16,Penang,Ryan,Fashion,Wallet,5,110.38,551.9
+1091,2025-01-16,Penang,Ain,Electronics,Bluetooth Speaker,1,146.92,146.92
+1092,2025-01-17,Kuala Lumpur,Kumar,Electronics,Wireless Earbuds,1,163.77,163.77
+1093,2025-01-17,Selangor,Farid,Home & Living,Storage Box,3,82.52,247.56
+1094,2025-01-17,Sabah,Siti,Home & Living,Blender,12,70.35,844.2
+1095,2025-01-17,Kuala Lumpur,Ain,Electronics,Smartwatch,5,93.08,465.4
+1096,2025-01-17,Penang,Kumar,Beauty,Hair Dryer,12,37.75,453.0
+1097,2025-01-18,Penang,Siti,Electronics,Wireless Earbuds,6,128.75,772.5
+1098,2025-01-18,Selangor,Farid,Fashion,Sneakers,7,114.81,803.67
+1099,2025-01-18,Johor,Wei Ling,Fashion,Wallet,12,72.64,871.68
+1100,2025-01-19,Sabah,Nadia,Fashion,Wallet,8,90.44,723.52
+1101,2025-01-19,Penang,Kumar,Home & Living,LED Lamp,5,105.37,526.85
+1102,2025-01-19,Johor,Siti,Beauty,Lip Tint,1,47.07,47.07
+1103,2025-01-19,Kuala Lumpur,Siti,Beauty,Sunscreen,6,56.63,339.78
+1104,2025-01-19,Penang,Farid,Fashion,Sneakers,9,122.73,1104.57
+1105,2025-01-19,Kuala Lumpur,Divya,Beauty,Hair Dryer,9,55.38,498.42
+1106,2025-01-19,Johor,Ryan,Beauty,Face Serum,2,40.77,81.54
+1107,2025-01-19,Kuala Lumpur,Siti,Fashion,Sunglasses,8,97.87,782.96
+1108,2025-01-20,Sabah,Nadia,Fashion,Sunglasses,12,91.59,1099.08
+1109,2025-01-20,Penang,Farid,Home & Living,LED Lamp,12,66.78,801.36
+1110,2025-01-20,Sabah,Nadia,Home & Living,Storage Box,4,97.36,389.44
+1111,2025-01-20,Sabah,Siti,Fashion,Sneakers,4,81.66,326.64
+1112,2025-01-20,Kuala Lumpur,Nadia,Fashion,Sneakers,12,96.65,1159.8
+1113,2025-01-20,Selangor,Divya,Electronics,Power Bank,12,163.3,1959.6
+1114,2025-01-21,Selangor,Wei Ling,Fashion,Wallet,8,90.75,726.0
+1115,2025-01-21,Selangor,Ryan,Fashion,Wallet,2,114.79,229.58
+1116,2025-01-21,Johor,Nadia,Electronics,Wireless Earbuds,3,96.53,289.59
+1117,2025-01-22,Kuala Lumpur,Kumar,Electronics,Bluetooth Speaker,10,134.07,1340.7
+1118,2025-01-22,Sabah,Ryan,Beauty,Hair Dryer,8,40.87,326.96
+1119,2025-01-22,Penang,Nadia,Electronics,Wireless Earbuds,4,136.54,546.16
+1120,2025-01-23,Selangor,Wei Ling,Home & Living,Storage Box,3,86.91,260.73
+1121,2025-01-23,Selangor,Nadia,Beauty,Hair Dryer,12,50.21,602.52
+1122,2025-01-23,Selangor,Divya,Home & Living,Air Fryer,12,71.83,861.96
+1123,2025-01-23,Selangor,Kumar,Home & Living,Air Fryer,11,89.03,979.33
+1124,2025-01-23,Johor,Nadia,Electronics,Smartwatch,11,96.52,1061.72
+1125,2025-01-23,Kuala Lumpur,Nadia,Electronics,Wireless Earbuds,3,150.58,451.74
+1126,2025-01-23,Johor,Ryan,Electronics,Bluetooth Speaker,12,109.54,1314.48
+1127,2025-01-23,Penang,Ryan,Beauty,Hair Dryer,2,50.34,100.68
+1128,2025-01-24,Penang,Ain,Fashion,Sneakers,2,77.42,154.84
+1129,2025-01-24,Penang,Divya,Electronics,Smartwatch,8,127.59,1020.72
+1130,2025-01-24,Penang,Farid,Home & Living,Blender,11,101.6,1117.6
+1131,2025-01-24,Johor,Farid,Fashion,Wallet,6,83.23,499.38
+1132,2025-01-24,Kuala Lumpur,Ryan,Fashion,Wallet,12,94.21,1130.52
+1133,2025-01-24,Sabah,Siti,Electronics,Bluetooth Speaker,2,110.42,220.84
+1134,2025-01-24,Selangor,Divya,Beauty,Face Serum,11,58.89,647.79
+1135,2025-01-24,Johor,Divya,Electronics,Smartwatch,9,114.39,1029.51
+1136,2025-01-25,Johor,Nadia,Electronics,Smartwatch,5,130.13,650.65
+1137,2025-01-25,Johor,Kumar,Beauty,Face Serum,1,62.15,62.15
+1138,2025-01-25,Kuala Lumpur,Kumar,Fashion,Sneakers,9,88.7,798.3
+1139,2025-01-25,Selangor,Divya,Beauty,Face Serum,11,57.71,634.81
+1140,2025-01-25,Penang,Kumar,Fashion,Wallet,8,124.76,998.08
+1141,2025-01-25,Johor,Wei Ling,Home & Living,Blender,4,107.62,430.48
+1142,2025-01-25,Selangor,Nadia,Fashion,Wallet,6,121.86,731.16
+1143,2025-01-25,Selangor,Divya,Fashion,Sunglasses,10,99.54,995.4
+1144,2025-01-26,Kuala Lumpur,Ryan,Beauty,Hair Dryer,6,41.97,251.82
+1145,2025-01-26,Johor,Ryan,Fashion,Backpack,12,78.04,936.48
+1146,2025-01-26,Kuala Lumpur,Ryan,Beauty,Face Serum,6,54.96,329.76
+1147,2025-01-26,Johor,Siti,Home & Living,Blender,1,63.07,63.07
+1148,2025-01-26,Selangor,Ain,Beauty,Face Serum,9,60.18,541.62
+1149,2025-01-26,Kuala Lumpur,Nadia,Beauty,Sunscreen,2,46.29,92.58
+1150,2025-01-26,Penang,Ryan,Beauty,Face Serum,6,58.35,350.1
+1151,2025-01-26,Penang,Nadia,Beauty,Face Serum,10,33.66,336.6
+1152,2025-01-26,Kuala Lumpur,Farid,Electronics,Bluetooth Speaker,2,147.87,295.74
+1153,2025-01-27,Kuala Lumpur,Ain,Fashion,Sneakers,1,83.44,83.44
+1154,2025-01-27,Penang,Ryan,Fashion,Sunglasses,7,72.17,505.19
+1155,2025-01-27,Sabah,Ryan,Home & Living,Storage Box,3,60.42,181.26
+1156,2025-01-27,Sabah,Divya,Home & Living,Blender,10,64.01,640.1
+1157,2025-01-27,Penang,Divya,Beauty,Lip Tint,11,31.8,349.8
+1158,2025-01-27,Penang,Nadia,Home & Living,LED Lamp,8,108.93,871.44
+1159,2025-01-28,Johor,Ryan,Fashion,Wallet,5,75.55,377.75
+1160,2025-01-28,Johor,Nadia,Electronics,Smartwatch,7,132.04,924.28
+1161,2025-01-28,Penang,Ain,Electronics,Bluetooth Speaker,5,84.68,423.4
+1162,2025-01-28,Sabah,Siti,Beauty,Lip Tint,4,50.62,202.48
+1163,2025-01-28,Kuala Lumpur,Wei Ling,Home & Living,Air Fryer,11,98.31,1081.41
+1164,2025-01-28,Selangor,Siti,Electronics,Power Bank,8,86.8,694.4
+1165,2025-01-28,Kuala Lumpur,Wei Ling,Electronics,Power Bank,6,146.79,880.74
+1166,2025-01-28,Kuala Lumpur,Nadia,Home & Living,Air Fryer,9,84.1,756.9
+1167,2025-01-29,Kuala Lumpur,Siti,Fashion,Wallet,5,110.03,550.15
+1168,2025-01-29,Selangor,Kumar,Beauty,Face Serum,3,55.26,165.78
+1169,2025-01-29,Johor,Farid,Fashion,Sneakers,7,63.88,447.16
+1170,2025-01-29,Johor,Siti,Fashion,Sunglasses,10,87.0,870.0
+1171,2025-01-29,Selangor,Siti,Home & Living,Blender,1,90.69,90.69
+1172,2025-01-29,Sabah,Nadia,Home & Living,LED Lamp,11,102.14,1123.54
+1173,2025-01-29,Johor,Nadia,Electronics,Smartwatch,1,163.49,163.49
+1174,2025-01-29,Johor,Wei Ling,Electronics,Wireless Earbuds,4,158.53,634.12
+1175,2025-01-29,Johor,Ryan,Beauty,Lip Tint,11,61.41,675.51
+1176,2025-01-30,Kuala Lumpur,Nadia,Beauty,Face Serum,8,50.89,407.12
+1177,2025-01-30,Selangor,Kumar,Fashion,Backpack,8,91.02,728.16
+1178,2025-01-30,Penang,Siti,Electronics,Power Bank,9,159.74,1437.66
+1179,2025-01-30,Selangor,Divya,Beauty,Lip Tint,4,62.0,248.0
+1180,2025-01-30,Selangor,Kumar,Home & Living,LED Lamp,1,100.06,100.06
+1181,2025-01-30,Kuala Lumpur,Kumar,Home & Living,LED Lamp,9,67.6,608.4
+1182,2025-01-30,Kuala Lumpur,Wei Ling,Fashion,Backpack,10,63.18,631.8
+1183,2025-01-31,Sabah,Ain,Fashion,Backpack,2,104.65,209.3
+1184,2025-01-31,Kuala Lumpur,Ain,Electronics,Power Bank,4,133.46,533.84
+1185,2025-01-31,Kuala Lumpur,Farid,Fashion,Sneakers,3,109.73,329.19
+1186,2025-01-31,Selangor,Farid,Beauty,Hair Dryer,6,47.67,286.02
+1187,2025-02-01,Sabah,Nadia,Home & Living,LED Lamp,12,99.86,1198.32
+1188,2025-02-01,Johor,Ryan,Electronics,Wireless Earbuds,8,155.17,1241.36
+1189,2025-02-01,Selangor,Siti,Beauty,Hair Dryer,2,59.83,119.66
+1190,2025-02-01,Sabah,Siti,Home & Living,LED Lamp,3,71.4,214.2
+1191,2025-02-01,Johor,Farid,Fashion,Wallet,9,101.14,910.26
+1192,2025-02-01,Selangor,Ryan,Home & Living,Blender,8,105.73,845.84
+1193,2025-02-02,Johor,Ryan,Beauty,Hair Dryer,12,34.5,414.0
+1194,2025-02-02,Penang,Divya,Fashion,Sunglasses,3,106.27,318.81
+1195,2025-02-02,Selangor,Siti,Electronics,Wireless Earbuds,2,120.28,240.56
+1196,2025-02-02,Kuala Lumpur,Siti,Electronics,Power Bank,11,94.27,1036.97
+1197,2025-02-02,Johor,Farid,Electronics,Power Bank,10,110.25,1102.5
+1198,2025-02-03,Sabah,Farid,Home & Living,Storage Box,11,83.0,913.0
+1199,2025-02-03,Penang,Ryan,Fashion,Sneakers,5,99.17,495.85
+1200,2025-02-03,Sabah,Nadia,Electronics,Power Bank,1,99.15,99.15
+1201,2025-02-03,Penang,Ryan,Fashion,Sneakers,3,117.8,353.4
+1202,2025-02-03,Selangor,Kumar,Home & Living,LED Lamp,2,97.78,195.56
+1203,2025-02-03,Johor,Nadia,Beauty,Hair Dryer,6,36.46,218.76
+1204,2025-02-03,Penang,Ain,Electronics,Wireless Earbuds,3,97.22,291.66
+1205,2025-02-04,Selangor,Divya,Fashion,Wallet,11,89.71,986.81
+1206,2025-02-04,Johor,Ryan,Fashion,Backpack,9,70.17,631.53
+1207,2025-02-04,Selangor,Ain,Fashion,Wallet,9,105.03,945.27
+1208,2025-02-04,Kuala Lumpur,Kumar,Beauty,Face Serum,1,37.94,37.94
+1209,2025-02-04,Kuala Lumpur,Divya,Fashion,Sunglasses,6,70.56,423.36
+1210,2025-02-04,Johor,Kumar,Home & Living,Storage Box,7,85.82,600.74
+1211,2025-02-04,Sabah,Ain,Fashion,Sneakers,7,117.29,821.03
+1212,2025-02-04,Johor,Ryan,Electronics,Bluetooth Speaker,2,156.42,312.84
+1213,2025-02-05,Johor,Siti,Beauty,Lip Tint,2,44.26,88.52
+1214,2025-02-05,Kuala Lumpur,Farid,Beauty,Lip Tint,2,45.26,90.52
+1215,2025-02-05,Kuala Lumpur,Nadia,Beauty,Hair Dryer,9,33.98,305.82
+1216,2025-02-05,Penang,Farid,Home & Living,Air Fryer,3,60.28,180.84
+1217,2025-02-05,Sabah,Wei Ling,Home & Living,Air Fryer,6,96.73,580.38
+1218,2025-02-05,Kuala Lumpur,Wei Ling,Electronics,Smartwatch,5,100.57,502.85
+1219,2025-02-05,Selangor,Divya,Home & Living,Blender,8,98.25,786.0
+1220,2025-02-06,Sabah,Divya,Fashion,Sunglasses,3,90.71,272.13
+1221,2025-02-06,Johor,Farid,Fashion,Sunglasses,10,66.54,665.4
+1222,2025-02-06,Penang,Nadia,Beauty,Hair Dryer,1,33.29,33.29
+1223,2025-02-06,Selangor,Ain,Electronics,Bluetooth Speaker,8,132.75,1062.0
+1224,2025-02-06,Johor,Wei Ling,Home & Living,Air Fryer,10,82.64,826.4
+1225,2025-02-06,Selangor,Farid,Beauty,Face Serum,6,62.45,374.7
+1226,2025-02-06,Sabah,Divya,Home & Living,LED Lamp,4,95.63,382.52
+1227,2025-02-06,Sabah,Ryan,Home & Living,Air Fryer,6,107.4,644.4
+1228,2025-02-07,Penang,Ryan,Electronics,Power Bank,2,111.69,223.38
+1229,2025-02-07,Penang,Wei Ling,Fashion,Backpack,6,68.13,408.78
+1230,2025-02-07,Penang,Farid,Fashion,Wallet,3,100.49,301.47
+1231,2025-02-07,Penang,Farid,Beauty,Lip Tint,3,52.61,157.83
+1232,2025-02-07,Johor,Kumar,Fashion,Sneakers,6,82.46,494.76
+1233,2025-02-07,Penang,Wei Ling,Beauty,Sunscreen,4,63.0,252.0
+1234,2025-02-08,Penang,Wei Ling,Electronics,Wireless Earbuds,11,112.29,1235.19
+1235,2025-02-08,Sabah,Wei Ling,Beauty,Sunscreen,3,37.2,111.6
+1236,2025-02-08,Johor,Kumar,Electronics,Bluetooth Speaker,6,140.81,844.86
+1237,2025-02-09,Sabah,Nadia,Fashion,Wallet,4,96.64,386.56
+1238,2025-02-09,Johor,Divya,Home & Living,Air Fryer,11,109.04,1199.44
+1239,2025-02-09,Johor,Wei Ling,Fashion,Wallet,9,96.23,866.07
+1240,2025-02-09,Kuala Lumpur,Siti,Home & Living,Air Fryer,1,91.91,91.91
+1241,2025-02-09,Sabah,Wei Ling,Electronics,Wireless Earbuds,5,91.05,455.25
+1242,2025-02-09,Penang,Kumar,Beauty,Sunscreen,7,34.39,240.73
+1243,2025-02-10,Johor,Siti,Fashion,Sneakers,7,66.36,464.52
+1244,2025-02-10,Kuala Lumpur,Siti,Beauty,Face Serum,6,38.57,231.42
+1245,2025-02-10,Selangor,Divya,Fashion,Backpack,3,65.41,196.23
+1246,2025-02-10,Kuala Lumpur,Farid,Beauty,Hair Dryer,10,31.67,316.7
+1247,2025-02-10,Selangor,Ryan,Fashion,Backpack,3,97.57,292.71
+1248,2025-02-10,Selangor,Kumar,Fashion,Backpack,5,70.68,353.4
+1249,2025-02-10,Johor,Divya,Beauty,Face Serum,2,57.86,115.72
+1250,2025-02-10,Sabah,Ryan,Electronics,Smartwatch,12,96.06,1152.72
+1251,2025-02-10,Selangor,Farid,Fashion,Backpack,10,89.24,892.4
+1252,2025-02-11,Penang,Ain,Electronics,Wireless Earbuds,7,157.36,1101.52
+1253,2025-02-11,Johor,Farid,Fashion,Sunglasses,12,64.02,768.24
+1254,2025-02-11,Penang,Siti,Home & Living,LED Lamp,10,97.17,971.7
+1255,2025-02-11,Kuala Lumpur,Wei Ling,Electronics,Power Bank,9,112.44,1011.96
+1256,2025-02-11,Johor,Divya,Beauty,Sunscreen,3,33.49,100.47
+1257,2025-02-11,Selangor,Ain,Fashion,Backpack,1,112.84,112.84
+1258,2025-02-11,Penang,Ain,Fashion,Wallet,9,92.82,835.38
+1259,2025-02-12,Kuala Lumpur,Siti,Fashion,Sunglasses,1,117.55,117.55
+1260,2025-02-12,Penang,Divya,Electronics,Power Bank,7,158.72,1111.04
+1261,2025-02-12,Johor,Siti,Fashion,Backpack,8,106.6,852.8
+1262,2025-02-12,Sabah,Ryan,Fashion,Sneakers,12,89.74,1076.88
+1263,2025-02-12,Sabah,Siti,Home & Living,Air Fryer,6,61.75,370.5
+1264,2025-02-12,Penang,Wei Ling,Fashion,Wallet,10,108.21,1082.1
+1265,2025-02-12,Johor,Siti,Fashion,Wallet,1,108.79,108.79
+1266,2025-02-12,Sabah,Ain,Beauty,Lip Tint,11,62.37,686.07
+1267,2025-02-12,Selangor,Wei Ling,Beauty,Lip Tint,9,56.73,510.57
+1268,2025-02-13,Kuala Lumpur,Siti,Beauty,Face Serum,3,33.62,100.86
+1269,2025-02-13,Penang,Divya,Beauty,Face Serum,10,36.33,363.3
+1270,2025-02-13,Penang,Siti,Fashion,Wallet,2,99.16,198.32
+1271,2025-02-14,Penang,Wei Ling,Fashion,Backpack,2,64.63,129.26
+1272,2025-02-14,Johor,Divya,Beauty,Face Serum,5,55.91,279.55
+1273,2025-02-14,Kuala Lumpur,Farid,Fashion,Wallet,4,70.73,282.92
+1274,2025-02-14,Johor,Siti,Home & Living,Blender,2,101.39,202.78
+1275,2025-02-14,Penang,Wei Ling,Electronics,Power Bank,5,155.51,777.55
+1276,2025-02-14,Penang,Kumar,Home & Living,LED Lamp,4,100.36,401.44
+1277,2025-02-15,Johor,Divya,Electronics,Power Bank,9,132.07,1188.63
+1278,2025-02-15,Sabah,Divya,Home & Living,LED Lamp,2,73.32,146.64
+1279,2025-02-15,Sabah,Siti,Beauty,Hair Dryer,10,33.82,338.2
+1280,2025-02-15,Selangor,Wei Ling,Beauty,Hair Dryer,11,47.8,525.8
+1281,2025-02-15,Sabah,Ain,Home & Living,Storage Box,7,84.16,589.12
+1282,2025-02-15,Selangor,Kumar,Home & Living,Air Fryer,3,65.07,195.21
+1283,2025-02-15,Penang,Nadia,Fashion,Sneakers,5,75.37,376.85
+1284,2025-02-15,Kuala Lumpur,Wei Ling,Fashion,Sneakers,9,103.38,930.42
+1285,2025-02-15,Kuala Lumpur,Nadia,Fashion,Sneakers,1,68.12,68.12
+1286,2025-02-16,Kuala Lumpur,Nadia,Beauty,Face Serum,8,59.5,476.0
+1287,2025-02-16,Penang,Divya,Beauty,Sunscreen,11,44.29,487.19
+1288,2025-02-16,Selangor,Divya,Electronics,Smartwatch,8,118.91,951.28
+1289,2025-02-16,Kuala Lumpur,Siti,Fashion,Backpack,6,117.27,703.62
+1290,2025-02-16,Penang,Farid,Beauty,Sunscreen,6,47.72,286.32
+1291,2025-02-16,Penang,Kumar,Home & Living,Blender,2,70.98,141.96
+1292,2025-02-16,Kuala Lumpur,Ryan,Electronics,Wireless Earbuds,5,163.41,817.05
+1293,2025-02-16,Kuala Lumpur,Kumar,Home & Living,Air Fryer,10,96.38,963.8
+1294,2025-02-17,Kuala Lumpur,Divya,Beauty,Hair Dryer,8,59.19,473.52
+1295,2025-02-17,Selangor,Kumar,Electronics,Bluetooth Speaker,9,122.41,1101.69
+1296,2025-02-17,Kuala Lumpur,Divya,Fashion,Sneakers,1,80.73,80.73
+1297,2025-02-17,Penang,Nadia,Electronics,Wireless Earbuds,7,95.25,666.75
+1298,2025-02-17,Penang,Kumar,Beauty,Lip Tint,1,44.12,44.12
+1299,2025-02-17,Penang,Nadia,Fashion,Sneakers,7,94.77,663.39
+1300,2025-02-17,Sabah,Siti,Electronics,Smartwatch,2,117.09,234.18
+1301,2025-02-17,Sabah,Ryan,Fashion,Backpack,4,100.96,403.84
+1302,2025-02-17,Sabah,Siti,Electronics,Wireless Earbuds,1,95.51,95.51
+1303,2025-02-18,Johor,Wei Ling,Beauty,Sunscreen,10,59.63,596.3
+1304,2025-02-18,Penang,Nadia,Fashion,Backpack,7,125.41,877.87
+1305,2025-02-18,Sabah,Divya,Fashion,Wallet,12,98.46,1181.52
+1306,2025-02-18,Selangor,Ryan,Fashion,Sunglasses,11,69.91,769.01
+1307,2025-02-18,Sabah,Kumar,Fashion,Sneakers,10,92.9,929.0
+1308,2025-02-18,Selangor,Ryan,Beauty,Sunscreen,9,51.31,461.79
+1309,2025-02-18,Kuala Lumpur,Farid,Home & Living,LED Lamp,10,109.1,1091.0
+1310,2025-02-18,Kuala Lumpur,Ryan,Electronics,Bluetooth Speaker,6,119.18,715.08
+1311,2025-02-18,Kuala Lumpur,Wei Ling,Beauty,Hair Dryer,12,54.41,652.92
+1312,2025-02-19,Kuala Lumpur,Wei Ling,Fashion,Wallet,9,86.74,780.66
+1313,2025-02-19,Johor,Nadia,Fashion,Sunglasses,11,111.64,1228.04
+1314,2025-02-19,Sabah,Nadia,Beauty,Sunscreen,4,40.29,161.16
+1315,2025-02-19,Kuala Lumpur,Divya,Fashion,Sunglasses,12,76.06,912.72
+1316,2025-02-19,Penang,Nadia,Beauty,Lip Tint,9,60.91,548.19
+1317,2025-02-19,Penang,Wei Ling,Electronics,Bluetooth Speaker,7,152.74,1069.18
+1318,2025-02-19,Penang,Divya,Electronics,Power Bank,12,90.64,1087.68
+1319,2025-02-20,Penang,Nadia,Beauty,Sunscreen,4,57.58,230.32
+1320,2025-02-20,Sabah,Kumar,Fashion,Backpack,2,101.79,203.58
+1321,2025-02-20,Kuala Lumpur,Farid,Electronics,Smartwatch,11,103.56,1139.16
+1322,2025-02-20,Johor,Wei Ling,Fashion,Wallet,2,105.92,211.84
+1323,2025-02-20,Selangor,Divya,Home & Living,Blender,11,108.36,1191.96
+1324,2025-02-20,Johor,Ain,Home & Living,Air Fryer,6,71.98,431.88
+1325,2025-02-20,Selangor,Wei Ling,Home & Living,LED Lamp,3,79.4,238.2
+1326,2025-02-20,Selangor,Nadia,Beauty,Hair Dryer,3,61.0,183.0
+1327,2025-02-21,Selangor,Divya,Fashion,Sneakers,6,80.93,485.58
+1328,2025-02-21,Kuala Lumpur,Siti,Beauty,Lip Tint,4,56.98,227.92
+1329,2025-02-21,Kuala Lumpur,Siti,Beauty,Lip Tint,12,37.37,448.44
+1330,2025-02-22,Penang,Ryan,Home & Living,Storage Box,10,103.94,1039.4
+1331,2025-02-22,Johor,Wei Ling,Fashion,Sneakers,7,105.16,736.12
+1332,2025-02-22,Kuala Lumpur,Ryan,Beauty,Lip Tint,4,31.72,126.88
+1333,2025-02-22,Kuala Lumpur,Ain,Beauty,Lip Tint,6,41.01,246.06
+1334,2025-02-22,Penang,Divya,Fashion,Backpack,1,105.07,105.07
+1335,2025-02-22,Penang,Nadia,Home & Living,Blender,11,84.14,925.54
+1336,2025-02-22,Selangor,Wei Ling,Fashion,Sunglasses,10,76.91,769.1
+1337,2025-02-22,Johor,Siti,Home & Living,Blender,12,111.37,1336.44
+1338,2025-02-22,Johor,Farid,Beauty,Sunscreen,4,52.93,211.72
+1339,2025-02-23,Johor,Kumar,Fashion,Sneakers,10,70.07,700.7
+1340,2025-02-23,Sabah,Divya,Home & Living,Storage Box,6,103.85,623.1
+1341,2025-02-23,Selangor,Divya,Home & Living,Blender,2,106.34,212.68
+1342,2025-02-23,Selangor,Ain,Beauty,Sunscreen,9,44.59,401.31
+1343,2025-02-23,Sabah,Nadia,Beauty,Lip Tint,12,32.19,386.28
+1344,2025-02-23,Selangor,Farid,Home & Living,LED Lamp,1,79.73,79.73
+1345,2025-02-23,Sabah,Ryan,Electronics,Wireless Earbuds,8,86.67,693.36
+1346,2025-02-24,Kuala Lumpur,Ryan,Beauty,Lip Tint,7,45.63,319.41
+1347,2025-02-24,Johor,Farid,Electronics,Smartwatch,11,156.26,1718.86
+1348,2025-02-24,Kuala Lumpur,Ain,Beauty,Sunscreen,12,62.33,747.96
+1349,2025-02-24,Selangor,Ryan,Fashion,Wallet,11,108.3,1191.3
+1350,2025-02-25,Johor,Nadia,Home & Living,Storage Box,8,75.38,603.04
+1351,2025-02-25,Kuala Lumpur,Ain,Electronics,Wireless Earbuds,11,119.22,1311.42
+1352,2025-02-25,Kuala Lumpur,Divya,Home & Living,LED Lamp,2,89.26,178.52
+1353,2025-02-25,Sabah,Divya,Electronics,Smartwatch,12,87.72,1052.64
+1354,2025-02-25,Kuala Lumpur,Nadia,Home & Living,LED Lamp,3,84.22,252.66
+1355,2025-02-25,Kuala Lumpur,Wei Ling,Fashion,Sunglasses,4,82.01,328.04
+1356,2025-02-25,Sabah,Wei Ling,Home & Living,Blender,5,71.41,357.05
+1357,2025-02-26,Johor,Ryan,Beauty,Face Serum,6,61.16,366.96
+1358,2025-02-26,Sabah,Ryan,Fashion,Wallet,7,72.4,506.8
+1359,2025-02-26,Kuala Lumpur,Wei Ling,Beauty,Sunscreen,4,40.97,163.88
+1360,2025-02-26,Johor,Wei Ling,Electronics,Bluetooth Speaker,7,130.81,915.67
+1361,2025-02-26,Johor,Farid,Home & Living,Air Fryer,4,74.49,297.96
+1362,2025-02-26,Johor,Kumar,Fashion,Sneakers,9,108.65,977.85
+1363,2025-02-26,Selangor,Ain,Fashion,Wallet,11,101.11,1112.21
+1364,2025-02-26,Selangor,Siti,Home & Living,Storage Box,8,67.7,541.6
+1365,2025-02-27,Selangor,Divya,Home & Living,Storage Box,12,62.57,750.84
+1366,2025-02-27,Kuala Lumpur,Nadia,Home & Living,Blender,4,86.92,347.68
+1367,2025-02-27,Johor,Divya,Beauty,Lip Tint,5,39.74,198.7
+1368,2025-02-27,Johor,Siti,Electronics,Bluetooth Speaker,6,160.8,964.8
+1369,2025-02-27,Penang,Wei Ling,Beauty,Face Serum,10,58.72,587.2
+1370,2025-02-28,Penang,Kumar,Beauty,Lip Tint,3,37.68,113.04
+1371,2025-02-28,Johor,Siti,Home & Living,Blender,9,92.66,833.94
+1372,2025-02-28,Penang,Siti,Beauty,Hair Dryer,8,36.8,294.4
+1373,2025-03-01,Kuala Lumpur,Ain,Beauty,Sunscreen,9,62.7,564.3
+1374,2025-03-01,Sabah,Ain,Electronics,Wireless Earbuds,11,88.08,968.88
+1375,2025-03-01,Johor,Ain,Home & Living,Storage Box,2,95.6,191.2
+1376,2025-03-01,Kuala Lumpur,Divya,Beauty,Lip Tint,1,50.96,50.96
+1377,2025-03-02,Johor,Ain,Electronics,Wireless Earbuds,9,130.34,1173.06
+1378,2025-03-02,Selangor,Ryan,Fashion,Sunglasses,1,94.64,94.64
+1379,2025-03-02,Kuala Lumpur,Kumar,Electronics,Wireless Earbuds,9,96.51,868.59
+1380,2025-03-02,Sabah,Farid,Fashion,Sunglasses,5,113.08,565.4
+1381,2025-03-02,Penang,Kumar,Beauty,Hair Dryer,10,39.16,391.6
+1382,2025-03-02,Penang,Ryan,Electronics,Wireless Earbuds,2,118.04,236.08
+1383,2025-03-02,Sabah,Wei Ling,Beauty,Face Serum,11,31.8,349.8
+1384,2025-03-02,Selangor,Farid,Beauty,Hair Dryer,11,56.21,618.31
+1385,2025-03-03,Selangor,Divya,Home & Living,Storage Box,12,105.7,1268.4
+1386,2025-03-03,Penang,Ain,Electronics,Wireless Earbuds,11,161.75,1779.25
+1387,2025-03-03,Kuala Lumpur,Ryan,Fashion,Sneakers,4,99.98,399.92
+1388,2025-03-03,Selangor,Ryan,Fashion,Backpack,10,78.15,781.5
+1389,2025-03-03,Sabah,Farid,Fashion,Wallet,12,71.82,861.84
+1390,2025-03-03,Sabah,Farid,Fashion,Sneakers,2,90.54,181.08
+1391,2025-03-03,Penang,Divya,Beauty,Lip Tint,1,51.47,51.47
+1392,2025-03-04,Kuala Lumpur,Ryan,Fashion,Wallet,7,74.7,522.9
+1393,2025-03-04,Selangor,Nadia,Fashion,Backpack,12,67.63,811.56
+1394,2025-03-04,Kuala Lumpur,Siti,Beauty,Sunscreen,12,43.77,525.24
+1395,2025-03-04,Selangor,Nadia,Electronics,Wireless Earbuds,5,121.36,606.8
+1396,2025-03-04,Selangor,Ryan,Home & Living,LED Lamp,3,80.13,240.39
+1397,2025-03-04,Selangor,Siti,Electronics,Wireless Earbuds,6,130.55,783.3
+1398,2025-03-05,Johor,Farid,Electronics,Power Bank,7,116.58,816.06
+1399,2025-03-05,Sabah,Wei Ling,Home & Living,Storage Box,11,77.32,850.52
+1400,2025-03-05,Penang,Wei Ling,Fashion,Sunglasses,8,72.19,577.52
+1401,2025-03-05,Johor,Farid,Fashion,Wallet,5,93.51,467.55
+1402,2025-03-05,Penang,Kumar,Fashion,Backpack,12,102.38,1228.56
+1403,2025-03-05,Johor,Ryan,Electronics,Smartwatch,5,84.57,422.85
+1404,2025-03-05,Penang,Wei Ling,Beauty,Lip Tint,8,42.04,336.32
+1405,2025-03-05,Penang,Ryan,Fashion,Backpack,8,82.79,662.32
+1406,2025-03-05,Penang,Siti,Fashion,Wallet,10,112.26,1122.6
+1407,2025-03-06,Penang,Kumar,Beauty,Lip Tint,2,60.86,121.72
+1408,2025-03-06,Sabah,Kumar,Home & Living,LED Lamp,12,81.85,982.2
+1409,2025-03-06,Johor,Wei Ling,Fashion,Sneakers,7,105.4,737.8
+1410,2025-03-06,Penang,Ryan,Home & Living,Air Fryer,11,64.63,710.93
+1411,2025-03-06,Johor,Ryan,Electronics,Bluetooth Speaker,10,124.26,1242.6
+1412,2025-03-06,Sabah,Farid,Beauty,Face Serum,6,53.6,321.6
+1413,2025-03-07,Kuala Lumpur,Ryan,Fashion,Backpack,11,101.6,1117.6
+1414,2025-03-07,Penang,Kumar,Beauty,Face Serum,1,34.61,34.61
+1415,2025-03-07,Sabah,Wei Ling,Home & Living,Blender,6,77.9,467.4
+1416,2025-03-08,Selangor,Farid,Beauty,Face Serum,5,44.6,223.0
+1417,2025-03-08,Selangor,Kumar,Home & Living,Air Fryer,5,75.21,376.05
+1418,2025-03-08,Sabah,Divya,Beauty,Lip Tint,8,34.58,276.64
+1419,2025-03-08,Penang,Farid,Electronics,Power Bank,1,152.06,152.06
+1420,2025-03-08,Selangor,Kumar,Fashion,Sneakers,11,113.4,1247.4
+1421,2025-03-09,Kuala Lumpur,Divya,Home & Living,Air Fryer,9,79.88,718.92
+1422,2025-03-09,Kuala Lumpur,Ryan,Beauty,Sunscreen,3,51.68,155.04
+1423,2025-03-09,Johor,Ryan,Electronics,Smartwatch,8,133.75,1070.0
+1424,2025-03-09,Selangor,Farid,Home & Living,Storage Box,5,98.13,490.65
+1425,2025-03-09,Sabah,Divya,Electronics,Smartwatch,6,111.38,668.28
+1426,2025-03-09,Selangor,Siti,Fashion,Wallet,9,123.85,1114.65
+1427,2025-03-09,Sabah,Siti,Beauty,Hair Dryer,10,35.1,351.0
+1428,2025-03-10,Johor,Wei Ling,Home & Living,Air Fryer,10,89.05,890.5
+1429,2025-03-10,Penang,Siti,Electronics,Smartwatch,5,93.82,469.1
+1430,2025-03-10,Kuala Lumpur,Ryan,Beauty,Hair Dryer,10,35.84,358.4
+1431,2025-03-10,Johor,Wei Ling,Home & Living,Blender,11,86.09,946.99
+1432,2025-03-10,Sabah,Siti,Home & Living,Blender,5,63.86,319.3
+1433,2025-03-10,Johor,Kumar,Electronics,Power Bank,1,124.71,124.71
+1434,2025-03-10,Johor,Divya,Beauty,Hair Dryer,11,46.99,516.89
+1435,2025-03-10,Johor,Kumar,Home & Living,LED Lamp,10,57.73,577.3
+1436,2025-03-10,Penang,Wei Ling,Electronics,Power Bank,4,129.16,516.64
+1437,2025-03-11,Johor,Siti,Beauty,Face Serum,10,35.1,351.0
+1438,2025-03-11,Sabah,Ryan,Electronics,Bluetooth Speaker,9,102.36,921.24
+1439,2025-03-11,Selangor,Siti,Home & Living,Air Fryer,1,81.19,81.19
+1440,2025-03-11,Selangor,Siti,Beauty,Face Serum,4,38.11,152.44
+1441,2025-03-11,Sabah,Kumar,Beauty,Sunscreen,10,35.89,358.9
+1442,2025-03-11,Kuala Lumpur,Wei Ling,Electronics,Power Bank,9,107.61,968.49
+1443,2025-03-11,Penang,Farid,Fashion,Sunglasses,10,79.84,798.4
+1444,2025-03-11,Kuala Lumpur,Wei Ling,Beauty,Face Serum,5,58.81,294.05
+1445,2025-03-11,Kuala Lumpur,Kumar,Home & Living,Storage Box,12,74.04,888.48
+1446,2025-03-12,Johor,Ryan,Beauty,Sunscreen,10,51.42,514.2
+1447,2025-03-12,Johor,Farid,Beauty,Face Serum,11,56.53,621.83
+1448,2025-03-12,Johor,Siti,Fashion,Sunglasses,8,122.87,982.96
+1449,2025-03-12,Sabah,Siti,Electronics,Wireless Earbuds,12,165.66,1987.92
+1450,2025-03-12,Selangor,Divya,Beauty,Sunscreen,7,57.48,402.36
+1451,2025-03-12,Penang,Wei Ling,Fashion,Sunglasses,6,97.48,584.88
+1452,2025-03-12,Sabah,Ain,Beauty,Lip Tint,11,55.51,610.61
+1453,2025-03-12,Selangor,Wei Ling,Beauty,Face Serum,2,60.78,121.56
+1454,2025-03-12,Johor,Wei Ling,Beauty,Face Serum,7,37.87,265.09
+1455,2025-03-13,Penang,Nadia,Home & Living,Air Fryer,2,92.66,185.32
+1456,2025-03-13,Selangor,Nadia,Fashion,Backpack,1,87.97,87.97
+1457,2025-03-13,Kuala Lumpur,Kumar,Beauty,Face Serum,12,34.5,414.0
+1458,2025-03-13,Johor,Divya,Electronics,Smartwatch,10,103.0,1030.0
+1459,2025-03-13,Selangor,Ryan,Electronics,Power Bank,2,167.01,334.02
+1460,2025-03-13,Kuala Lumpur,Farid,Beauty,Face Serum,4,43.57,174.28
+1461,2025-03-13,Selangor,Wei Ling,Fashion,Sunglasses,5,71.64,358.2
+1462,2025-03-13,Kuala Lumpur,Divya,Electronics,Wireless Earbuds,10,138.6,1386.0
+1463,2025-03-14,Kuala Lumpur,Kumar,Home & Living,Blender,10,94.45,944.5
+1464,2025-03-14,Selangor,Ryan,Electronics,Smartwatch,2,133.52,267.04
+1465,2025-03-14,Penang,Farid,Beauty,Lip Tint,3,39.31,117.93
+1466,2025-03-14,Kuala Lumpur,Kumar,Fashion,Sneakers,11,118.18,1299.98
+1467,2025-03-14,Sabah,Kumar,Home & Living,Blender,5,92.19,460.95
+1468,2025-03-15,Johor,Farid,Electronics,Smartwatch,8,137.6,1100.8
+1469,2025-03-15,Sabah,Ryan,Electronics,Power Bank,6,95.09,570.54
+1470,2025-03-15,Penang,Farid,Home & Living,Blender,2,56.93,113.86
+1471,2025-03-15,Selangor,Ryan,Fashion,Backpack,1,121.12,121.12
+1472,2025-03-15,Sabah,Farid,Fashion,Wallet,7,107.21,750.47
+1473,2025-03-15,Sabah,Kumar,Home & Living,Air Fryer,2,73.35,146.7
+1474,2025-03-16,Kuala Lumpur,Farid,Fashion,Wallet,10,102.96,1029.6
+1475,2025-03-16,Penang,Ryan,Beauty,Sunscreen,1,39.2,39.2
+1476,2025-03-16,Selangor,Wei Ling,Beauty,Face Serum,5,52.48,262.4
+1477,2025-03-16,Selangor,Divya,Electronics,Smartwatch,12,84.95,1019.4
+1478,2025-03-16,Penang,Nadia,Fashion,Backpack,6,71.0,426.0
+1479,2025-03-16,Selangor,Farid,Electronics,Power Bank,7,106.85,747.95
+1480,2025-03-16,Penang,Ain,Electronics,Bluetooth Speaker,8,126.91,1015.28
+1481,2025-03-16,Johor,Farid,Home & Living,Air Fryer,3,70.29,210.87
+1482,2025-03-16,Sabah,Ain,Electronics,Smartwatch,12,126.74,1520.88
+1483,2025-03-17,Selangor,Wei Ling,Home & Living,LED Lamp,8,76.38,611.04
+1484,2025-03-17,Kuala Lumpur,Ryan,Electronics,Bluetooth Speaker,4,111.03,444.12
+1485,2025-03-17,Penang,Ain,Fashion,Sneakers,10,86.49,864.9
+1486,2025-03-17,Kuala Lumpur,Divya,Home & Living,LED Lamp,7,59.86,419.02
+1487,2025-03-17,Penang,Ain,Fashion,Sunglasses,2,97.84,195.68
+1488,2025-03-17,Penang,Kumar,Home & Living,Air Fryer,10,99.93,999.3
+1489,2025-03-17,Johor,Kumar,Fashion,Wallet,4,109.15,436.6
+1490,2025-03-17,Kuala Lumpur,Siti,Electronics,Bluetooth Speaker,1,103.57,103.57
+1491,2025-03-17,Selangor,Nadia,Fashion,Sneakers,11,86.71,953.81
+1492,2025-03-18,Kuala Lumpur,Wei Ling,Home & Living,Blender,8,109.83,878.64
+1493,2025-03-18,Penang,Ryan,Electronics,Wireless Earbuds,4,159.37,637.48
+1494,2025-03-18,Penang,Wei Ling,Beauty,Face Serum,10,34.51,345.1
+1495,2025-03-19,Johor,Wei Ling,Electronics,Wireless Earbuds,7,139.65,977.55
+1496,2025-03-19,Kuala Lumpur,Ryan,Fashion,Sunglasses,6,121.34,728.04
+1497,2025-03-19,Penang,Kumar,Fashion,Wallet,5,77.72,388.6
+1498,2025-03-19,Kuala Lumpur,Divya,Electronics,Smartwatch,2,97.81,195.62
+1499,2025-03-19,Penang,Kumar,Beauty,Face Serum,9,42.79,385.11
+1500,2025-03-19,Johor,Farid,Fashion,Wallet,5,116.71,583.55
+1501,2025-03-19,Kuala Lumpur,Siti,Fashion,Sneakers,4,115.66,462.64
+1502,2025-03-19,Kuala Lumpur,Ain,Electronics,Smartwatch,6,117.28,703.68
+1503,2025-03-20,Penang,Divya,Fashion,Backpack,1,122.98,122.98
+1504,2025-03-20,Sabah,Wei Ling,Home & Living,LED Lamp,8,61.71,493.68
+1505,2025-03-20,Selangor,Ryan,Electronics,Wireless Earbuds,4,94.98,379.92
+1506,2025-03-20,Penang,Farid,Electronics,Power Bank,2,85.83,171.66
+1507,2025-03-20,Kuala Lumpur,Siti,Beauty,Sunscreen,2,60.01,120.02
+1508,2025-03-20,Selangor,Ryan,Electronics,Bluetooth Speaker,1,98.11,98.11
+1509,2025-03-20,Johor,Wei Ling,Beauty,Face Serum,7,53.02,371.14
+1510,2025-03-20,Penang,Wei Ling,Home & Living,Storage Box,5,71.67,358.35
+1511,2025-03-21,Sabah,Divya,Home & Living,Air Fryer,8,79.07,632.56
+1512,2025-03-21,Selangor,Kumar,Electronics,Power Bank,7,95.53,668.71
+1513,2025-03-21,Sabah,Siti,Home & Living,LED Lamp,7,99.79,698.53
+1514,2025-03-22,Sabah,Ryan,Beauty,Lip Tint,10,47.33,473.3
+1515,2025-03-22,Penang,Ain,Home & Living,LED Lamp,6,89.44,536.64
+1516,2025-03-22,Penang,Kumar,Electronics,Bluetooth Speaker,9,114.02,1026.18
+1517,2025-03-22,Kuala Lumpur,Ain,Electronics,Smartwatch,11,104.26,1146.86
+1518,2025-03-22,Kuala Lumpur,Siti,Beauty,Lip Tint,3,37.05,111.15
+1519,2025-03-22,Penang,Kumar,Electronics,Power Bank,10,131.34,1313.4
+1520,2025-03-23,Johor,Ain,Fashion,Backpack,8,65.39,523.12
+1521,2025-03-23,Kuala Lumpur,Siti,Home & Living,LED Lamp,9,82.77,744.93
+1522,2025-03-23,Sabah,Siti,Home & Living,Storage Box,6,96.15,576.9
+1523,2025-03-23,Selangor,Wei Ling,Electronics,Smartwatch,10,143.19,1431.9
+1524,2025-03-23,Selangor,Ryan,Fashion,Sneakers,6,107.39,644.34
+1525,2025-03-23,Sabah,Wei Ling,Electronics,Power Bank,5,111.1,555.5
+1526,2025-03-23,Johor,Siti,Beauty,Lip Tint,3,53.78,161.34
+1527,2025-03-23,Kuala Lumpur,Nadia,Home & Living,Blender,5,97.1,485.5
+1528,2025-03-23,Kuala Lumpur,Ryan,Home & Living,LED Lamp,12,109.13,1309.56
+1529,2025-03-24,Sabah,Kumar,Electronics,Smartwatch,10,110.73,1107.3
+1530,2025-03-24,Sabah,Farid,Electronics,Bluetooth Speaker,3,111.82,335.46
+1531,2025-03-24,Kuala Lumpur,Farid,Fashion,Sunglasses,3,103.08,309.24
+1532,2025-03-24,Penang,Farid,Beauty,Face Serum,5,38.11,190.55
+1533,2025-03-24,Penang,Ryan,Fashion,Sneakers,12,63.08,756.96
+1534,2025-03-24,Johor,Ryan,Beauty,Sunscreen,7,47.03,329.21
+1535,2025-03-24,Penang,Kumar,Beauty,Face Serum,8,56.34,450.72
+1536,2025-03-24,Kuala Lumpur,Siti,Beauty,Face Serum,1,40.79,40.79
+1537,2025-03-24,Penang,Ryan,Electronics,Wireless Earbuds,6,98.29,589.74
+1538,2025-03-25,Selangor,Divya,Electronics,Power Bank,10,166.76,1667.6
+1539,2025-03-25,Selangor,Wei Ling,Beauty,Sunscreen,10,59.53,595.3
+1540,2025-03-25,Selangor,Ryan,Electronics,Power Bank,4,165.85,663.4
+1541,2025-03-25,Sabah,Ain,Fashion,Sunglasses,5,77.97,389.85
+1542,2025-03-26,Sabah,Ryan,Beauty,Sunscreen,1,42.87,42.87
+1543,2025-03-26,Selangor,Kumar,Fashion,Wallet,4,69.11,276.44
+1544,2025-03-26,Kuala Lumpur,Nadia,Fashion,Sneakers,8,116.16,929.28
+1545,2025-03-26,Johor,Ryan,Beauty,Hair Dryer,11,39.85,438.35
+1546,2025-03-26,Kuala Lumpur,Ain,Fashion,Wallet,6,74.75,448.5
+1547,2025-03-26,Penang,Nadia,Beauty,Hair Dryer,5,38.63,193.15
+1548,2025-03-27,Selangor,Ryan,Home & Living,LED Lamp,2,93.42,186.84
+1549,2025-03-27,Sabah,Ryan,Home & Living,LED Lamp,7,101.83,712.81
+1550,2025-03-27,Sabah,Ryan,Beauty,Sunscreen,8,40.91,327.28
+1551,2025-03-27,Selangor,Wei Ling,Home & Living,LED Lamp,8,65.68,525.44
+1552,2025-03-27,Kuala Lumpur,Ryan,Home & Living,Storage Box,1,79.71,79.71
+1553,2025-03-27,Kuala Lumpur,Farid,Home & Living,Air Fryer,6,107.01,642.06
+1554,2025-03-27,Selangor,Nadia,Beauty,Hair Dryer,9,41.77,375.93
+1555,2025-03-28,Johor,Wei Ling,Electronics,Bluetooth Speaker,2,118.81,237.62
+1556,2025-03-28,Sabah,Nadia,Electronics,Wireless Earbuds,10,149.48,1494.8
+1557,2025-03-28,Sabah,Divya,Fashion,Wallet,5,87.13,435.65
+1558,2025-03-28,Sabah,Wei Ling,Beauty,Face Serum,3,40.18,120.54
+1559,2025-03-28,Sabah,Siti,Beauty,Face Serum,7,59.52,416.64
+1560,2025-03-28,Kuala Lumpur,Ain,Electronics,Bluetooth Speaker,5,159.35,796.75
+1561,2025-03-28,Penang,Farid,Fashion,Sunglasses,5,116.1,580.5
+1562,2025-03-29,Kuala Lumpur,Siti,Home & Living,Air Fryer,12,80.81,969.72
+1563,2025-03-29,Penang,Ryan,Beauty,Face Serum,4,45.41,181.64
+1564,2025-03-29,Johor,Farid,Fashion,Sneakers,9,112.86,1015.74
+1565,2025-03-29,Penang,Ain,Beauty,Sunscreen,9,59.2,532.8
+1566,2025-03-29,Kuala Lumpur,Divya,Home & Living,Storage Box,1,69.97,69.97
+1567,2025-03-29,Selangor,Divya,Fashion,Backpack,5,86.21,431.05
+1568,2025-03-29,Sabah,Siti,Beauty,Face Serum,11,32.46,357.06
+1569,2025-03-29,Johor,Siti,Beauty,Sunscreen,8,49.99,399.92
+1570,2025-03-29,Penang,Farid,Home & Living,Air Fryer,12,102.53,1230.36
+1571,2025-03-30,Selangor,Kumar,Beauty,Face Serum,3,58.4,175.2
+1572,2025-03-30,Kuala Lumpur,Ain,Home & Living,Storage Box,5,92.49,462.45
+1573,2025-03-30,Selangor,Ain,Beauty,Sunscreen,11,36.96,406.56
+1574,2025-03-30,Kuala Lumpur,Nadia,Fashion,Sunglasses,12,123.92,1487.04
+1575,2025-03-30,Johor,Divya,Beauty,Lip Tint,8,39.44,315.52
+1576,2025-03-31,Sabah,Siti,Beauty,Face Serum,1,47.61,47.61
+1577,2025-03-31,Sabah,Farid,Fashion,Sunglasses,11,69.81,767.91
+1578,2025-03-31,Penang,Nadia,Fashion,Sunglasses,5,79.45,397.25
+1579,2025-03-31,Kuala Lumpur,Ryan,Home & Living,Storage Box,1,101.1,101.1
+1580,2025-03-31,Penang,Nadia,Home & Living,LED Lamp,11,83.85,922.35
+1581,2025-04-01,Johor,Kumar,Beauty,Hair Dryer,12,32.61,391.32
+1582,2025-04-01,Penang,Nadia,Home & Living,Blender,11,76.08,836.88
+1583,2025-04-01,Kuala Lumpur,Nadia,Home & Living,Air Fryer,2,82.36,164.72
+1584,2025-04-01,Sabah,Siti,Home & Living,Air Fryer,11,61.0,671.0
+1585,2025-04-01,Kuala Lumpur,Nadia,Fashion,Wallet,6,86.42,518.52
+1586,2025-04-02,Selangor,Farid,Beauty,Face Serum,11,49.88,548.68
+1587,2025-04-02,Johor,Nadia,Home & Living,LED Lamp,11,77.37,851.07
+1588,2025-04-02,Johor,Siti,Electronics,Smartwatch,3,167.36,502.08
+1589,2025-04-02,Johor,Wei Ling,Beauty,Sunscreen,6,58.67,352.02
+1590,2025-04-02,Selangor,Siti,Beauty,Lip Tint,11,62.58,688.38
+1591,2025-04-02,Selangor,Wei Ling,Electronics,Bluetooth Speaker,5,101.59,507.95
+1592,2025-04-03,Kuala Lumpur,Ryan,Beauty,Face Serum,3,50.86,152.58
+1593,2025-04-03,Johor,Kumar,Beauty,Hair Dryer,7,31.65,221.55
+1594,2025-04-03,Penang,Ain,Electronics,Power Bank,9,100.01,900.09
+1595,2025-04-03,Kuala Lumpur,Ryan,Home & Living,Air Fryer,5,63.22,316.1
+1596,2025-04-03,Sabah,Nadia,Fashion,Backpack,2,114.9,229.8
+1597,2025-04-03,Penang,Wei Ling,Beauty,Lip Tint,7,59.47,416.29
+1598,2025-04-03,Penang,Ryan,Beauty,Lip Tint,4,36.69,146.76
+1599,2025-04-04,Kuala Lumpur,Wei Ling,Home & Living,Storage Box,4,97.11,388.44
+1600,2025-04-04,Selangor,Nadia,Fashion,Sneakers,7,118.22,827.54
+1601,2025-04-04,Sabah,Ain,Electronics,Wireless Earbuds,11,93.08,1023.88
+1602,2025-04-05,Selangor,Nadia,Beauty,Hair Dryer,7,35.39,247.73
+1603,2025-04-05,Johor,Ain,Home & Living,Storage Box,12,94.4,1132.8
+1604,2025-04-05,Penang,Wei Ling,Beauty,Face Serum,11,47.89,526.79
+1605,2025-04-06,Selangor,Divya,Electronics,Power Bank,2,149.92,299.84
+1606,2025-04-06,Kuala Lumpur,Siti,Home & Living,Air Fryer,9,110.49,994.41
+1607,2025-04-06,Johor,Kumar,Fashion,Backpack,1,97.53,97.53
+1608,2025-04-06,Johor,Farid,Fashion,Backpack,1,63.8,63.8
+1609,2025-04-06,Selangor,Farid,Beauty,Sunscreen,2,56.06,112.12
+1610,2025-04-06,Selangor,Nadia,Fashion,Backpack,8,125.29,1002.32
+1611,2025-04-07,Johor,Nadia,Electronics,Wireless Earbuds,3,157.43,472.29
+1612,2025-04-07,Penang,Ain,Fashion,Wallet,12,70.3,843.6
+1613,2025-04-07,Selangor,Divya,Home & Living,Storage Box,6,76.02,456.12
+1614,2025-04-07,Sabah,Wei Ling,Fashion,Sneakers,6,114.34,686.04
+1615,2025-04-07,Selangor,Ryan,Beauty,Hair Dryer,8,40.06,320.48
+1616,2025-04-08,Johor,Ain,Beauty,Sunscreen,2,35.67,71.34
+1617,2025-04-08,Kuala Lumpur,Divya,Electronics,Bluetooth Speaker,10,124.54,1245.4
+1618,2025-04-08,Kuala Lumpur,Wei Ling,Beauty,Lip Tint,10,32.41,324.1
+1619,2025-04-08,Johor,Farid,Beauty,Face Serum,7,45.38,317.66
+1620,2025-04-08,Penang,Kumar,Fashion,Sneakers,12,117.7,1412.4
+1621,2025-04-08,Penang,Divya,Electronics,Bluetooth Speaker,11,145.04,1595.44
+1622,2025-04-08,Penang,Ain,Beauty,Sunscreen,9,59.6,536.4
+1623,2025-04-08,Selangor,Farid,Home & Living,Blender,8,104.69,837.52
+1624,2025-04-09,Johor,Ain,Fashion,Backpack,6,124.12,744.72
+1625,2025-04-09,Sabah,Farid,Home & Living,Blender,7,101.76,712.32
+1626,2025-04-09,Johor,Divya,Beauty,Hair Dryer,2,58.48,116.96
+1627,2025-04-09,Penang,Farid,Electronics,Bluetooth Speaker,12,138.88,1666.56
+1628,2025-04-09,Johor,Farid,Beauty,Face Serum,9,48.8,439.2
+1629,2025-04-09,Sabah,Siti,Fashion,Backpack,11,105.3,1158.3
+1630,2025-04-09,Penang,Divya,Electronics,Smartwatch,8,111.89,895.12
+1631,2025-04-09,Penang,Kumar,Beauty,Face Serum,2,55.42,110.84
+1632,2025-04-09,Selangor,Nadia,Fashion,Sunglasses,11,123.76,1361.36
+1633,2025-04-10,Sabah,Divya,Fashion,Sneakers,1,119.5,119.5
+1634,2025-04-10,Kuala Lumpur,Kumar,Beauty,Face Serum,5,50.74,253.7
+1635,2025-04-10,Selangor,Kumar,Beauty,Sunscreen,8,57.47,459.76
+1636,2025-04-10,Penang,Farid,Electronics,Bluetooth Speaker,1,161.84,161.84
+1637,2025-04-10,Johor,Ain,Beauty,Sunscreen,8,31.64,253.12
+1638,2025-04-10,Sabah,Wei Ling,Beauty,Hair Dryer,9,56.1,504.9
+1639,2025-04-10,Sabah,Siti,Home & Living,Storage Box,2,77.69,155.38
+1640,2025-04-11,Johor,Siti,Beauty,Sunscreen,5,44.03,220.15
+1641,2025-04-11,Penang,Nadia,Beauty,Sunscreen,3,44.5,133.5
+1642,2025-04-11,Sabah,Nadia,Fashion,Backpack,4,76.21,304.84
+1643,2025-04-11,Penang,Siti,Home & Living,Storage Box,9,86.38,777.42
+1644,2025-04-11,Selangor,Ryan,Fashion,Wallet,10,98.95,989.5
+1645,2025-04-11,Sabah,Ain,Fashion,Wallet,1,95.93,95.93
+1646,2025-04-11,Johor,Nadia,Home & Living,LED Lamp,11,59.17,650.87
+1647,2025-04-12,Kuala Lumpur,Nadia,Fashion,Sunglasses,3,115.88,347.64
+1648,2025-04-12,Kuala Lumpur,Kumar,Electronics,Power Bank,8,92.61,740.88
+1649,2025-04-12,Sabah,Nadia,Beauty,Sunscreen,9,56.21,505.89
+1650,2025-04-12,Selangor,Siti,Beauty,Hair Dryer,7,61.64,431.48
+1651,2025-04-12,Sabah,Divya,Electronics,Wireless Earbuds,12,105.11,1261.32
+1652,2025-04-12,Kuala Lumpur,Nadia,Fashion,Backpack,12,123.75,1485.0
+1653,2025-04-12,Johor,Farid,Home & Living,LED Lamp,3,109.9,329.7
+1654,2025-04-12,Johor,Wei Ling,Electronics,Bluetooth Speaker,5,130.75,653.75
+1655,2025-04-12,Kuala Lumpur,Wei Ling,Fashion,Sneakers,6,92.38,554.28
+1656,2025-04-13,Kuala Lumpur,Nadia,Fashion,Sneakers,11,101.78,1119.58
+1657,2025-04-13,Johor,Kumar,Fashion,Sneakers,12,83.03,996.36
+1658,2025-04-13,Kuala Lumpur,Ryan,Electronics,Smartwatch,7,129.62,907.34
+1659,2025-04-14,Penang,Siti,Home & Living,Storage Box,11,74.59,820.49
+1660,2025-04-14,Penang,Ain,Home & Living,Blender,9,102.13,919.17
+1661,2025-04-14,Selangor,Kumar,Fashion,Wallet,4,119.98,479.92
+1662,2025-04-15,Penang,Nadia,Beauty,Face Serum,7,39.58,277.06
+1663,2025-04-15,Selangor,Kumar,Fashion,Wallet,8,65.76,526.08
+1664,2025-04-15,Penang,Ain,Electronics,Wireless Earbuds,3,165.62,496.86
+1665,2025-04-16,Selangor,Farid,Home & Living,Storage Box,11,79.76,877.36
+1666,2025-04-16,Kuala Lumpur,Ain,Beauty,Face Serum,12,53.11,637.32
+1667,2025-04-16,Johor,Wei Ling,Fashion,Sneakers,2,67.61,135.22
+1668,2025-04-16,Penang,Divya,Electronics,Smartwatch,5,118.24,591.2
+1669,2025-04-16,Johor,Farid,Beauty,Lip Tint,1,43.77,43.77
+1670,2025-04-16,Sabah,Farid,Electronics,Wireless Earbuds,12,133.19,1598.28
+1671,2025-04-16,Penang,Farid,Electronics,Power Bank,11,109.31,1202.41
+1672,2025-04-16,Penang,Ain,Beauty,Hair Dryer,7,57.4,401.8
+1673,2025-04-17,Kuala Lumpur,Nadia,Home & Living,Storage Box,12,77.9,934.8
+1674,2025-04-17,Kuala Lumpur,Wei Ling,Fashion,Sunglasses,1,97.87,97.87
+1675,2025-04-17,Selangor,Farid,Electronics,Wireless Earbuds,10,134.12,1341.2
+1676,2025-04-17,Penang,Wei Ling,Home & Living,Air Fryer,4,79.11,316.44
+1677,2025-04-17,Kuala Lumpur,Kumar,Home & Living,Storage Box,10,102.75,1027.5
+1678,2025-04-17,Selangor,Farid,Home & Living,LED Lamp,9,81.83,736.47
+1679,2025-04-18,Selangor,Divya,Fashion,Sneakers,4,108.71,434.84
+1680,2025-04-18,Penang,Farid,Fashion,Backpack,11,104.29,1147.19
+1681,2025-04-18,Penang,Siti,Electronics,Smartwatch,6,124.81,748.86
+1682,2025-04-18,Sabah,Siti,Fashion,Backpack,10,98.71,987.1
+1683,2025-04-18,Johor,Kumar,Home & Living,LED Lamp,6,69.79,418.74
+1684,2025-04-19,Johor,Siti,Fashion,Sunglasses,3,105.81,317.43
+1685,2025-04-19,Johor,Divya,Beauty,Hair Dryer,6,55.91,335.46
+1686,2025-04-19,Sabah,Nadia,Electronics,Smartwatch,11,134.96,1484.56
+1687,2025-04-19,Kuala Lumpur,Farid,Home & Living,Air Fryer,12,105.63,1267.56
+1688,2025-04-19,Selangor,Kumar,Electronics,Wireless Earbuds,10,132.63,1326.3
+1689,2025-04-19,Selangor,Siti,Fashion,Wallet,11,111.84,1230.24
+1690,2025-04-19,Johor,Farid,Home & Living,Air Fryer,3,82.02,246.06
+1691,2025-04-19,Johor,Wei Ling,Fashion,Sneakers,11,78.05,858.55
+1692,2025-04-20,Sabah,Wei Ling,Home & Living,Blender,3,66.03,198.09
+1693,2025-04-20,Johor,Kumar,Fashion,Sneakers,4,110.97,443.88
+1694,2025-04-20,Selangor,Kumar,Fashion,Sunglasses,4,65.7,262.8
+1695,2025-04-20,Sabah,Ain,Fashion,Wallet,8,120.83,966.64
+1696,2025-04-20,Selangor,Nadia,Fashion,Sneakers,12,124.01,1488.12
+1697,2025-04-20,Penang,Farid,Home & Living,Blender,11,77.2,849.2
+1698,2025-04-20,Sabah,Siti,Fashion,Wallet,4,95.53,382.12
+1699,2025-04-20,Penang,Wei Ling,Beauty,Hair Dryer,10,31.71,317.1
+1700,2025-04-20,Johor,Nadia,Home & Living,Storage Box,2,84.81,169.62
+1701,2025-04-21,Kuala Lumpur,Farid,Home & Living,Storage Box,6,89.71,538.26
+1702,2025-04-21,Kuala Lumpur,Divya,Beauty,Lip Tint,12,35.07,420.84
+1703,2025-04-21,Johor,Ain,Home & Living,Storage Box,11,102.67,1129.37
+1704,2025-04-21,Kuala Lumpur,Wei Ling,Electronics,Smartwatch,10,133.76,1337.6
+1705,2025-04-22,Sabah,Wei Ling,Electronics,Smartwatch,1,97.97,97.97
+1706,2025-04-22,Sabah,Nadia,Beauty,Face Serum,12,54.43,653.16
+1707,2025-04-22,Selangor,Divya,Home & Living,Blender,10,111.6,1116.0
+1708,2025-04-22,Kuala Lumpur,Wei Ling,Home & Living,Blender,10,63.99,639.9
+1709,2025-04-22,Sabah,Divya,Fashion,Backpack,12,106.19,1274.28
+1710,2025-04-22,Sabah,Farid,Electronics,Smartwatch,7,116.38,814.66
+1711,2025-04-22,Selangor,Wei Ling,Home & Living,Blender,3,89.91,269.73
+1712,2025-04-22,Johor,Wei Ling,Electronics,Wireless Earbuds,2,124.51,249.02
+1713,2025-04-23,Sabah,Ain,Electronics,Bluetooth Speaker,9,119.34,1074.06
+1714,2025-04-23,Sabah,Ryan,Beauty,Sunscreen,8,56.37,450.96
+1715,2025-04-23,Penang,Kumar,Electronics,Bluetooth Speaker,3,105.38,316.14
+1716,2025-04-23,Selangor,Ain,Fashion,Wallet,5,74.91,374.55
+1717,2025-04-23,Sabah,Siti,Electronics,Wireless Earbuds,7,138.98,972.86
+1718,2025-04-23,Johor,Nadia,Fashion,Sneakers,3,89.84,269.52
+1719,2025-04-23,Penang,Ryan,Beauty,Lip Tint,10,40.18,401.8
+1720,2025-04-24,Kuala Lumpur,Divya,Beauty,Hair Dryer,3,43.16,129.48
+1721,2025-04-24,Penang,Wei Ling,Fashion,Sunglasses,12,88.08,1056.96
+1722,2025-04-24,Selangor,Farid,Home & Living,Blender,12,109.16,1309.92
+1723,2025-04-24,Kuala Lumpur,Ain,Beauty,Lip Tint,9,50.84,457.56
+1724,2025-04-24,Kuala Lumpur,Divya,Beauty,Face Serum,2,57.43,114.86
+1725,2025-04-24,Sabah,Siti,Beauty,Face Serum,2,39.79,79.58
+1726,2025-04-24,Selangor,Nadia,Electronics,Bluetooth Speaker,7,135.57,948.99
+1727,2025-04-24,Sabah,Ain,Electronics,Smartwatch,11,125.53,1380.83
+1728,2025-04-24,Kuala Lumpur,Kumar,Fashion,Backpack,1,112.39,112.39
+1729,2025-04-25,Kuala Lumpur,Wei Ling,Electronics,Power Bank,4,139.02,556.08
+1730,2025-04-25,Selangor,Ryan,Fashion,Wallet,6,105.19,631.14
+1731,2025-04-25,Sabah,Farid,Home & Living,LED Lamp,12,95.4,1144.8
+1732,2025-04-25,Sabah,Nadia,Fashion,Sunglasses,6,123.69,742.14
+1733,2025-04-25,Kuala Lumpur,Nadia,Home & Living,Blender,7,88.19,617.33
+1734,2025-04-25,Kuala Lumpur,Nadia,Beauty,Face Serum,9,33.78,304.02
+1735,2025-04-25,Penang,Nadia,Electronics,Power Bank,9,152.3,1370.7
+1736,2025-04-26,Johor,Divya,Beauty,Hair Dryer,4,55.36,221.44
+1737,2025-04-26,Johor,Ryan,Electronics,Bluetooth Speaker,2,105.66,211.32
+1738,2025-04-26,Kuala Lumpur,Ain,Home & Living,Air Fryer,7,109.5,766.5
+1739,2025-04-26,Penang,Siti,Home & Living,Air Fryer,2,78.34,156.68
+1740,2025-04-26,Selangor,Nadia,Home & Living,Blender,6,75.8,454.8
+1741,2025-04-26,Kuala Lumpur,Kumar,Home & Living,Blender,12,67.18,806.16
+1742,2025-04-26,Penang,Siti,Home & Living,Storage Box,4,102.76,411.04
+1743,2025-04-26,Kuala Lumpur,Divya,Electronics,Wireless Earbuds,2,140.77,281.54
+1744,2025-04-27,Selangor,Divya,Electronics,Bluetooth Speaker,6,136.14,816.84
+1745,2025-04-27,Sabah,Nadia,Fashion,Wallet,3,125.02,375.06
+1746,2025-04-27,Johor,Ryan,Home & Living,Storage Box,1,85.44,85.44
+1747,2025-04-27,Johor,Wei Ling,Electronics,Power Bank,7,156.27,1093.89
+1748,2025-04-27,Johor,Ain,Electronics,Bluetooth Speaker,6,141.89,851.34
+1749,2025-04-27,Kuala Lumpur,Nadia,Beauty,Face Serum,6,42.89,257.34
+1750,2025-04-27,Kuala Lumpur,Siti,Fashion,Backpack,5,92.69,463.45
+1751,2025-04-28,Kuala Lumpur,Siti,Beauty,Hair Dryer,4,44.7,178.8
+1752,2025-04-28,Penang,Wei Ling,Beauty,Lip Tint,8,37.17,297.36
+1753,2025-04-28,Sabah,Kumar,Home & Living,LED Lamp,12,71.12,853.44
+1754,2025-04-28,Sabah,Wei Ling,Beauty,Hair Dryer,4,36.09,144.36
+1755,2025-04-28,Johor,Siti,Electronics,Smartwatch,7,125.97,881.79
+1756,2025-04-29,Johor,Ain,Fashion,Sunglasses,9,117.09,1053.81
+1757,2025-04-29,Johor,Nadia,Electronics,Smartwatch,1,102.1,102.1
+1758,2025-04-29,Johor,Siti,Electronics,Bluetooth Speaker,12,112.11,1345.32
+1759,2025-04-29,Penang,Siti,Fashion,Sunglasses,1,88.94,88.94
+1760,2025-04-29,Sabah,Divya,Home & Living,Storage Box,5,75.89,379.45
+1761,2025-04-29,Johor,Wei Ling,Electronics,Bluetooth Speaker,10,108.07,1080.7
+1762,2025-04-29,Kuala Lumpur,Ryan,Fashion,Wallet,11,101.58,1117.38
+1763,2025-04-29,Selangor,Siti,Electronics,Smartwatch,6,103.17,619.02
+1764,2025-04-29,Penang,Siti,Fashion,Wallet,5,118.92,594.6
+1765,2025-04-30,Sabah,Ain,Beauty,Hair Dryer,3,37.29,111.87
+1766,2025-04-30,Kuala Lumpur,Farid,Home & Living,Air Fryer,12,95.24,1142.88
+1767,2025-04-30,Kuala Lumpur,Divya,Home & Living,Blender,2,61.35,122.7
+1768,2025-04-30,Sabah,Farid,Electronics,Wireless Earbuds,7,128.01,896.07
+1769,2025-04-30,Selangor,Ryan,Fashion,Backpack,2,104.25,208.5
+1770,2025-04-30,Penang,Wei Ling,Home & Living,Storage Box,12,71.91,862.92
+1771,2025-04-30,Kuala Lumpur,Siti,Home & Living,LED Lamp,1,93.16,93.16
+1772,2025-04-30,Johor,Wei Ling,Beauty,Lip Tint,9,45.51,409.59
+1773,2025-05-01,Sabah,Nadia,Beauty,Hair Dryer,9,51.65,464.85
+1774,2025-05-01,Penang,Siti,Beauty,Sunscreen,2,45.42,90.84
+1775,2025-05-01,Johor,Wei Ling,Fashion,Backpack,5,63.67,318.35
+1776,2025-05-01,Penang,Divya,Fashion,Wallet,9,63.52,571.68
+1777,2025-05-01,Johor,Kumar,Fashion,Sneakers,7,113.27,792.89
+1778,2025-05-01,Selangor,Ryan,Fashion,Backpack,7,118.58,830.06
+1779,2025-05-01,Johor,Ryan,Home & Living,Storage Box,12,97.28,1167.36
+1780,2025-05-02,Johor,Kumar,Home & Living,Air Fryer,2,79.65,159.3
+1781,2025-05-02,Sabah,Nadia,Fashion,Sunglasses,11,109.8,1207.8
+1782,2025-05-02,Johor,Farid,Home & Living,LED Lamp,3,63.65,190.95
+1783,2025-05-02,Johor,Kumar,Beauty,Lip Tint,12,51.12,613.44
+1784,2025-05-02,Penang,Ain,Electronics,Smartwatch,1,165.46,165.46
+1785,2025-05-02,Kuala Lumpur,Divya,Electronics,Power Bank,5,94.5,472.5
+1786,2025-05-02,Selangor,Kumar,Home & Living,LED Lamp,3,56.82,170.46
+1787,2025-05-02,Penang,Divya,Beauty,Lip Tint,8,62.94,503.52
+1788,2025-05-02,Selangor,Ryan,Fashion,Sneakers,3,66.53,199.59
+1789,2025-05-03,Sabah,Nadia,Beauty,Sunscreen,4,59.71,238.84
+1790,2025-05-03,Johor,Divya,Electronics,Wireless Earbuds,12,104.91,1258.92
+1791,2025-05-03,Kuala Lumpur,Farid,Electronics,Smartwatch,8,145.77,1166.16
+1792,2025-05-04,Kuala Lumpur,Siti,Beauty,Hair Dryer,11,61.78,679.58
+1793,2025-05-04,Kuala Lumpur,Nadia,Electronics,Wireless Earbuds,5,124.42,622.1
+1794,2025-05-04,Kuala Lumpur,Farid,Fashion,Sneakers,11,76.72,843.92
+1795,2025-05-04,Kuala Lumpur,Nadia,Beauty,Lip Tint,1,36.77,36.77
+1796,2025-05-04,Sabah,Ain,Electronics,Bluetooth Speaker,4,84.75,339.0
+1797,2025-05-04,Sabah,Kumar,Beauty,Sunscreen,6,55.78,334.68
+1798,2025-05-04,Kuala Lumpur,Ain,Beauty,Face Serum,11,50.99,560.89
+1799,2025-05-05,Penang,Siti,Home & Living,LED Lamp,3,83.32,249.96
+1800,2025-05-05,Sabah,Ryan,Fashion,Wallet,12,75.16,901.92
+1801,2025-05-05,Penang,Divya,Home & Living,Air Fryer,1,83.18,83.18
+1802,2025-05-06,Penang,Siti,Beauty,Sunscreen,10,37.38,373.8
+1803,2025-05-06,Penang,Wei Ling,Beauty,Lip Tint,10,60.31,603.1
+1804,2025-05-06,Selangor,Siti,Home & Living,Blender,5,101.89,509.45
+1805,2025-05-06,Johor,Ain,Electronics,Bluetooth Speaker,12,99.58,1194.96
+1806,2025-05-06,Sabah,Ryan,Fashion,Backpack,6,108.42,650.52
+1807,2025-05-06,Kuala Lumpur,Ryan,Beauty,Sunscreen,10,40.42,404.2
+1808,2025-05-06,Penang,Ain,Electronics,Wireless Earbuds,9,139.35,1254.15
+1809,2025-05-07,Kuala Lumpur,Kumar,Home & Living,LED Lamp,4,62.0,248.0
+1810,2025-05-07,Selangor,Nadia,Electronics,Bluetooth Speaker,11,125.15,1376.65
+1811,2025-05-07,Selangor,Ain,Fashion,Backpack,10,108.22,1082.2
+1812,2025-05-07,Kuala Lumpur,Ain,Beauty,Face Serum,8,56.73,453.84
+1813,2025-05-07,Penang,Nadia,Beauty,Lip Tint,12,33.34,400.08
+1814,2025-05-07,Sabah,Kumar,Electronics,Wireless Earbuds,5,90.55,452.75
+1815,2025-05-07,Sabah,Ryan,Electronics,Wireless Earbuds,12,103.41,1240.92
+1816,2025-05-07,Kuala Lumpur,Wei Ling,Home & Living,Storage Box,10,91.02,910.2
+1817,2025-05-07,Sabah,Divya,Beauty,Face Serum,11,49.66,546.26
+1818,2025-05-08,Johor,Siti,Electronics,Smartwatch,3,130.2,390.6
+1819,2025-05-08,Kuala Lumpur,Siti,Beauty,Lip Tint,6,48.83,292.98
+1820,2025-05-08,Penang,Kumar,Beauty,Hair Dryer,12,41.69,500.28
+1821,2025-05-08,Sabah,Nadia,Home & Living,Blender,9,107.86,970.74
+1822,2025-05-08,Penang,Ain,Beauty,Hair Dryer,7,31.51,220.57
+1823,2025-05-08,Penang,Kumar,Electronics,Smartwatch,5,84.55,422.75
+1824,2025-05-08,Kuala Lumpur,Wei Ling,Fashion,Sneakers,12,114.81,1377.72
+1825,2025-05-08,Selangor,Nadia,Electronics,Bluetooth Speaker,6,97.11,582.66
+1826,2025-05-09,Sabah,Farid,Home & Living,Storage Box,5,101.42,507.1
+1827,2025-05-09,Sabah,Siti,Beauty,Sunscreen,12,33.93,407.16
+1828,2025-05-09,Johor,Farid,Home & Living,Blender,12,95.36,1144.32
+1829,2025-05-09,Sabah,Ryan,Fashion,Sneakers,12,113.93,1367.16
+1830,2025-05-09,Selangor,Ryan,Electronics,Power Bank,6,157.9,947.4
+1831,2025-05-10,Selangor,Ryan,Home & Living,LED Lamp,11,99.54,1094.94
+1832,2025-05-10,Selangor,Wei Ling,Fashion,Sneakers,6,97.02,582.12
+1833,2025-05-10,Penang,Ryan,Home & Living,Storage Box,1,93.72,93.72
+1834,2025-05-10,Johor,Ryan,Electronics,Smartwatch,7,108.34,758.38
+1835,2025-05-10,Kuala Lumpur,Ain,Home & Living,Air Fryer,2,82.65,165.3
+1836,2025-05-10,Sabah,Ryan,Beauty,Lip Tint,2,44.05,88.1
+1837,2025-05-11,Kuala Lumpur,Ryan,Home & Living,Blender,9,67.09,603.81
+1838,2025-05-11,Sabah,Ryan,Home & Living,Storage Box,4,60.01,240.04
+1839,2025-05-11,Penang,Siti,Electronics,Wireless Earbuds,11,118.74,1306.14
+1840,2025-05-11,Penang,Ain,Home & Living,Air Fryer,6,89.26,535.56
+1841,2025-05-11,Penang,Divya,Home & Living,Air Fryer,10,102.01,1020.1
+1842,2025-05-11,Sabah,Kumar,Home & Living,Blender,1,107.76,107.76
+1843,2025-05-11,Kuala Lumpur,Farid,Fashion,Backpack,12,116.72,1400.64
+1844,2025-05-11,Selangor,Farid,Home & Living,Storage Box,5,56.77,283.85
+1845,2025-05-11,Penang,Kumar,Beauty,Hair Dryer,1,41.95,41.95
+1846,2025-05-12,Sabah,Wei Ling,Fashion,Wallet,10,108.99,1089.9
+1847,2025-05-12,Selangor,Nadia,Beauty,Face Serum,5,36.87,184.35
+1848,2025-05-12,Kuala Lumpur,Ain,Fashion,Sneakers,8,104.25,834.0
+1849,2025-05-12,Selangor,Siti,Beauty,Lip Tint,11,58.34,641.74
+1850,2025-05-13,Selangor,Ryan,Electronics,Power Bank,11,116.47,1281.17
+1851,2025-05-13,Sabah,Farid,Electronics,Power Bank,8,156.81,1254.48
+1852,2025-05-13,Kuala Lumpur,Ain,Home & Living,Blender,9,107.88,970.92
+1853,2025-05-13,Selangor,Wei Ling,Home & Living,Air Fryer,6,83.44,500.64
+1854,2025-05-13,Selangor,Kumar,Fashion,Sunglasses,6,102.39,614.34
+1855,2025-05-13,Sabah,Ryan,Fashion,Sneakers,11,79.23,871.53
+1856,2025-05-13,Selangor,Ryan,Fashion,Backpack,3,84.53,253.59
+1857,2025-05-13,Kuala Lumpur,Kumar,Electronics,Bluetooth Speaker,9,164.69,1482.21
+1858,2025-05-13,Johor,Siti,Home & Living,Storage Box,7,110.35,772.45
+1859,2025-05-14,Sabah,Kumar,Home & Living,Storage Box,11,63.76,701.36
+1860,2025-05-14,Kuala Lumpur,Wei Ling,Fashion,Backpack,7,125.73,880.11
+1861,2025-05-14,Sabah,Farid,Home & Living,Air Fryer,2,87.21,174.42
+1862,2025-05-14,Kuala Lumpur,Siti,Fashion,Backpack,12,64.86,778.32
+1863,2025-05-14,Johor,Nadia,Beauty,Lip Tint,8,54.99,439.92
+1864,2025-05-14,Kuala Lumpur,Nadia,Home & Living,LED Lamp,3,66.35,199.05
+1865,2025-05-15,Sabah,Siti,Home & Living,Storage Box,4,94.49,377.96
+1866,2025-05-15,Selangor,Divya,Beauty,Sunscreen,9,58.15,523.35
+1867,2025-05-15,Penang,Wei Ling,Home & Living,Blender,8,82.54,660.32
+1868,2025-05-15,Kuala Lumpur,Ain,Home & Living,LED Lamp,7,98.81,691.67
+1869,2025-05-15,Penang,Kumar,Beauty,Sunscreen,12,52.65,631.8
+1870,2025-05-15,Kuala Lumpur,Divya,Electronics,Smartwatch,8,156.84,1254.72
+1871,2025-05-15,Penang,Ain,Beauty,Sunscreen,7,44.25,309.75
+1872,2025-05-16,Johor,Ain,Fashion,Wallet,10,122.17,1221.7
+1873,2025-05-16,Sabah,Ain,Electronics,Bluetooth Speaker,8,153.47,1227.76
+1874,2025-05-16,Kuala Lumpur,Ain,Beauty,Face Serum,9,43.7,393.3
+1875,2025-05-16,Kuala Lumpur,Nadia,Fashion,Wallet,7,118.72,831.04
+1876,2025-05-16,Johor,Ain,Home & Living,Blender,5,90.34,451.7
+1877,2025-05-16,Sabah,Farid,Home & Living,Blender,11,81.3,894.3
+1878,2025-05-16,Kuala Lumpur,Ain,Home & Living,Blender,7,74.11,518.77
+1879,2025-05-17,Johor,Wei Ling,Home & Living,Blender,2,70.0,140.0
+1880,2025-05-17,Selangor,Siti,Electronics,Wireless Earbuds,12,121.75,1461.0
+1881,2025-05-17,Selangor,Ain,Beauty,Sunscreen,7,48.84,341.88
+1882,2025-05-17,Kuala Lumpur,Wei Ling,Fashion,Backpack,3,117.74,353.22
+1883,2025-05-18,Selangor,Divya,Beauty,Lip Tint,5,54.5,272.5
+1884,2025-05-18,Penang,Ain,Home & Living,LED Lamp,3,109.78,329.34
+1885,2025-05-18,Sabah,Divya,Fashion,Sneakers,8,94.35,754.8
+1886,2025-05-18,Sabah,Divya,Electronics,Bluetooth Speaker,4,102.22,408.88
+1887,2025-05-18,Johor,Ain,Beauty,Hair Dryer,2,50.44,100.88
+1888,2025-05-18,Kuala Lumpur,Ain,Fashion,Backpack,1,74.64,74.64
+1889,2025-05-18,Penang,Nadia,Electronics,Smartwatch,1,140.03,140.03
+1890,2025-05-18,Penang,Wei Ling,Electronics,Wireless Earbuds,2,119.02,238.04
+1891,2025-05-18,Kuala Lumpur,Siti,Fashion,Backpack,8,110.21,881.68
+1892,2025-05-19,Selangor,Farid,Fashion,Sunglasses,6,119.54,717.24
+1893,2025-05-19,Johor,Nadia,Electronics,Power Bank,8,95.3,762.4
+1894,2025-05-19,Penang,Ain,Beauty,Sunscreen,12,38.09,457.08
+1895,2025-05-20,Sabah,Nadia,Electronics,Bluetooth Speaker,12,141.85,1702.2
+1896,2025-05-20,Johor,Siti,Fashion,Sunglasses,9,99.23,893.07
+1897,2025-05-20,Kuala Lumpur,Kumar,Beauty,Hair Dryer,8,56.95,455.6
+1898,2025-05-21,Penang,Farid,Home & Living,LED Lamp,2,57.34,114.68
+1899,2025-05-21,Kuala Lumpur,Kumar,Beauty,Hair Dryer,1,42.01,42.01
+1900,2025-05-21,Selangor,Nadia,Home & Living,Air Fryer,5,100.25,501.25
+1901,2025-05-21,Penang,Siti,Fashion,Sneakers,2,106.21,212.42
+1902,2025-05-21,Johor,Siti,Electronics,Smartwatch,4,111.76,447.04
+1903,2025-05-21,Johor,Wei Ling,Beauty,Face Serum,11,35.78,393.58
+1904,2025-05-21,Johor,Ain,Fashion,Wallet,7,121.45,850.15
+1905,2025-05-21,Sabah,Kumar,Fashion,Sunglasses,9,96.76,870.84
+1906,2025-05-22,Penang,Ain,Fashion,Sneakers,3,80.67,242.01
+1907,2025-05-22,Penang,Wei Ling,Beauty,Sunscreen,10,50.58,505.8
+1908,2025-05-22,Sabah,Ain,Electronics,Power Bank,12,156.06,1872.72
+1909,2025-05-22,Penang,Siti,Beauty,Face Serum,8,59.13,473.04
+1910,2025-05-22,Johor,Farid,Fashion,Backpack,9,82.05,738.45
+1911,2025-05-22,Penang,Ain,Electronics,Smartwatch,2,121.28,242.56
+1912,2025-05-22,Johor,Nadia,Home & Living,Storage Box,6,107.72,646.32
+1913,2025-05-23,Penang,Wei Ling,Home & Living,LED Lamp,9,93.9,845.1
+1914,2025-05-23,Kuala Lumpur,Farid,Electronics,Bluetooth Speaker,7,143.95,1007.65
+1915,2025-05-23,Selangor,Farid,Fashion,Sneakers,11,116.43,1280.73
+1916,2025-05-23,Penang,Nadia,Beauty,Face Serum,2,47.9,95.8
+1917,2025-05-23,Selangor,Nadia,Fashion,Backpack,6,75.63,453.78
+1918,2025-05-23,Penang,Wei Ling,Fashion,Wallet,11,70.41,774.51
+1919,2025-05-23,Kuala Lumpur,Farid,Fashion,Sneakers,1,123.37,123.37
+1920,2025-05-23,Kuala Lumpur,Nadia,Fashion,Sunglasses,5,71.92,359.6
+1921,2025-05-23,Sabah,Siti,Home & Living,Storage Box,2,73.44,146.88
+1922,2025-05-24,Johor,Ain,Electronics,Smartwatch,1,123.54,123.54
+1923,2025-05-24,Selangor,Wei Ling,Beauty,Face Serum,2,44.93,89.86
+1924,2025-05-24,Sabah,Kumar,Beauty,Lip Tint,5,41.97,209.85
+1925,2025-05-24,Sabah,Divya,Electronics,Bluetooth Speaker,10,95.07,950.7
+1926,2025-05-24,Selangor,Divya,Beauty,Lip Tint,11,51.8,569.8
+1927,2025-05-24,Johor,Nadia,Home & Living,Storage Box,3,104.22,312.66
+1928,2025-05-24,Penang,Siti,Beauty,Sunscreen,12,60.39,724.68
+1929,2025-05-25,Penang,Farid,Beauty,Hair Dryer,1,33.56,33.56
+1930,2025-05-25,Penang,Siti,Beauty,Hair Dryer,3,40.39,121.17
+1931,2025-05-25,Sabah,Farid,Home & Living,LED Lamp,7,101.78,712.46
+1932,2025-05-25,Penang,Ryan,Electronics,Power Bank,9,122.72,1104.48
+1933,2025-05-25,Kuala Lumpur,Siti,Home & Living,Storage Box,8,77.49,619.92
+1934,2025-05-25,Kuala Lumpur,Kumar,Beauty,Hair Dryer,10,56.3,563.0
+1935,2025-05-25,Kuala Lumpur,Divya,Electronics,Bluetooth Speaker,2,133.74,267.48
+1936,2025-05-25,Penang,Ryan,Electronics,Bluetooth Speaker,3,109.88,329.64
+1937,2025-05-25,Selangor,Ain,Electronics,Bluetooth Speaker,6,125.52,753.12
+1938,2025-05-26,Kuala Lumpur,Divya,Home & Living,LED Lamp,3,93.01,279.03
+1939,2025-05-26,Sabah,Kumar,Fashion,Wallet,10,99.41,994.1
+1940,2025-05-26,Kuala Lumpur,Nadia,Fashion,Sunglasses,10,113.04,1130.4
+1941,2025-05-27,Penang,Ryan,Electronics,Wireless Earbuds,10,166.86,1668.6
+1942,2025-05-27,Kuala Lumpur,Ain,Fashion,Sneakers,6,119.77,718.62
+1943,2025-05-27,Selangor,Kumar,Fashion,Sneakers,5,117.54,587.7
+1944,2025-05-27,Johor,Ryan,Beauty,Lip Tint,12,43.56,522.72
+1945,2025-05-27,Johor,Ryan,Home & Living,Storage Box,8,63.79,510.32
+1946,2025-05-27,Penang,Wei Ling,Beauty,Sunscreen,5,62.92,314.6
+1947,2025-05-28,Selangor,Divya,Electronics,Wireless Earbuds,3,144.59,433.77
+1948,2025-05-28,Johor,Ryan,Home & Living,LED Lamp,3,91.97,275.91
+1949,2025-05-28,Johor,Divya,Beauty,Sunscreen,8,47.55,380.4
+1950,2025-05-28,Johor,Ain,Fashion,Backpack,3,89.76,269.28
+1951,2025-05-29,Johor,Siti,Home & Living,Air Fryer,7,107.89,755.23
+1952,2025-05-29,Selangor,Divya,Electronics,Bluetooth Speaker,12,114.96,1379.52
+1953,2025-05-29,Selangor,Farid,Home & Living,Air Fryer,8,84.95,679.6
+1954,2025-05-29,Kuala Lumpur,Nadia,Beauty,Face Serum,11,51.46,566.06
+1955,2025-05-29,Sabah,Divya,Electronics,Power Bank,9,149.4,1344.6
+1956,2025-05-29,Johor,Nadia,Beauty,Lip Tint,7,42.62,298.34
+1957,2025-05-29,Penang,Nadia,Home & Living,LED Lamp,12,107.68,1292.16
+1958,2025-05-30,Sabah,Wei Ling,Fashion,Sneakers,11,92.81,1020.91
+1959,2025-05-30,Sabah,Nadia,Electronics,Power Bank,12,136.44,1637.28
+1960,2025-05-30,Johor,Nadia,Electronics,Smartwatch,9,90.46,814.14
+1961,2025-05-30,Penang,Ain,Home & Living,Air Fryer,5,104.04,520.2
+1962,2025-05-30,Selangor,Wei Ling,Home & Living,Storage Box,11,81.01,891.11
+1963,2025-05-30,Penang,Ain,Home & Living,Blender,3,100.76,302.28
+1964,2025-05-30,Penang,Wei Ling,Electronics,Smartwatch,10,162.45,1624.5
+1965,2025-05-30,Johor,Wei Ling,Beauty,Hair Dryer,4,52.31,209.24
+1966,2025-05-31,Sabah,Farid,Fashion,Sneakers,11,79.66,876.26
+1967,2025-05-31,Selangor,Divya,Home & Living,Blender,7,82.67,578.69
+1968,2025-05-31,Sabah,Divya,Home & Living,Blender,11,95.51,1050.61
+1969,2025-05-31,Penang,Divya,Home & Living,Blender,1,72.17,72.17
+1970,2025-06-01,Penang,Ryan,Electronics,Wireless Earbuds,9,137.54,1237.86
+1971,2025-06-01,Sabah,Farid,Fashion,Sunglasses,5,79.83,399.15
+1972,2025-06-01,Penang,Kumar,Beauty,Hair Dryer,11,55.1,606.1
+1973,2025-06-01,Sabah,Ain,Fashion,Backpack,6,97.5,585.0
+1974,2025-06-01,Selangor,Divya,Electronics,Bluetooth Speaker,2,128.12,256.24
+1975,2025-06-01,Penang,Ain,Home & Living,Air Fryer,5,66.81,334.05
+1976,2025-06-02,Selangor,Farid,Electronics,Smartwatch,10,137.6,1376.0
+1977,2025-06-02,Selangor,Wei Ling,Home & Living,Blender,11,98.78,1086.58
+1978,2025-06-02,Selangor,Farid,Home & Living,Air Fryer,5,82.15,410.75
+1979,2025-06-02,Johor,Siti,Fashion,Wallet,12,119.91,1438.92
+1980,2025-06-02,Penang,Ryan,Home & Living,LED Lamp,5,99.52,497.6
+1981,2025-06-02,Johor,Nadia,Fashion,Sneakers,5,123.2,616.0
+1982,2025-06-02,Kuala Lumpur,Kumar,Beauty,Face Serum,8,62.35,498.8
+1983,2025-06-03,Johor,Ryan,Home & Living,Blender,2,64.06,128.12
+1984,2025-06-03,Kuala Lumpur,Ain,Electronics,Bluetooth Speaker,12,105.76,1269.12
+1985,2025-06-03,Selangor,Divya,Electronics,Power Bank,8,85.58,684.64
+1986,2025-06-03,Kuala Lumpur,Wei Ling,Electronics,Wireless Earbuds,11,116.8,1284.8
+1987,2025-06-03,Penang,Divya,Beauty,Face Serum,9,53.79,484.11
+1988,2025-06-03,Johor,Farid,Beauty,Hair Dryer,12,56.1,673.2
+1989,2025-06-03,Sabah,Divya,Home & Living,LED Lamp,7,109.43,766.01
+1990,2025-06-04,Sabah,Ain,Fashion,Sunglasses,11,82.08,902.88
+1991,2025-06-04,Selangor,Nadia,Fashion,Sunglasses,2,115.99,231.98
+1992,2025-06-04,Kuala Lumpur,Nadia,Home & Living,LED Lamp,7,93.0,651.0
+1993,2025-06-05,Johor,Divya,Electronics,Power Bank,8,91.13,729.04
+1994,2025-06-05,Kuala Lumpur,Kumar,Home & Living,LED Lamp,4,57.42,229.68
+1995,2025-06-05,Johor,Divya,Beauty,Face Serum,9,51.77,465.93
+1996,2025-06-05,Sabah,Siti,Beauty,Face Serum,1,42.19,42.19
+1997,2025-06-05,Selangor,Divya,Beauty,Face Serum,4,56.92,227.68
+1998,2025-06-05,Sabah,Wei Ling,Home & Living,Storage Box,2,58.07,116.14
+1999,2025-06-05,Johor,Wei Ling,Electronics,Bluetooth Speaker,10,87.85,878.5
+2000,2025-06-05,Selangor,Farid,Home & Living,LED Lamp,5,101.96,509.8
+2001,2025-06-06,Sabah,Kumar,Home & Living,LED Lamp,2,62.39,124.78
+2002,2025-06-06,Selangor,Ryan,Home & Living,Blender,6,101.45,608.7
+2003,2025-06-06,Penang,Kumar,Electronics,Smartwatch,6,154.26,925.56
+2004,2025-06-06,Selangor,Wei Ling,Home & Living,Air Fryer,2,62.76,125.52
+2005,2025-06-06,Johor,Kumar,Home & Living,Air Fryer,9,65.24,587.16
+2006,2025-06-06,Sabah,Ryan,Electronics,Smartwatch,2,150.45,300.9
+2007,2025-06-07,Kuala Lumpur,Wei Ling,Electronics,Bluetooth Speaker,2,84.53,169.06
+2008,2025-06-07,Selangor,Divya,Fashion,Wallet,12,113.87,1366.44
+2009,2025-06-07,Kuala Lumpur,Divya,Home & Living,Storage Box,11,71.17,782.87
+2010,2025-06-07,Johor,Wei Ling,Home & Living,Storage Box,10,94.73,947.3
+2011,2025-06-07,Johor,Kumar,Electronics,Power Bank,6,119.18,715.08
+2012,2025-06-07,Kuala Lumpur,Kumar,Electronics,Wireless Earbuds,10,114.4,1144.0
+2013,2025-06-07,Johor,Wei Ling,Home & Living,Air Fryer,1,66.85,66.85
+2014,2025-06-07,Johor,Ain,Beauty,Sunscreen,3,52.61,157.83
+2015,2025-06-07,Selangor,Siti,Fashion,Sunglasses,4,90.38,361.52
+2016,2025-06-08,Johor,Wei Ling,Electronics,Wireless Earbuds,12,88.41,1060.92
+2017,2025-06-08,Kuala Lumpur,Kumar,Electronics,Bluetooth Speaker,9,93.75,843.75
+2018,2025-06-08,Johor,Siti,Fashion,Wallet,4,110.07,440.28
+2019,2025-06-08,Kuala Lumpur,Ryan,Electronics,Power Bank,4,92.24,368.96
+2020,2025-06-08,Kuala Lumpur,Divya,Beauty,Sunscreen,2,46.34,92.68
+2021,2025-06-08,Selangor,Divya,Beauty,Sunscreen,4,60.73,242.92
+2022,2025-06-08,Kuala Lumpur,Kumar,Beauty,Lip Tint,3,45.92,137.76
+2023,2025-06-09,Penang,Ain,Fashion,Backpack,6,71.01,426.06
+2024,2025-06-09,Penang,Wei Ling,Home & Living,LED Lamp,8,81.68,653.44
+2025,2025-06-09,Penang,Wei Ling,Home & Living,Air Fryer,10,64.78,647.8
+2026,2025-06-09,Sabah,Divya,Home & Living,LED Lamp,7,103.99,727.93
+2027,2025-06-09,Kuala Lumpur,Ryan,Beauty,Hair Dryer,5,31.96,159.8
+2028,2025-06-09,Kuala Lumpur,Wei Ling,Home & Living,Air Fryer,7,88.45,619.15
+2029,2025-06-09,Sabah,Divya,Electronics,Bluetooth Speaker,1,87.36,87.36
+2030,2025-06-09,Sabah,Farid,Electronics,Bluetooth Speaker,9,117.12,1054.08
+2031,2025-06-10,Johor,Ryan,Home & Living,LED Lamp,9,98.17,883.53
+2032,2025-06-10,Kuala Lumpur,Farid,Home & Living,Air Fryer,5,69.39,346.95
+2033,2025-06-10,Selangor,Ain,Beauty,Lip Tint,3,53.65,160.95
+2034,2025-06-10,Johor,Siti,Beauty,Sunscreen,12,44.27,531.24
+2035,2025-06-10,Johor,Siti,Electronics,Wireless Earbuds,7,159.05,1113.35
+2036,2025-06-10,Sabah,Kumar,Electronics,Power Bank,7,147.24,1030.68
+2037,2025-06-11,Selangor,Siti,Fashion,Sneakers,9,122.56,1103.04
+2038,2025-06-11,Selangor,Ain,Electronics,Bluetooth Speaker,6,123.09,738.54
+2039,2025-06-11,Penang,Farid,Fashion,Backpack,11,98.2,1080.2
+2040,2025-06-11,Sabah,Farid,Home & Living,Storage Box,6,69.36,416.16
+2041,2025-06-11,Johor,Nadia,Home & Living,Storage Box,6,75.75,454.5
+2042,2025-06-11,Sabah,Siti,Beauty,Lip Tint,1,33.5,33.5
+2043,2025-06-11,Johor,Nadia,Beauty,Face Serum,8,53.86,430.88
+2044,2025-06-11,Johor,Divya,Fashion,Sneakers,4,119.19,476.76
+2045,2025-06-11,Selangor,Farid,Electronics,Bluetooth Speaker,3,108.22,324.66
+2046,2025-06-12,Kuala Lumpur,Wei Ling,Fashion,Sneakers,12,72.32,867.84
+2047,2025-06-12,Kuala Lumpur,Wei Ling,Electronics,Power Bank,7,165.44,1158.08
+2048,2025-06-12,Johor,Ain,Fashion,Wallet,8,109.48,875.84
+2049,2025-06-13,Kuala Lumpur,Siti,Electronics,Wireless Earbuds,4,154.14,616.56
+2050,2025-06-13,Johor,Divya,Fashion,Sunglasses,8,100.38,803.04
+2051,2025-06-13,Johor,Nadia,Fashion,Backpack,5,73.82,369.1
+2052,2025-06-13,Kuala Lumpur,Ain,Beauty,Lip Tint,5,55.75,278.75
+2053,2025-06-13,Kuala Lumpur,Wei Ling,Fashion,Sunglasses,8,123.24,985.92
+2054,2025-06-14,Sabah,Wei Ling,Fashion,Backpack,3,115.88,347.64
+2055,2025-06-14,Kuala Lumpur,Wei Ling,Home & Living,LED Lamp,1,111.65,111.65
+2056,2025-06-14,Johor,Ain,Fashion,Sunglasses,3,75.92,227.76
+2057,2025-06-14,Penang,Wei Ling,Fashion,Backpack,6,91.25,547.5
+2058,2025-06-14,Sabah,Divya,Fashion,Sneakers,1,88.49,88.49
+2059,2025-06-14,Kuala Lumpur,Siti,Beauty,Lip Tint,3,31.64,94.92
+2060,2025-06-14,Penang,Divya,Beauty,Lip Tint,10,52.51,525.1
+2061,2025-06-14,Penang,Farid,Electronics,Bluetooth Speaker,1,95.71,95.71
+2062,2025-06-15,Selangor,Siti,Beauty,Sunscreen,8,42.76,342.08
+2063,2025-06-15,Selangor,Farid,Home & Living,Storage Box,5,66.96,334.8
+2064,2025-06-15,Sabah,Divya,Beauty,Face Serum,9,43.92,395.28
+2065,2025-06-15,Penang,Ryan,Electronics,Power Bank,7,96.43,675.01
+2066,2025-06-15,Penang,Siti,Beauty,Lip Tint,1,40.47,40.47
+2067,2025-06-16,Johor,Ryan,Electronics,Smartwatch,12,158.58,1902.96
+2068,2025-06-16,Johor,Ryan,Fashion,Backpack,12,124.13,1489.56
+2069,2025-06-16,Johor,Divya,Home & Living,LED Lamp,3,67.64,202.92
+2070,2025-06-16,Sabah,Farid,Fashion,Sneakers,10,110.64,1106.4
+2071,2025-06-16,Selangor,Divya,Beauty,Lip Tint,7,37.01,259.07
+2072,2025-06-17,Sabah,Nadia,Home & Living,Storage Box,3,102.61,307.83
+2073,2025-06-17,Sabah,Nadia,Beauty,Face Serum,5,57.79,288.95
+2074,2025-06-17,Johor,Wei Ling,Beauty,Sunscreen,1,56.42,56.42
+2075,2025-06-17,Penang,Nadia,Fashion,Wallet,2,104.19,208.38
+2076,2025-06-17,Johor,Ain,Home & Living,Blender,12,92.11,1105.32
+2077,2025-06-17,Selangor,Siti,Fashion,Wallet,2,100.73,201.46
+2078,2025-06-17,Sabah,Divya,Beauty,Hair Dryer,5,51.28,256.4
+2079,2025-06-17,Selangor,Ain,Fashion,Sneakers,5,73.26,366.3
+2080,2025-06-18,Penang,Nadia,Beauty,Sunscreen,6,36.64,219.84
+2081,2025-06-18,Penang,Farid,Beauty,Lip Tint,1,40.63,40.63
+2082,2025-06-18,Sabah,Wei Ling,Home & Living,Storage Box,2,89.53,179.06
+2083,2025-06-18,Sabah,Nadia,Fashion,Sunglasses,11,113.39,1247.29
+2084,2025-06-19,Penang,Nadia,Electronics,Power Bank,3,85.08,255.24
+2085,2025-06-19,Penang,Wei Ling,Beauty,Hair Dryer,6,60.51,363.06
+2086,2025-06-19,Selangor,Kumar,Home & Living,Storage Box,9,68.38,615.42
+2087,2025-06-19,Sabah,Farid,Electronics,Bluetooth Speaker,8,160.95,1287.6
+2088,2025-06-19,Kuala Lumpur,Siti,Electronics,Bluetooth Speaker,6,110.17,661.02
+2089,2025-06-19,Kuala Lumpur,Ain,Beauty,Lip Tint,3,53.86,161.58
+2090,2025-06-19,Selangor,Kumar,Home & Living,Storage Box,12,63.97,767.64
+2091,2025-06-19,Penang,Ryan,Home & Living,Storage Box,3,110.94,332.82
+2092,2025-06-20,Selangor,Ain,Electronics,Wireless Earbuds,8,147.62,1180.96
+2093,2025-06-20,Kuala Lumpur,Ain,Electronics,Wireless Earbuds,11,127.13,1398.43
+2094,2025-06-20,Johor,Ain,Electronics,Power Bank,1,89.56,89.56
+2095,2025-06-20,Selangor,Wei Ling,Electronics,Smartwatch,10,159.7,1597.0
+2096,2025-06-20,Penang,Nadia,Electronics,Wireless Earbuds,3,155.05,465.15
+2097,2025-06-20,Sabah,Kumar,Fashion,Sunglasses,3,116.87,350.61
+2098,2025-06-20,Sabah,Kumar,Electronics,Wireless Earbuds,10,148.11,1481.1
+2099,2025-06-20,Kuala Lumpur,Farid,Fashion,Backpack,9,63.27,569.43
+2100,2025-06-21,Sabah,Divya,Beauty,Lip Tint,12,50.07,600.84
+2101,2025-06-21,Selangor,Kumar,Home & Living,Air Fryer,7,79.75,558.25
+2102,2025-06-21,Johor,Wei Ling,Electronics,Power Bank,2,123.14,246.28
+2103,2025-06-21,Johor,Farid,Fashion,Sunglasses,9,108.49,976.41
+2104,2025-06-22,Johor,Nadia,Electronics,Bluetooth Speaker,5,122.38,611.9
+2105,2025-06-22,Johor,Ryan,Home & Living,Blender,5,111.16,555.8
+2106,2025-06-22,Kuala Lumpur,Ain,Electronics,Bluetooth Speaker,11,114.87,1263.57
+2107,2025-06-22,Johor,Farid,Electronics,Bluetooth Speaker,8,127.9,1023.2
+2108,2025-06-22,Selangor,Farid,Home & Living,Blender,7,94.92,664.44
+2109,2025-06-23,Kuala Lumpur,Ryan,Electronics,Power Bank,4,112.45,449.8
+2110,2025-06-23,Selangor,Nadia,Home & Living,Blender,12,83.95,1007.4
+2111,2025-06-23,Johor,Ryan,Fashion,Wallet,11,101.0,1111.0
+2112,2025-06-23,Johor,Nadia,Fashion,Backpack,8,69.81,558.48
+2113,2025-06-23,Johor,Ain,Beauty,Sunscreen,11,61.19,673.09
+2114,2025-06-23,Selangor,Wei Ling,Electronics,Wireless Earbuds,8,140.96,1127.68
+2115,2025-06-23,Johor,Farid,Fashion,Backpack,5,102.18,510.9
+2116,2025-06-23,Selangor,Divya,Beauty,Hair Dryer,4,40.75,163.0
+2117,2025-06-24,Sabah,Ain,Fashion,Sunglasses,9,97.44,876.96
+2118,2025-06-24,Johor,Ryan,Electronics,Bluetooth Speaker,8,110.42,883.36
+2119,2025-06-24,Johor,Nadia,Beauty,Face Serum,1,37.07,37.07
+2120,2025-06-24,Kuala Lumpur,Ryan,Beauty,Hair Dryer,3,41.34,124.02
+2121,2025-06-24,Johor,Divya,Electronics,Bluetooth Speaker,11,130.52,1435.72
+2122,2025-06-24,Johor,Ryan,Home & Living,LED Lamp,7,70.75,495.25
+2123,2025-06-25,Penang,Ain,Fashion,Sunglasses,1,64.77,64.77
+2124,2025-06-25,Kuala Lumpur,Siti,Fashion,Sunglasses,12,99.79,1197.48
+2125,2025-06-25,Johor,Ryan,Electronics,Bluetooth Speaker,6,167.32,1003.92
+2126,2025-06-25,Penang,Nadia,Electronics,Smartwatch,4,103.71,414.84
+2127,2025-06-25,Sabah,Wei Ling,Electronics,Wireless Earbuds,5,93.62,468.1
+2128,2025-06-25,Selangor,Ryan,Fashion,Sneakers,8,104.44,835.52
+2129,2025-06-25,Sabah,Ain,Beauty,Lip Tint,1,53.42,53.42
+2130,2025-06-26,Johor,Divya,Beauty,Lip Tint,10,34.58,345.8
+2131,2025-06-26,Selangor,Siti,Home & Living,Air Fryer,8,84.16,673.28
+2132,2025-06-26,Kuala Lumpur,Farid,Fashion,Sunglasses,7,75.71,529.97
+2133,2025-06-26,Sabah,Ryan,Home & Living,Air Fryer,5,58.66,293.3
+2134,2025-06-26,Kuala Lumpur,Farid,Electronics,Wireless Earbuds,10,112.29,1122.9
+2135,2025-06-27,Sabah,Farid,Beauty,Hair Dryer,4,42.44,169.76
+2136,2025-06-27,Penang,Kumar,Fashion,Wallet,11,97.02,1067.22
+2137,2025-06-27,Johor,Wei Ling,Beauty,Lip Tint,10,47.73,477.3
+2138,2025-06-27,Selangor,Divya,Home & Living,Blender,4,93.01,372.04
+2139,2025-06-27,Penang,Divya,Beauty,Face Serum,9,37.82,340.38
+2140,2025-06-27,Kuala Lumpur,Nadia,Home & Living,Storage Box,12,94.38,1132.56
+2141,2025-06-27,Johor,Ryan,Beauty,Lip Tint,2,51.47,102.94
+2142,2025-06-28,Penang,Ryan,Home & Living,Air Fryer,11,89.67,986.37
+2143,2025-06-28,Kuala Lumpur,Nadia,Electronics,Smartwatch,4,86.33,345.32
+2144,2025-06-28,Johor,Ain,Beauty,Hair Dryer,7,51.88,363.16
+2145,2025-06-28,Kuala Lumpur,Nadia,Home & Living,Air Fryer,3,57.63,172.89
+2146,2025-06-28,Sabah,Ain,Home & Living,LED Lamp,12,83.21,998.52
+2147,2025-06-29,Selangor,Ryan,Fashion,Sunglasses,2,119.74,239.48
+2148,2025-06-29,Penang,Kumar,Electronics,Bluetooth Speaker,12,154.79,1857.48
+2149,2025-06-29,Selangor,Kumar,Electronics,Power Bank,8,158.3,1266.4
+2150,2025-06-30,Selangor,Kumar,Fashion,Sunglasses,10,109.45,1094.5
+2151,2025-06-30,Johor,Nadia,Home & Living,Storage Box,2,65.81,131.62
+2152,2025-06-30,Johor,Siti,Beauty,Lip Tint,10,33.26,332.6
+2153,2025-06-30,Selangor,Nadia,Fashion,Wallet,8,106.01,848.08
+2154,2025-06-30,Kuala Lumpur,Nadia,Fashion,Wallet,12,86.17,1034.04
+2155,2025-06-30,Selangor,Kumar,Electronics,Wireless Earbuds,12,161.07,1932.84
+2156,2025-06-30,Penang,Siti,Beauty,Lip Tint,11,61.69,678.59
+2157,2025-07-01,Selangor,Ryan,Home & Living,Blender,7,56.44,395.08
+2158,2025-07-01,Penang,Wei Ling,Fashion,Sneakers,4,81.74,326.96
+2159,2025-07-01,Johor,Farid,Fashion,Wallet,1,80.26,80.26
+2160,2025-07-01,Johor,Farid,Beauty,Hair Dryer,6,54.1,324.6
+2161,2025-07-01,Kuala Lumpur,Siti,Fashion,Sneakers,6,89.51,537.06
+2162,2025-07-01,Johor,Divya,Electronics,Wireless Earbuds,11,137.89,1516.79
+2163,2025-07-01,Kuala Lumpur,Siti,Electronics,Bluetooth Speaker,4,136.78,547.12
+2164,2025-07-01,Sabah,Wei Ling,Electronics,Wireless Earbuds,3,104.97,314.91
+2165,2025-07-01,Sabah,Wei Ling,Beauty,Lip Tint,8,46.57,372.56
+2166,2025-07-02,Kuala Lumpur,Siti,Fashion,Sunglasses,4,68.32,273.28
+2167,2025-07-02,Kuala Lumpur,Ain,Beauty,Hair Dryer,10,38.57,385.7
+2168,2025-07-02,Sabah,Wei Ling,Home & Living,LED Lamp,8,67.1,536.8
+2169,2025-07-02,Selangor,Farid,Beauty,Hair Dryer,10,39.69,396.9
+2170,2025-07-02,Penang,Ryan,Home & Living,LED Lamp,1,96.24,96.24
+2171,2025-07-03,Johor,Kumar,Beauty,Face Serum,4,53.98,215.92
+2172,2025-07-03,Penang,Kumar,Fashion,Wallet,7,71.2,498.4
+2173,2025-07-03,Sabah,Ryan,Home & Living,Air Fryer,12,93.92,1127.04
+2174,2025-07-03,Kuala Lumpur,Nadia,Beauty,Sunscreen,1,40.64,40.64
+2175,2025-07-03,Kuala Lumpur,Divya,Beauty,Sunscreen,6,49.86,299.16
+2176,2025-07-03,Selangor,Ryan,Electronics,Bluetooth Speaker,3,157.2,471.6
+2177,2025-07-03,Kuala Lumpur,Farid,Beauty,Hair Dryer,12,50.31,603.72
+2178,2025-07-03,Selangor,Divya,Electronics,Wireless Earbuds,6,162.21,973.26
+2179,2025-07-03,Penang,Ryan,Electronics,Wireless Earbuds,5,126.38,631.9
+2180,2025-07-04,Johor,Wei Ling,Fashion,Backpack,9,65.59,590.31
+2181,2025-07-04,Penang,Wei Ling,Home & Living,Blender,6,105.16,630.96
+2182,2025-07-04,Selangor,Siti,Fashion,Wallet,3,79.41,238.23
+2183,2025-07-04,Selangor,Ryan,Home & Living,Blender,5,97.88,489.4
+2184,2025-07-04,Penang,Wei Ling,Fashion,Sunglasses,9,82.72,744.48
+2185,2025-07-05,Johor,Ain,Home & Living,Blender,1,66.58,66.58
+2186,2025-07-05,Kuala Lumpur,Divya,Home & Living,LED Lamp,8,70.57,564.56
+2187,2025-07-05,Johor,Divya,Electronics,Bluetooth Speaker,1,121.09,121.09
+2188,2025-07-05,Johor,Farid,Beauty,Face Serum,12,58.81,705.72
+2189,2025-07-05,Penang,Wei Ling,Electronics,Smartwatch,5,99.18,495.9
+2190,2025-07-06,Sabah,Ain,Fashion,Backpack,10,125.87,1258.7
+2191,2025-07-06,Sabah,Divya,Home & Living,Blender,2,69.78,139.56
+2192,2025-07-06,Selangor,Farid,Fashion,Sneakers,5,105.92,529.6
+2193,2025-07-06,Johor,Farid,Fashion,Sneakers,6,72.69,436.14
+2194,2025-07-06,Johor,Ain,Beauty,Hair Dryer,11,61.59,677.49
+2195,2025-07-06,Penang,Wei Ling,Electronics,Bluetooth Speaker,6,163.58,981.48
+2196,2025-07-06,Kuala Lumpur,Farid,Electronics,Power Bank,6,151.04,906.24
+2197,2025-07-06,Sabah,Kumar,Beauty,Face Serum,7,39.54,276.78
+2198,2025-07-07,Johor,Ryan,Electronics,Wireless Earbuds,4,97.69,390.76
+2199,2025-07-07,Penang,Ryan,Home & Living,LED Lamp,5,83.49,417.45
+2200,2025-07-07,Penang,Siti,Home & Living,Air Fryer,11,61.38,675.18
+2201,2025-07-07,Sabah,Divya,Home & Living,Blender,8,105.58,844.64
+2202,2025-07-07,Penang,Wei Ling,Beauty,Face Serum,7,57.05,399.35
+2203,2025-07-07,Johor,Divya,Beauty,Face Serum,1,47.67,47.67
+2204,2025-07-07,Kuala Lumpur,Farid,Home & Living,Blender,9,91.26,821.34
+2205,2025-07-07,Penang,Divya,Beauty,Hair Dryer,2,60.08,120.16
+2206,2025-07-07,Penang,Kumar,Home & Living,Storage Box,11,106.56,1172.16
+2207,2025-07-08,Johor,Ain,Fashion,Sneakers,9,67.82,610.38
+2208,2025-07-08,Sabah,Nadia,Electronics,Bluetooth Speaker,7,91.94,643.58
+2209,2025-07-08,Penang,Divya,Fashion,Sneakers,9,64.02,576.18
+2210,2025-07-08,Kuala Lumpur,Nadia,Home & Living,Blender,1,60.66,60.66
+2211,2025-07-08,Penang,Siti,Beauty,Hair Dryer,10,56.95,569.5
+2212,2025-07-08,Kuala Lumpur,Nadia,Home & Living,Storage Box,2,97.83,195.66
+2213,2025-07-08,Selangor,Ain,Beauty,Face Serum,1,43.94,43.94
+2214,2025-07-09,Johor,Divya,Beauty,Hair Dryer,11,61.92,681.12
+2215,2025-07-09,Penang,Wei Ling,Fashion,Wallet,5,68.52,342.6
+2216,2025-07-09,Selangor,Kumar,Home & Living,LED Lamp,1,94.98,94.98
+2217,2025-07-09,Selangor,Kumar,Home & Living,Blender,11,64.13,705.43
+2218,2025-07-10,Sabah,Wei Ling,Home & Living,LED Lamp,5,99.1,495.5
+2219,2025-07-10,Johor,Wei Ling,Beauty,Face Serum,2,36.73,73.46
+2220,2025-07-10,Johor,Kumar,Beauty,Hair Dryer,1,58.58,58.58
+2221,2025-07-10,Kuala Lumpur,Farid,Fashion,Wallet,1,84.03,84.03
+2222,2025-07-10,Johor,Nadia,Beauty,Hair Dryer,12,49.73,596.76
+2223,2025-07-10,Selangor,Divya,Beauty,Hair Dryer,8,47.67,381.36
+2224,2025-07-11,Selangor,Farid,Electronics,Bluetooth Speaker,10,110.53,1105.3
+2225,2025-07-11,Penang,Siti,Beauty,Hair Dryer,2,47.09,94.18
+2226,2025-07-11,Johor,Kumar,Beauty,Face Serum,3,40.57,121.71
+2227,2025-07-11,Johor,Siti,Fashion,Wallet,4,94.98,379.92
+2228,2025-07-12,Johor,Ryan,Home & Living,Air Fryer,12,95.84,1150.08
+2229,2025-07-12,Penang,Farid,Beauty,Sunscreen,10,38.03,380.3
+2230,2025-07-12,Johor,Divya,Home & Living,Storage Box,4,64.75,259.0
+2231,2025-07-12,Selangor,Ain,Beauty,Hair Dryer,5,38.89,194.45
+2232,2025-07-12,Selangor,Wei Ling,Fashion,Sunglasses,6,105.65,633.9
+2233,2025-07-12,Sabah,Kumar,Electronics,Wireless Earbuds,6,120.17,721.02
+2234,2025-07-12,Selangor,Siti,Home & Living,Blender,5,111.65,558.25
+2235,2025-07-13,Selangor,Farid,Fashion,Backpack,12,118.04,1416.48
+2236,2025-07-13,Selangor,Farid,Beauty,Hair Dryer,2,62.2,124.4
+2237,2025-07-13,Sabah,Kumar,Electronics,Wireless Earbuds,3,136.91,410.73
+2238,2025-07-13,Penang,Divya,Home & Living,Air Fryer,12,80.73,968.76
+2239,2025-07-13,Selangor,Farid,Home & Living,Air Fryer,6,101.87,611.22
+2240,2025-07-13,Kuala Lumpur,Divya,Beauty,Hair Dryer,1,39.23,39.23
+2241,2025-07-13,Penang,Ryan,Fashion,Backpack,2,79.76,159.52
+2242,2025-07-13,Penang,Kumar,Home & Living,Storage Box,9,79.62,716.58
+2243,2025-07-13,Kuala Lumpur,Siti,Beauty,Hair Dryer,7,59.79,418.53
+2244,2025-07-14,Johor,Farid,Home & Living,LED Lamp,12,101.15,1213.8
+2245,2025-07-14,Selangor,Wei Ling,Fashion,Sunglasses,7,124.86,874.02
+2246,2025-07-14,Johor,Wei Ling,Electronics,Bluetooth Speaker,1,139.45,139.45
+2247,2025-07-15,Selangor,Nadia,Fashion,Wallet,7,118.8,831.6
+2248,2025-07-15,Penang,Wei Ling,Fashion,Sneakers,5,119.71,598.55
+2249,2025-07-15,Johor,Divya,Beauty,Sunscreen,9,51.17,460.53
+2250,2025-07-15,Penang,Siti,Beauty,Sunscreen,5,34.15,170.75
+2251,2025-07-15,Johor,Nadia,Home & Living,Air Fryer,4,61.2,244.8
+2252,2025-07-15,Sabah,Nadia,Fashion,Backpack,1,64.76,64.76
+2253,2025-07-15,Kuala Lumpur,Ain,Fashion,Wallet,9,69.96,629.64
+2254,2025-07-16,Penang,Farid,Fashion,Sunglasses,2,66.01,132.02
+2255,2025-07-16,Johor,Kumar,Fashion,Sneakers,8,84.36,674.88
+2256,2025-07-16,Sabah,Wei Ling,Home & Living,Air Fryer,5,71.93,359.65
+2257,2025-07-16,Johor,Kumar,Home & Living,LED Lamp,6,84.92,509.52
+2258,2025-07-16,Penang,Ryan,Beauty,Face Serum,3,53.92,161.76
+2259,2025-07-16,Selangor,Divya,Electronics,Wireless Earbuds,7,158.63,1110.41
+2260,2025-07-16,Kuala Lumpur,Ryan,Beauty,Face Serum,6,52.82,316.92
+2261,2025-07-16,Sabah,Ryan,Beauty,Lip Tint,10,47.21,472.1
+2262,2025-07-16,Johor,Wei Ling,Beauty,Hair Dryer,3,36.05,108.15
+2263,2025-07-17,Johor,Divya,Home & Living,LED Lamp,12,67.91,814.92
+2264,2025-07-17,Selangor,Ryan,Home & Living,Air Fryer,2,89.69,179.38
+2265,2025-07-17,Selangor,Wei Ling,Electronics,Power Bank,10,108.33,1083.3
+2266,2025-07-17,Selangor,Divya,Fashion,Sunglasses,6,82.11,492.66
+2267,2025-07-17,Selangor,Nadia,Home & Living,Storage Box,10,79.62,796.2
+2268,2025-07-17,Penang,Farid,Home & Living,Storage Box,12,83.37,1000.44
+2269,2025-07-18,Penang,Nadia,Electronics,Wireless Earbuds,7,124.42,870.94
+2270,2025-07-18,Sabah,Wei Ling,Beauty,Lip Tint,7,46.47,325.29
+2271,2025-07-18,Kuala Lumpur,Siti,Beauty,Hair Dryer,11,45.65,502.15
+2272,2025-07-18,Selangor,Siti,Beauty,Hair Dryer,4,59.86,239.44
+2273,2025-07-18,Sabah,Farid,Electronics,Bluetooth Speaker,12,107.3,1287.6
+2274,2025-07-18,Kuala Lumpur,Farid,Electronics,Power Bank,9,138.19,1243.71
+2275,2025-07-18,Kuala Lumpur,Ain,Electronics,Smartwatch,8,126.22,1009.76
+2276,2025-07-19,Sabah,Kumar,Home & Living,LED Lamp,5,100.06,500.3
+2277,2025-07-19,Sabah,Ryan,Beauty,Face Serum,9,50.62,455.58
+2278,2025-07-19,Sabah,Wei Ling,Electronics,Bluetooth Speaker,1,112.56,112.56
+2279,2025-07-20,Selangor,Farid,Fashion,Wallet,5,68.73,343.65
+2280,2025-07-20,Sabah,Farid,Home & Living,Air Fryer,3,66.23,198.69
+2281,2025-07-20,Kuala Lumpur,Siti,Fashion,Wallet,11,73.66,810.26
+2282,2025-07-20,Kuala Lumpur,Siti,Electronics,Wireless Earbuds,5,116.75,583.75
+2283,2025-07-20,Kuala Lumpur,Farid,Beauty,Lip Tint,5,43.33,216.65
+2284,2025-07-20,Selangor,Divya,Home & Living,Storage Box,10,88.82,888.2
+2285,2025-07-21,Sabah,Divya,Beauty,Face Serum,5,33.41,167.05
+2286,2025-07-21,Sabah,Kumar,Beauty,Face Serum,8,32.41,259.28
+2287,2025-07-21,Selangor,Wei Ling,Fashion,Sneakers,4,111.07,444.28
+2288,2025-07-21,Penang,Kumar,Beauty,Hair Dryer,2,58.16,116.32
+2289,2025-07-21,Kuala Lumpur,Ryan,Fashion,Backpack,4,96.86,387.44
+2290,2025-07-21,Sabah,Nadia,Beauty,Face Serum,1,57.1,57.1
+2291,2025-07-21,Kuala Lumpur,Nadia,Electronics,Wireless Earbuds,8,106.96,855.68
+2292,2025-07-22,Johor,Nadia,Fashion,Backpack,10,115.96,1159.6
+2293,2025-07-22,Selangor,Farid,Home & Living,LED Lamp,5,61.02,305.1
+2294,2025-07-22,Kuala Lumpur,Siti,Fashion,Wallet,4,101.46,405.84
+2295,2025-07-22,Penang,Siti,Fashion,Wallet,5,78.49,392.45
+2296,2025-07-22,Penang,Wei Ling,Home & Living,Blender,10,74.39,743.9
+2297,2025-07-22,Selangor,Ryan,Beauty,Face Serum,1,52.69,52.69
+2298,2025-07-22,Sabah,Farid,Beauty,Hair Dryer,9,34.06,306.54
+2299,2025-07-22,Sabah,Ryan,Electronics,Bluetooth Speaker,11,94.37,1038.07
+2300,2025-07-22,Sabah,Ain,Fashion,Wallet,3,115.87,347.61
+2301,2025-07-23,Johor,Ain,Fashion,Backpack,8,63.59,508.72
+2302,2025-07-23,Penang,Nadia,Fashion,Backpack,2,114.43,228.86
+2303,2025-07-23,Kuala Lumpur,Divya,Home & Living,Blender,6,58.06,348.36
+2304,2025-07-24,Sabah,Ryan,Home & Living,LED Lamp,4,111.12,444.48
+2305,2025-07-24,Selangor,Wei Ling,Fashion,Wallet,3,97.76,293.28
+2306,2025-07-24,Selangor,Kumar,Home & Living,LED Lamp,3,70.54,211.62
+2307,2025-07-24,Sabah,Nadia,Fashion,Backpack,11,64.46,709.06
+2308,2025-07-24,Sabah,Ain,Beauty,Face Serum,7,51.69,361.83
+2309,2025-07-24,Penang,Divya,Beauty,Hair Dryer,5,35.33,176.65
+2310,2025-07-24,Johor,Nadia,Fashion,Sneakers,12,77.15,925.8
+2311,2025-07-24,Johor,Siti,Beauty,Lip Tint,1,43.84,43.84
+2312,2025-07-25,Sabah,Farid,Electronics,Smartwatch,12,119.6,1435.2
+2313,2025-07-25,Kuala Lumpur,Farid,Home & Living,Storage Box,6,73.41,440.46
+2314,2025-07-25,Selangor,Siti,Beauty,Hair Dryer,1,50.16,50.16
+2315,2025-07-26,Penang,Siti,Home & Living,LED Lamp,8,69.35,554.8
+2316,2025-07-26,Selangor,Divya,Fashion,Backpack,2,111.87,223.74
+2317,2025-07-26,Selangor,Ain,Beauty,Face Serum,2,62.2,124.4
+2318,2025-07-26,Johor,Divya,Fashion,Sneakers,3,66.91,200.73
+2319,2025-07-26,Selangor,Ain,Fashion,Wallet,2,69.42,138.84
+2320,2025-07-26,Sabah,Ryan,Electronics,Power Bank,7,117.74,824.18
+2321,2025-07-26,Kuala Lumpur,Ryan,Electronics,Bluetooth Speaker,7,122.99,860.93
+2322,2025-07-26,Sabah,Ain,Electronics,Power Bank,11,162.76,1790.36
+2323,2025-07-26,Johor,Farid,Fashion,Backpack,2,69.47,138.94
+2324,2025-07-27,Kuala Lumpur,Divya,Home & Living,Air Fryer,6,79.58,477.48
+2325,2025-07-27,Kuala Lumpur,Nadia,Home & Living,Storage Box,1,59.39,59.39
+2326,2025-07-27,Sabah,Wei Ling,Beauty,Lip Tint,5,49.89,249.45
+2327,2025-07-27,Kuala Lumpur,Siti,Beauty,Lip Tint,10,42.3,423.0
+2328,2025-07-27,Selangor,Ain,Home & Living,LED Lamp,4,84.4,337.6
+2329,2025-07-27,Johor,Kumar,Fashion,Backpack,4,103.35,413.4
+2330,2025-07-27,Selangor,Divya,Fashion,Backpack,11,92.97,1022.67
+2331,2025-07-28,Penang,Farid,Fashion,Sunglasses,7,83.7,585.9
+2332,2025-07-28,Johor,Kumar,Electronics,Bluetooth Speaker,4,161.28,645.12
+2333,2025-07-28,Kuala Lumpur,Siti,Beauty,Sunscreen,4,46.64,186.56
+2334,2025-07-28,Johor,Ain,Home & Living,Blender,3,102.26,306.78
+2335,2025-07-28,Penang,Farid,Electronics,Wireless Earbuds,6,86.52,519.12
+2336,2025-07-28,Kuala Lumpur,Siti,Fashion,Wallet,4,102.77,411.08
+2337,2025-07-28,Selangor,Kumar,Electronics,Smartwatch,4,107.86,431.44
+2338,2025-07-29,Kuala Lumpur,Wei Ling,Fashion,Backpack,3,75.35,226.05
+2339,2025-07-29,Penang,Farid,Electronics,Wireless Earbuds,11,95.53,1050.83
+2340,2025-07-29,Penang,Siti,Home & Living,Air Fryer,8,69.45,555.6
+2341,2025-07-29,Kuala Lumpur,Wei Ling,Beauty,Face Serum,2,36.05,72.1
+2342,2025-07-29,Kuala Lumpur,Ryan,Home & Living,Blender,12,76.96,923.52
+2343,2025-07-30,Kuala Lumpur,Wei Ling,Electronics,Smartwatch,9,108.71,978.39
+2344,2025-07-30,Penang,Wei Ling,Home & Living,LED Lamp,11,100.55,1106.05
+2345,2025-07-30,Sabah,Divya,Beauty,Sunscreen,12,34.06,408.72
+2346,2025-07-30,Sabah,Siti,Electronics,Smartwatch,9,116.6,1049.4
+2347,2025-07-30,Johor,Divya,Beauty,Sunscreen,6,53.94,323.64
+2348,2025-07-30,Johor,Ain,Beauty,Lip Tint,10,44.13,441.3
+2349,2025-07-30,Kuala Lumpur,Ryan,Home & Living,Storage Box,8,104.34,834.72
+2350,2025-07-30,Kuala Lumpur,Siti,Fashion,Wallet,7,99.0,693.0
+2351,2025-07-31,Sabah,Siti,Electronics,Smartwatch,2,108.78,217.56
+2352,2025-07-31,Kuala Lumpur,Ryan,Electronics,Bluetooth Speaker,9,136.17,1225.53
+2353,2025-07-31,Johor,Divya,Beauty,Hair Dryer,7,43.08,301.56
+2354,2025-07-31,Penang,Kumar,Fashion,Wallet,1,74.31,74.31
+2355,2025-07-31,Penang,Farid,Electronics,Power Bank,2,108.74,217.48
+2356,2025-08-01,Penang,Ain,Home & Living,LED Lamp,2,60.0,120.0
+2357,2025-08-01,Sabah,Nadia,Home & Living,Air Fryer,4,93.81,375.24
+2358,2025-08-01,Penang,Wei Ling,Fashion,Backpack,12,101.05,1212.6
+2359,2025-08-01,Sabah,Siti,Fashion,Sneakers,5,80.76,403.8
+2360,2025-08-01,Johor,Wei Ling,Beauty,Face Serum,8,52.1,416.8
+2361,2025-08-01,Johor,Divya,Home & Living,Storage Box,12,97.95,1175.4
+2362,2025-08-01,Kuala Lumpur,Siti,Beauty,Hair Dryer,6,56.45,338.7
+2363,2025-08-01,Kuala Lumpur,Ain,Beauty,Hair Dryer,4,45.32,181.28
+2364,2025-08-01,Penang,Ain,Home & Living,Storage Box,5,108.83,544.15
+2365,2025-08-02,Penang,Ryan,Fashion,Backpack,7,89.82,628.74
+2366,2025-08-02,Sabah,Ain,Fashion,Sunglasses,10,64.46,644.6
+2367,2025-08-02,Kuala Lumpur,Ryan,Home & Living,Air Fryer,10,91.27,912.7
+2368,2025-08-02,Johor,Kumar,Home & Living,Blender,2,85.93,171.86
+2369,2025-08-02,Johor,Nadia,Electronics,Power Bank,10,164.8,1648.0
+2370,2025-08-02,Selangor,Ain,Home & Living,LED Lamp,11,86.96,956.56
+2371,2025-08-03,Sabah,Ryan,Beauty,Face Serum,3,37.77,113.31
+2372,2025-08-03,Penang,Farid,Home & Living,Storage Box,5,92.94,464.7
+2373,2025-08-03,Johor,Siti,Electronics,Power Bank,9,84.93,764.37
+2374,2025-08-03,Johor,Ryan,Beauty,Sunscreen,2,35.57,71.14
+2375,2025-08-03,Johor,Kumar,Electronics,Bluetooth Speaker,4,94.91,379.64
+2376,2025-08-03,Penang,Nadia,Beauty,Hair Dryer,3,50.52,151.56
+2377,2025-08-03,Sabah,Wei Ling,Home & Living,Blender,5,67.3,336.5
+2378,2025-08-03,Johor,Siti,Electronics,Bluetooth Speaker,10,151.84,1518.4
+2379,2025-08-03,Sabah,Farid,Beauty,Hair Dryer,8,49.65,397.2
+2380,2025-08-04,Johor,Wei Ling,Fashion,Sunglasses,7,101.62,711.34
+2381,2025-08-04,Johor,Divya,Home & Living,Storage Box,10,97.06,970.6
+2382,2025-08-04,Johor,Ain,Home & Living,LED Lamp,7,95.12,665.84
+2383,2025-08-04,Kuala Lumpur,Farid,Home & Living,Air Fryer,11,86.11,947.21
+2384,2025-08-04,Kuala Lumpur,Siti,Beauty,Hair Dryer,9,35.32,317.88
+2385,2025-08-05,Selangor,Kumar,Fashion,Wallet,8,73.38,587.04
+2386,2025-08-05,Sabah,Divya,Electronics,Bluetooth Speaker,1,90.15,90.15
+2387,2025-08-05,Johor,Ain,Fashion,Wallet,4,87.99,351.96
+2388,2025-08-06,Selangor,Divya,Home & Living,Air Fryer,11,97.93,1077.23
+2389,2025-08-06,Johor,Divya,Electronics,Wireless Earbuds,9,139.19,1252.71
+2390,2025-08-06,Kuala Lumpur,Ain,Beauty,Lip Tint,3,36.87,110.61
+2391,2025-08-06,Sabah,Ryan,Electronics,Smartwatch,5,94.43,472.15
+2392,2025-08-06,Kuala Lumpur,Divya,Electronics,Wireless Earbuds,11,106.95,1176.45
+2393,2025-08-07,Kuala Lumpur,Divya,Home & Living,LED Lamp,11,85.81,943.91
+2394,2025-08-07,Selangor,Ain,Electronics,Bluetooth Speaker,12,109.9,1318.8
+2395,2025-08-07,Sabah,Kumar,Electronics,Wireless Earbuds,7,148.44,1039.08
+2396,2025-08-07,Penang,Ain,Home & Living,Storage Box,2,56.9,113.8
+2397,2025-08-07,Selangor,Kumar,Fashion,Backpack,11,105.14,1156.54
+2398,2025-08-08,Kuala Lumpur,Siti,Home & Living,LED Lamp,7,84.7,592.9
+2399,2025-08-08,Penang,Ryan,Home & Living,Storage Box,9,78.12,703.08
+2400,2025-08-08,Selangor,Wei Ling,Home & Living,Storage Box,2,75.97,151.94
+2401,2025-08-09,Johor,Kumar,Fashion,Sneakers,7,76.4,534.8
+2402,2025-08-09,Selangor,Kumar,Fashion,Sunglasses,1,67.24,67.24
+2403,2025-08-09,Johor,Wei Ling,Fashion,Wallet,2,107.89,215.78
+2404,2025-08-10,Selangor,Wei Ling,Fashion,Wallet,11,121.25,1333.75
+2405,2025-08-10,Penang,Siti,Home & Living,Air Fryer,11,83.0,913.0
+2406,2025-08-10,Selangor,Kumar,Beauty,Hair Dryer,9,51.68,465.12
+2407,2025-08-10,Sabah,Farid,Electronics,Smartwatch,1,135.77,135.77
+2408,2025-08-10,Penang,Ain,Home & Living,Blender,4,90.71,362.84
+2409,2025-08-11,Penang,Kumar,Beauty,Lip Tint,4,36.28,145.12
+2410,2025-08-11,Selangor,Wei Ling,Home & Living,Blender,12,105.13,1261.56
+2411,2025-08-11,Penang,Ryan,Fashion,Sneakers,9,112.88,1015.92
+2412,2025-08-11,Penang,Kumar,Electronics,Smartwatch,12,111.83,1341.96
+2413,2025-08-12,Sabah,Kumar,Electronics,Smartwatch,11,142.49,1567.39
+2414,2025-08-12,Sabah,Ain,Beauty,Lip Tint,3,45.43,136.29
+2415,2025-08-12,Selangor,Wei Ling,Beauty,Face Serum,4,33.14,132.56
+2416,2025-08-12,Kuala Lumpur,Kumar,Home & Living,LED Lamp,3,89.19,267.57
+2417,2025-08-13,Sabah,Wei Ling,Electronics,Bluetooth Speaker,12,123.23,1478.76
+2418,2025-08-13,Kuala Lumpur,Nadia,Home & Living,Blender,3,89.93,269.79
+2419,2025-08-13,Penang,Divya,Beauty,Sunscreen,5,58.67,293.35
+2420,2025-08-13,Selangor,Divya,Fashion,Wallet,7,73.57,514.99
+2421,2025-08-14,Sabah,Ryan,Beauty,Sunscreen,8,32.12,256.96
+2422,2025-08-14,Johor,Wei Ling,Electronics,Power Bank,10,129.12,1291.2
+2423,2025-08-14,Penang,Ryan,Beauty,Hair Dryer,5,45.79,228.95
+2424,2025-08-14,Sabah,Divya,Beauty,Face Serum,6,35.8,214.8
+2425,2025-08-14,Kuala Lumpur,Siti,Home & Living,Storage Box,1,56.72,56.72
+2426,2025-08-14,Johor,Siti,Beauty,Hair Dryer,7,62.07,434.49
+2427,2025-08-15,Johor,Farid,Fashion,Sneakers,7,118.75,831.25
+2428,2025-08-15,Johor,Siti,Home & Living,Storage Box,7,109.6,767.2
+2429,2025-08-15,Sabah,Ryan,Beauty,Lip Tint,12,33.32,399.84
+2430,2025-08-15,Johor,Siti,Home & Living,Storage Box,8,57.93,463.44
+2431,2025-08-15,Selangor,Wei Ling,Home & Living,Air Fryer,10,81.51,815.1
+2432,2025-08-15,Penang,Farid,Home & Living,Storage Box,1,62.54,62.54
+2433,2025-08-16,Johor,Ryan,Beauty,Face Serum,9,60.16,541.44
+2434,2025-08-16,Kuala Lumpur,Ryan,Beauty,Lip Tint,12,41.02,492.24
+2435,2025-08-16,Sabah,Farid,Fashion,Wallet,12,117.77,1413.24
+2436,2025-08-16,Sabah,Ryan,Fashion,Backpack,5,110.17,550.85
+2437,2025-08-16,Penang,Farid,Electronics,Smartwatch,8,84.13,673.04
+2438,2025-08-16,Johor,Wei Ling,Beauty,Lip Tint,12,45.07,540.84
+2439,2025-08-16,Penang,Farid,Home & Living,Storage Box,4,83.24,332.96
+2440,2025-08-16,Johor,Wei Ling,Home & Living,Storage Box,4,59.3,237.2
+2441,2025-08-17,Kuala Lumpur,Farid,Fashion,Wallet,8,102.49,819.92
+2442,2025-08-17,Kuala Lumpur,Nadia,Electronics,Power Bank,2,115.73,231.46
+2443,2025-08-17,Selangor,Divya,Fashion,Sneakers,10,77.79,777.9
+2444,2025-08-17,Selangor,Ain,Electronics,Wireless Earbuds,5,147.15,735.75
+2445,2025-08-17,Sabah,Ain,Electronics,Wireless Earbuds,4,127.88,511.52
+2446,2025-08-17,Johor,Ryan,Fashion,Wallet,8,110.69,885.52
+2447,2025-08-17,Penang,Siti,Fashion,Sunglasses,6,114.46,686.76
+2448,2025-08-17,Johor,Farid,Beauty,Face Serum,6,59.0,354.0
+2449,2025-08-17,Selangor,Wei Ling,Beauty,Hair Dryer,12,57.82,693.84
+2450,2025-08-18,Sabah,Kumar,Electronics,Power Bank,12,147.12,1765.44
+2451,2025-08-18,Penang,Kumar,Beauty,Hair Dryer,9,44.51,400.59
+2452,2025-08-18,Selangor,Ain,Fashion,Sneakers,11,85.69,942.59
+2453,2025-08-19,Penang,Farid,Beauty,Sunscreen,10,46.76,467.6
+2454,2025-08-19,Penang,Farid,Beauty,Hair Dryer,11,58.5,643.5
+2455,2025-08-19,Johor,Ain,Fashion,Backpack,12,72.02,864.24
+2456,2025-08-19,Kuala Lumpur,Divya,Beauty,Face Serum,5,57.72,288.6
+2457,2025-08-19,Kuala Lumpur,Kumar,Beauty,Face Serum,8,52.37,418.96
+2458,2025-08-19,Kuala Lumpur,Farid,Home & Living,Storage Box,11,95.19,1047.09
+2459,2025-08-19,Johor,Nadia,Electronics,Smartwatch,6,159.82,958.92
+2460,2025-08-19,Kuala Lumpur,Wei Ling,Fashion,Wallet,11,70.76,778.36
+2461,2025-08-19,Sabah,Kumar,Beauty,Face Serum,12,41.98,503.76
+2462,2025-08-20,Sabah,Ryan,Electronics,Power Bank,7,160.45,1123.15
+2463,2025-08-20,Sabah,Nadia,Beauty,Sunscreen,4,39.66,158.64
+2464,2025-08-20,Selangor,Kumar,Electronics,Wireless Earbuds,6,146.21,877.26
+2465,2025-08-20,Selangor,Ain,Fashion,Backpack,6,123.11,738.66
+2466,2025-08-20,Penang,Siti,Electronics,Smartwatch,7,166.31,1164.17
+2467,2025-08-20,Penang,Divya,Home & Living,Storage Box,2,78.14,156.28
+2468,2025-08-20,Penang,Divya,Home & Living,Air Fryer,4,83.99,335.96
+2469,2025-08-21,Sabah,Ain,Fashion,Backpack,12,104.92,1259.04
+2470,2025-08-21,Sabah,Farid,Fashion,Sunglasses,9,125.39,1128.51
+2471,2025-08-21,Penang,Ryan,Beauty,Sunscreen,8,40.68,325.44
+2472,2025-08-21,Selangor,Kumar,Fashion,Backpack,12,76.27,915.24
+2473,2025-08-22,Selangor,Wei Ling,Home & Living,Blender,12,77.94,935.28
+2474,2025-08-22,Selangor,Siti,Beauty,Lip Tint,7,52.85,369.95
+2475,2025-08-22,Johor,Nadia,Beauty,Face Serum,9,54.39,489.51
+2476,2025-08-22,Kuala Lumpur,Ain,Beauty,Face Serum,3,41.69,125.07
+2477,2025-08-22,Penang,Divya,Beauty,Sunscreen,10,35.83,358.3
+2478,2025-08-22,Penang,Kumar,Home & Living,Storage Box,4,101.04,404.16
+2479,2025-08-22,Selangor,Wei Ling,Fashion,Sneakers,11,112.49,1237.39
+2480,2025-08-22,Johor,Divya,Beauty,Sunscreen,1,34.53,34.53
+2481,2025-08-23,Selangor,Wei Ling,Electronics,Power Bank,10,120.44,1204.4
+2482,2025-08-23,Johor,Divya,Home & Living,LED Lamp,2,69.49,138.98
+2483,2025-08-23,Penang,Farid,Home & Living,Blender,12,111.51,1338.12
+2484,2025-08-23,Johor,Siti,Beauty,Lip Tint,11,52.08,572.88
+2485,2025-08-24,Selangor,Kumar,Electronics,Wireless Earbuds,2,125.09,250.18
+2486,2025-08-24,Selangor,Wei Ling,Beauty,Lip Tint,12,54.98,659.76
+2487,2025-08-24,Johor,Farid,Beauty,Hair Dryer,5,49.5,247.5
+2488,2025-08-25,Selangor,Divya,Home & Living,Blender,12,57.11,685.32
+2489,2025-08-25,Selangor,Wei Ling,Electronics,Smartwatch,11,159.4,1753.4
+2490,2025-08-25,Sabah,Siti,Home & Living,LED Lamp,9,81.05,729.45
+2491,2025-08-25,Selangor,Wei Ling,Electronics,Smartwatch,10,101.32,1013.2
+2492,2025-08-25,Selangor,Nadia,Fashion,Sneakers,2,124.74,249.48
+2493,2025-08-26,Sabah,Nadia,Home & Living,Blender,11,56.0,616.0
+2494,2025-08-26,Selangor,Siti,Fashion,Wallet,3,99.36,298.08
+2495,2025-08-26,Sabah,Ain,Fashion,Backpack,12,69.24,830.88
+2496,2025-08-26,Kuala Lumpur,Kumar,Electronics,Smartwatch,3,109.18,327.54
+2497,2025-08-26,Kuala Lumpur,Ryan,Home & Living,Air Fryer,5,63.2,316.0
+2498,2025-08-27,Sabah,Wei Ling,Fashion,Sunglasses,7,103.94,727.58
+2499,2025-08-27,Johor,Wei Ling,Beauty,Face Serum,5,52.81,264.05
+2500,2025-08-27,Sabah,Kumar,Home & Living,LED Lamp,11,97.03,1067.33
+2501,2025-08-28,Penang,Ryan,Home & Living,Blender,3,73.72,221.16
+2502,2025-08-28,Johor,Farid,Electronics,Smartwatch,2,106.69,213.38
+2503,2025-08-28,Sabah,Siti,Beauty,Face Serum,6,51.67,310.02
+2504,2025-08-28,Penang,Farid,Fashion,Backpack,4,80.24,320.96
+2505,2025-08-28,Johor,Farid,Home & Living,Blender,2,99.83,199.66
+2506,2025-08-28,Kuala Lumpur,Nadia,Fashion,Wallet,2,96.32,192.64
+2507,2025-08-28,Sabah,Ryan,Fashion,Sneakers,1,73.76,73.76
+2508,2025-08-28,Kuala Lumpur,Nadia,Fashion,Wallet,8,100.32,802.56
+2509,2025-08-29,Sabah,Nadia,Home & Living,Storage Box,3,77.21,231.63
+2510,2025-08-29,Selangor,Divya,Fashion,Backpack,11,101.35,1114.85
+2511,2025-08-29,Kuala Lumpur,Nadia,Beauty,Lip Tint,8,47.32,378.56
+2512,2025-08-30,Sabah,Nadia,Home & Living,Air Fryer,11,104.04,1144.44
+2513,2025-08-30,Johor,Kumar,Fashion,Sneakers,11,68.01,748.11
+2514,2025-08-30,Selangor,Divya,Home & Living,LED Lamp,2,97.63,195.26
+2515,2025-08-30,Selangor,Farid,Beauty,Sunscreen,8,47.18,377.44
+2516,2025-08-30,Johor,Ryan,Electronics,Smartwatch,12,84.61,1015.32
+2517,2025-08-30,Sabah,Ain,Fashion,Backpack,12,104.65,1255.8
+2518,2025-08-31,Johor,Wei Ling,Home & Living,Storage Box,3,60.21,180.63
+2519,2025-08-31,Sabah,Wei Ling,Fashion,Sneakers,7,94.22,659.54
+2520,2025-08-31,Penang,Farid,Electronics,Power Bank,11,104.98,1154.78
+2521,2025-08-31,Penang,Ain,Fashion,Wallet,5,79.68,398.4
+2522,2025-08-31,Sabah,Ain,Beauty,Sunscreen,5,60.77,303.85
+2523,2025-08-31,Johor,Divya,Beauty,Face Serum,6,31.69,190.14
+2524,2025-08-31,Penang,Wei Ling,Fashion,Sunglasses,2,63.32,126.64
+2525,2025-09-01,Penang,Farid,Electronics,Wireless Earbuds,7,125.33,877.31
+2526,2025-09-01,Sabah,Ain,Home & Living,Blender,2,107.13,214.26
+2527,2025-09-01,Kuala Lumpur,Nadia,Fashion,Backpack,8,87.91,703.28
+2528,2025-09-01,Penang,Farid,Beauty,Sunscreen,9,57.06,513.54
+2529,2025-09-01,Johor,Ryan,Beauty,Sunscreen,3,42.64,127.92
+2530,2025-09-01,Selangor,Ain,Fashion,Backpack,2,74.94,149.88
+2531,2025-09-02,Johor,Kumar,Beauty,Lip Tint,1,36.55,36.55
+2532,2025-09-02,Johor,Divya,Fashion,Sneakers,7,93.81,656.67
+2533,2025-09-02,Kuala Lumpur,Ryan,Fashion,Wallet,9,108.74,978.66
+2534,2025-09-02,Kuala Lumpur,Siti,Electronics,Wireless Earbuds,1,94.59,94.59
+2535,2025-09-03,Selangor,Ryan,Home & Living,LED Lamp,11,102.47,1127.17
+2536,2025-09-03,Sabah,Divya,Electronics,Bluetooth Speaker,8,108.32,866.56
+2537,2025-09-03,Selangor,Wei Ling,Beauty,Sunscreen,10,36.3,363.0
+2538,2025-09-03,Kuala Lumpur,Kumar,Fashion,Sneakers,5,125.64,628.2
+2539,2025-09-03,Johor,Farid,Home & Living,Blender,12,99.83,1197.96
+2540,2025-09-03,Sabah,Wei Ling,Home & Living,Storage Box,10,91.22,912.2
+2541,2025-09-03,Kuala Lumpur,Kumar,Electronics,Smartwatch,7,87.22,610.54
+2542,2025-09-04,Johor,Ryan,Electronics,Smartwatch,2,156.61,313.22
+2543,2025-09-04,Johor,Divya,Fashion,Backpack,4,84.18,336.72
+2544,2025-09-04,Selangor,Siti,Beauty,Face Serum,5,34.97,174.85
+2545,2025-09-04,Penang,Ain,Fashion,Wallet,4,83.15,332.6
+2546,2025-09-05,Selangor,Kumar,Electronics,Wireless Earbuds,11,146.56,1612.16
+2547,2025-09-05,Penang,Wei Ling,Beauty,Lip Tint,10,34.67,346.7
+2548,2025-09-05,Penang,Farid,Beauty,Lip Tint,6,41.09,246.54
+2549,2025-09-05,Selangor,Siti,Home & Living,Air Fryer,6,97.51,585.06
+2550,2025-09-06,Sabah,Ryan,Fashion,Backpack,11,80.38,884.18
+2551,2025-09-06,Selangor,Farid,Electronics,Smartwatch,11,146.38,1610.18
+2552,2025-09-06,Selangor,Farid,Home & Living,Storage Box,12,80.96,971.52
+2553,2025-09-06,Selangor,Kumar,Fashion,Sunglasses,12,92.87,1114.44
+2554,2025-09-06,Sabah,Nadia,Home & Living,LED Lamp,3,66.74,200.22
+2555,2025-09-06,Sabah,Farid,Fashion,Sunglasses,8,102.68,821.44
+2556,2025-09-06,Johor,Ain,Electronics,Bluetooth Speaker,7,128.0,896.0
+2557,2025-09-06,Kuala Lumpur,Ain,Fashion,Backpack,5,65.86,329.3
+2558,2025-09-07,Kuala Lumpur,Farid,Beauty,Hair Dryer,11,48.27,530.97
+2559,2025-09-07,Kuala Lumpur,Ryan,Beauty,Hair Dryer,9,56.05,504.45
+2560,2025-09-07,Sabah,Kumar,Fashion,Backpack,3,63.23,189.69
+2561,2025-09-07,Sabah,Nadia,Electronics,Bluetooth Speaker,9,143.45,1291.05
+2562,2025-09-07,Penang,Farid,Home & Living,Air Fryer,12,71.04,852.48
+2563,2025-09-07,Kuala Lumpur,Ain,Home & Living,LED Lamp,9,69.34,624.06
+2564,2025-09-07,Kuala Lumpur,Ain,Fashion,Backpack,5,118.02,590.1
+2565,2025-09-07,Kuala Lumpur,Siti,Home & Living,LED Lamp,1,92.32,92.32
+2566,2025-09-07,Penang,Nadia,Electronics,Power Bank,12,95.22,1142.64
+2567,2025-09-08,Selangor,Nadia,Electronics,Power Bank,4,145.36,581.44
+2568,2025-09-08,Kuala Lumpur,Farid,Fashion,Sneakers,9,104.41,939.69
+2569,2025-09-08,Johor,Nadia,Fashion,Backpack,8,76.9,615.2
+2570,2025-09-08,Kuala Lumpur,Ryan,Beauty,Sunscreen,8,38.8,310.4
+2571,2025-09-08,Penang,Divya,Home & Living,Blender,2,83.77,167.54
+2572,2025-09-09,Kuala Lumpur,Nadia,Home & Living,Blender,12,66.1,793.2
+2573,2025-09-09,Selangor,Kumar,Fashion,Backpack,3,114.5,343.5
+2574,2025-09-09,Selangor,Ryan,Home & Living,LED Lamp,7,69.73,488.11
+2575,2025-09-09,Selangor,Ryan,Home & Living,LED Lamp,10,61.58,615.8
+2576,2025-09-10,Selangor,Farid,Electronics,Wireless Earbuds,3,104.86,314.58
+2577,2025-09-10,Penang,Farid,Home & Living,LED Lamp,1,109.63,109.63
+2578,2025-09-10,Sabah,Divya,Fashion,Sneakers,4,71.77,287.08
+2579,2025-09-11,Kuala Lumpur,Ain,Fashion,Sunglasses,8,72.73,581.84
+2580,2025-09-11,Sabah,Farid,Fashion,Sneakers,1,114.97,114.97
+2581,2025-09-11,Sabah,Ryan,Fashion,Sneakers,9,118.85,1069.65
+2582,2025-09-11,Kuala Lumpur,Ryan,Electronics,Smartwatch,1,103.04,103.04
+2583,2025-09-11,Kuala Lumpur,Ryan,Fashion,Sunglasses,4,121.07,484.28
+2584,2025-09-11,Selangor,Nadia,Beauty,Sunscreen,2,38.57,77.14
+2585,2025-09-11,Penang,Farid,Electronics,Power Bank,2,114.28,228.56
+2586,2025-09-11,Selangor,Wei Ling,Home & Living,Storage Box,7,85.71,599.97
+2587,2025-09-11,Johor,Siti,Home & Living,Air Fryer,10,101.78,1017.8
+2588,2025-09-12,Penang,Farid,Beauty,Lip Tint,5,57.04,285.2
+2589,2025-09-12,Selangor,Divya,Home & Living,Storage Box,6,64.28,385.68
+2590,2025-09-12,Johor,Nadia,Electronics,Wireless Earbuds,10,119.91,1199.1
+2591,2025-09-13,Selangor,Siti,Fashion,Backpack,3,111.35,334.05
+2592,2025-09-13,Penang,Ryan,Beauty,Hair Dryer,8,53.34,426.72
+2593,2025-09-13,Sabah,Ryan,Fashion,Backpack,11,121.06,1331.66
+2594,2025-09-13,Johor,Kumar,Beauty,Hair Dryer,9,48.39,435.51
+2595,2025-09-14,Selangor,Siti,Beauty,Sunscreen,12,34.25,411.0
+2596,2025-09-14,Selangor,Wei Ling,Home & Living,LED Lamp,6,87.27,523.62
+2597,2025-09-14,Selangor,Wei Ling,Electronics,Power Bank,6,155.3,931.8
+2598,2025-09-14,Penang,Ryan,Beauty,Sunscreen,9,62.11,558.99
+2599,2025-09-14,Kuala Lumpur,Farid,Home & Living,Storage Box,1,97.83,97.83
+2600,2025-09-14,Kuala Lumpur,Siti,Beauty,Face Serum,12,61.89,742.68
+2601,2025-09-15,Selangor,Ain,Electronics,Bluetooth Speaker,10,157.12,1571.2
+2602,2025-09-15,Kuala Lumpur,Ain,Fashion,Backpack,2,78.44,156.88
+2603,2025-09-15,Sabah,Wei Ling,Beauty,Sunscreen,3,46.3,138.9
+2604,2025-09-16,Sabah,Divya,Fashion,Wallet,7,108.52,759.64
+2605,2025-09-16,Selangor,Ain,Fashion,Sneakers,3,66.78,200.34
+2606,2025-09-16,Sabah,Ryan,Home & Living,Storage Box,1,78.2,78.2
+2607,2025-09-16,Johor,Wei Ling,Fashion,Sunglasses,12,77.32,927.84
+2608,2025-09-16,Penang,Ryan,Electronics,Bluetooth Speaker,3,146.42,439.26
+2609,2025-09-16,Sabah,Farid,Electronics,Smartwatch,7,99.43,696.01
+2610,2025-09-16,Johor,Ryan,Beauty,Lip Tint,11,51.72,568.92
+2611,2025-09-16,Kuala Lumpur,Nadia,Electronics,Power Bank,11,119.63,1315.93
+2612,2025-09-17,Selangor,Siti,Electronics,Power Bank,10,149.42,1494.2
+2613,2025-09-17,Selangor,Farid,Home & Living,Air Fryer,3,86.33,258.99
+2614,2025-09-17,Kuala Lumpur,Ain,Electronics,Power Bank,4,130.34,521.36
+2615,2025-09-18,Penang,Divya,Electronics,Wireless Earbuds,10,166.87,1668.7
+2616,2025-09-18,Selangor,Ain,Electronics,Power Bank,2,163.25,326.5
+2617,2025-09-18,Penang,Ryan,Fashion,Wallet,9,75.28,677.52
+2618,2025-09-18,Penang,Farid,Home & Living,LED Lamp,6,78.81,472.86
+2619,2025-09-19,Kuala Lumpur,Ain,Electronics,Bluetooth Speaker,8,133.25,1066.0
+2620,2025-09-19,Penang,Farid,Home & Living,Storage Box,11,81.93,901.23
+2621,2025-09-19,Kuala Lumpur,Siti,Home & Living,Storage Box,12,65.02,780.24
+2622,2025-09-19,Johor,Ryan,Home & Living,Air Fryer,5,76.18,380.9
+2623,2025-09-19,Selangor,Farid,Beauty,Sunscreen,4,62.91,251.64
+2624,2025-09-19,Kuala Lumpur,Nadia,Beauty,Face Serum,1,35.99,35.99
+2625,2025-09-19,Sabah,Wei Ling,Electronics,Bluetooth Speaker,2,122.2,244.4
+2626,2025-09-20,Kuala Lumpur,Farid,Electronics,Power Bank,10,114.52,1145.2
+2627,2025-09-20,Selangor,Nadia,Home & Living,Blender,5,111.22,556.1
+2628,2025-09-20,Johor,Siti,Home & Living,LED Lamp,10,83.34,833.4
+2629,2025-09-20,Penang,Wei Ling,Beauty,Hair Dryer,10,60.39,603.9
+2630,2025-09-20,Johor,Ryan,Fashion,Sunglasses,6,68.26,409.56
+2631,2025-09-21,Johor,Ain,Fashion,Sneakers,10,124.58,1245.8
+2632,2025-09-21,Kuala Lumpur,Wei Ling,Electronics,Smartwatch,2,108.42,216.84
+2633,2025-09-21,Sabah,Divya,Beauty,Face Serum,4,43.73,174.92
+2634,2025-09-21,Selangor,Divya,Fashion,Wallet,8,103.48,827.84
+2635,2025-09-21,Selangor,Ryan,Electronics,Smartwatch,12,93.1,1117.2
+2636,2025-09-21,Johor,Siti,Home & Living,Blender,6,59.61,357.66
+2637,2025-09-21,Sabah,Farid,Beauty,Sunscreen,12,54.85,658.2
+2638,2025-09-22,Johor,Kumar,Electronics,Smartwatch,8,96.22,769.76
+2639,2025-09-22,Penang,Siti,Electronics,Bluetooth Speaker,1,162.66,162.66
+2640,2025-09-22,Johor,Ain,Beauty,Sunscreen,1,38.16,38.16
+2641,2025-09-22,Johor,Wei Ling,Fashion,Sunglasses,11,74.09,814.99
+2642,2025-09-22,Selangor,Divya,Fashion,Wallet,2,81.8,163.6
+2643,2025-09-23,Johor,Farid,Home & Living,Air Fryer,3,102.51,307.53
+2644,2025-09-23,Johor,Ryan,Fashion,Sunglasses,3,75.51,226.53
+2645,2025-09-23,Johor,Ryan,Beauty,Sunscreen,12,45.26,543.12
+2646,2025-09-23,Selangor,Wei Ling,Home & Living,LED Lamp,12,93.41,1120.92
+2647,2025-09-23,Penang,Wei Ling,Fashion,Sneakers,3,119.48,358.44
+2648,2025-09-23,Johor,Ain,Fashion,Sneakers,11,88.6,974.6
+2649,2025-09-23,Johor,Farid,Home & Living,Blender,11,110.29,1213.19
+2650,2025-09-23,Selangor,Wei Ling,Home & Living,Storage Box,7,95.0,665.0
+2651,2025-09-23,Sabah,Kumar,Beauty,Sunscreen,6,38.11,228.66
+2652,2025-09-24,Sabah,Nadia,Electronics,Power Bank,6,85.36,512.16
+2653,2025-09-24,Sabah,Ryan,Electronics,Bluetooth Speaker,11,167.92,1847.12
+2654,2025-09-24,Johor,Siti,Fashion,Sunglasses,9,89.83,808.47
+2655,2025-09-24,Selangor,Wei Ling,Home & Living,Blender,7,76.89,538.23
+2656,2025-09-24,Sabah,Ryan,Beauty,Hair Dryer,5,58.12,290.6
+2657,2025-09-24,Penang,Ain,Electronics,Wireless Earbuds,2,91.53,183.06
+2658,2025-09-24,Sabah,Farid,Beauty,Face Serum,8,55.12,440.96
+2659,2025-09-24,Johor,Divya,Electronics,Power Bank,7,101.8,712.6
+2660,2025-09-25,Johor,Siti,Electronics,Smartwatch,8,163.85,1310.8
+2661,2025-09-25,Johor,Kumar,Beauty,Hair Dryer,1,61.1,61.1
+2662,2025-09-25,Sabah,Ryan,Fashion,Sunglasses,11,79.66,876.26
+2663,2025-09-25,Kuala Lumpur,Wei Ling,Electronics,Bluetooth Speaker,1,85.3,85.3
+2664,2025-09-25,Penang,Ryan,Fashion,Sunglasses,3,123.43,370.29
+2665,2025-09-25,Kuala Lumpur,Ain,Beauty,Sunscreen,10,51.8,518.0
+2666,2025-09-25,Sabah,Wei Ling,Beauty,Sunscreen,11,43.8,481.8
+2667,2025-09-26,Penang,Wei Ling,Home & Living,Blender,4,61.58,246.32
+2668,2025-09-26,Sabah,Wei Ling,Electronics,Bluetooth Speaker,11,161.0,1771.0
+2669,2025-09-26,Penang,Ain,Home & Living,LED Lamp,2,57.44,114.88
+2670,2025-09-26,Sabah,Farid,Home & Living,LED Lamp,10,95.62,956.2
+2671,2025-09-26,Sabah,Divya,Beauty,Face Serum,12,54.63,655.56
+2672,2025-09-26,Penang,Nadia,Home & Living,Storage Box,11,106.28,1169.08
+2673,2025-09-27,Sabah,Nadia,Home & Living,Blender,5,92.92,464.6
+2674,2025-09-27,Selangor,Farid,Home & Living,LED Lamp,11,111.15,1222.65
+2675,2025-09-27,Selangor,Nadia,Beauty,Face Serum,2,35.97,71.94
+2676,2025-09-27,Kuala Lumpur,Kumar,Electronics,Wireless Earbuds,8,154.95,1239.6
+2677,2025-09-28,Selangor,Farid,Beauty,Face Serum,7,33.82,236.74
+2678,2025-09-28,Kuala Lumpur,Divya,Beauty,Hair Dryer,6,51.46,308.76
+2679,2025-09-28,Kuala Lumpur,Ain,Home & Living,Air Fryer,1,106.6,106.6
+2680,2025-09-28,Selangor,Ain,Fashion,Sunglasses,8,125.68,1005.44
+2681,2025-09-28,Kuala Lumpur,Ain,Fashion,Sneakers,4,101.18,404.72
+2682,2025-09-28,Sabah,Kumar,Home & Living,Storage Box,6,62.43,374.58
+2683,2025-09-29,Penang,Wei Ling,Home & Living,Storage Box,2,96.75,193.5
+2684,2025-09-29,Penang,Siti,Fashion,Wallet,4,123.05,492.2
+2685,2025-09-29,Sabah,Ryan,Fashion,Wallet,12,113.97,1367.64
+2686,2025-09-30,Johor,Nadia,Home & Living,Air Fryer,3,67.08,201.24
+2687,2025-09-30,Johor,Divya,Electronics,Power Bank,3,150.7,452.1
+2688,2025-09-30,Johor,Siti,Beauty,Hair Dryer,10,55.03,550.3
+2689,2025-09-30,Sabah,Siti,Electronics,Bluetooth Speaker,7,100.78,705.46
+2690,2025-09-30,Penang,Nadia,Electronics,Bluetooth Speaker,3,158.71,476.13
+2691,2025-09-30,Sabah,Siti,Beauty,Lip Tint,10,57.54,575.4
+2692,2025-09-30,Johor,Ryan,Electronics,Wireless Earbuds,3,151.96,455.88
+2693,2025-10-01,Kuala Lumpur,Siti,Fashion,Backpack,2,76.56,153.12
+2694,2025-10-01,Penang,Ain,Home & Living,Air Fryer,2,56.54,113.08
+2695,2025-10-01,Penang,Kumar,Home & Living,Blender,10,100.53,1005.3
+2696,2025-10-01,Sabah,Kumar,Electronics,Bluetooth Speaker,5,134.55,672.75
+2697,2025-10-01,Selangor,Ryan,Fashion,Sneakers,10,119.24,1192.4
+2698,2025-10-01,Johor,Divya,Fashion,Sunglasses,4,75.42,301.68
+2699,2025-10-01,Johor,Divya,Electronics,Power Bank,7,94.02,658.14
+2700,2025-10-01,Kuala Lumpur,Nadia,Fashion,Wallet,4,99.31,397.24
+2701,2025-10-01,Selangor,Ryan,Electronics,Bluetooth Speaker,5,95.01,475.05
+2702,2025-10-02,Sabah,Divya,Electronics,Power Bank,11,85.37,939.07
+2703,2025-10-02,Selangor,Siti,Beauty,Lip Tint,5,41.49,207.45
+2704,2025-10-02,Johor,Ryan,Electronics,Power Bank,8,135.43,1083.44
+2705,2025-10-03,Johor,Farid,Beauty,Face Serum,6,61.04,366.24
+2706,2025-10-03,Selangor,Siti,Home & Living,LED Lamp,1,63.77,63.77
+2707,2025-10-03,Johor,Siti,Home & Living,Storage Box,2,66.7,133.4
+2708,2025-10-03,Sabah,Ain,Electronics,Wireless Earbuds,5,158.2,791.0
+2709,2025-10-03,Selangor,Ryan,Electronics,Power Bank,2,106.15,212.3
+2710,2025-10-04,Kuala Lumpur,Wei Ling,Home & Living,Blender,2,63.07,126.14
+2711,2025-10-04,Sabah,Kumar,Beauty,Hair Dryer,11,35.35,388.85
+2712,2025-10-04,Sabah,Divya,Beauty,Hair Dryer,5,41.64,208.2
+2713,2025-10-04,Kuala Lumpur,Siti,Electronics,Power Bank,5,143.76,718.8
+2714,2025-10-04,Sabah,Divya,Home & Living,Storage Box,12,60.37,724.44
+2715,2025-10-05,Kuala Lumpur,Kumar,Electronics,Smartwatch,8,152.75,1222.0
+2716,2025-10-05,Johor,Siti,Electronics,Power Bank,4,152.38,609.52
+2717,2025-10-05,Penang,Wei Ling,Beauty,Sunscreen,9,34.83,313.47
+2718,2025-10-06,Penang,Ryan,Beauty,Hair Dryer,10,47.67,476.7
+2719,2025-10-06,Kuala Lumpur,Nadia,Electronics,Power Bank,7,97.79,684.53
+2720,2025-10-06,Sabah,Farid,Electronics,Smartwatch,8,157.6,1260.8
+2721,2025-10-06,Kuala Lumpur,Divya,Electronics,Bluetooth Speaker,3,106.41,319.23
+2722,2025-10-07,Sabah,Farid,Beauty,Lip Tint,5,35.23,176.15
+2723,2025-10-07,Penang,Ryan,Beauty,Sunscreen,3,44.0,132.0
+2724,2025-10-07,Sabah,Farid,Fashion,Sneakers,8,80.17,641.36
+2725,2025-10-07,Selangor,Ryan,Beauty,Hair Dryer,4,40.76,163.04
+2726,2025-10-07,Kuala Lumpur,Ain,Fashion,Wallet,9,90.31,812.79
+2727,2025-10-07,Kuala Lumpur,Ain,Electronics,Smartwatch,2,88.46,176.92
+2728,2025-10-07,Sabah,Nadia,Fashion,Backpack,2,96.52,193.04
+2729,2025-10-07,Kuala Lumpur,Nadia,Beauty,Hair Dryer,7,34.69,242.83
+2730,2025-10-08,Kuala Lumpur,Nadia,Home & Living,Storage Box,6,91.67,550.02
+2731,2025-10-08,Selangor,Divya,Electronics,Smartwatch,9,160.25,1442.25
+2732,2025-10-08,Penang,Wei Ling,Home & Living,Storage Box,6,94.16,564.96
+2733,2025-10-08,Kuala Lumpur,Divya,Fashion,Wallet,3,123.62,370.86
+2734,2025-10-08,Johor,Farid,Fashion,Sneakers,3,124.39,373.17
+2735,2025-10-08,Kuala Lumpur,Divya,Electronics,Power Bank,8,132.99,1063.92
+2736,2025-10-09,Kuala Lumpur,Nadia,Beauty,Face Serum,1,57.3,57.3
+2737,2025-10-09,Kuala Lumpur,Siti,Home & Living,Storage Box,2,61.6,123.2
+2738,2025-10-09,Johor,Divya,Beauty,Lip Tint,9,39.61,356.49
+2739,2025-10-09,Penang,Nadia,Fashion,Wallet,1,115.15,115.15
+2740,2025-10-09,Penang,Ain,Beauty,Face Serum,5,53.1,265.5
+2741,2025-10-09,Kuala Lumpur,Siti,Beauty,Sunscreen,11,62.81,690.91
+2742,2025-10-09,Johor,Ryan,Electronics,Smartwatch,10,146.25,1462.5
+2743,2025-10-09,Penang,Ryan,Home & Living,LED Lamp,4,107.56,430.24
+2744,2025-10-09,Selangor,Siti,Fashion,Wallet,9,74.02,666.18
+2745,2025-10-10,Johor,Siti,Beauty,Lip Tint,5,37.5,187.5
+2746,2025-10-10,Sabah,Siti,Electronics,Bluetooth Speaker,8,131.6,1052.8
+2747,2025-10-10,Penang,Wei Ling,Electronics,Wireless Earbuds,8,161.89,1295.12
+2748,2025-10-10,Johor,Wei Ling,Home & Living,Air Fryer,10,87.26,872.6
+2749,2025-10-10,Penang,Ain,Beauty,Lip Tint,2,56.69,113.38
+2750,2025-10-11,Selangor,Divya,Home & Living,Air Fryer,10,62.91,629.1
+2751,2025-10-11,Penang,Ain,Electronics,Bluetooth Speaker,6,139.46,836.76
+2752,2025-10-11,Selangor,Wei Ling,Fashion,Backpack,6,118.36,710.16
+2753,2025-10-11,Selangor,Farid,Fashion,Backpack,12,75.39,904.68
+2754,2025-10-11,Penang,Kumar,Home & Living,LED Lamp,8,108.24,865.92
+2755,2025-10-11,Johor,Nadia,Beauty,Hair Dryer,2,59.63,119.26
+2756,2025-10-12,Penang,Wei Ling,Home & Living,Blender,11,105.05,1155.55
+2757,2025-10-12,Kuala Lumpur,Nadia,Fashion,Backpack,7,97.92,685.44
+2758,2025-10-12,Penang,Divya,Electronics,Power Bank,10,161.88,1618.8
+2759,2025-10-12,Sabah,Divya,Home & Living,Blender,7,61.38,429.66
+2760,2025-10-12,Penang,Ryan,Fashion,Wallet,6,89.94,539.64
+2761,2025-10-12,Johor,Ryan,Beauty,Face Serum,9,32.33,290.97
+2762,2025-10-12,Selangor,Siti,Home & Living,Air Fryer,4,88.5,354.0
+2763,2025-10-13,Sabah,Ain,Fashion,Sneakers,7,70.93,496.51
+2764,2025-10-13,Johor,Farid,Beauty,Face Serum,2,33.22,66.44
+2765,2025-10-13,Penang,Siti,Electronics,Power Bank,10,124.44,1244.4
+2766,2025-10-13,Selangor,Wei Ling,Electronics,Wireless Earbuds,12,101.23,1214.76
+2767,2025-10-14,Johor,Wei Ling,Home & Living,Storage Box,11,91.82,1010.02
+2768,2025-10-14,Penang,Kumar,Fashion,Sneakers,8,102.29,818.32
+2769,2025-10-14,Selangor,Farid,Electronics,Wireless Earbuds,3,134.72,404.16
+2770,2025-10-14,Sabah,Ain,Electronics,Smartwatch,4,92.7,370.8
+2771,2025-10-14,Sabah,Nadia,Beauty,Hair Dryer,1,60.67,60.67
+2772,2025-10-14,Johor,Nadia,Beauty,Sunscreen,4,58.01,232.04
+2773,2025-10-14,Sabah,Ain,Beauty,Face Serum,7,36.11,252.77
+2774,2025-10-15,Kuala Lumpur,Kumar,Home & Living,Storage Box,9,97.53,877.77
+2775,2025-10-15,Johor,Divya,Beauty,Lip Tint,5,52.53,262.65
+2776,2025-10-15,Penang,Farid,Fashion,Wallet,7,106.95,748.65
+2777,2025-10-15,Johor,Divya,Beauty,Hair Dryer,3,32.38,97.14
+2778,2025-10-16,Sabah,Divya,Beauty,Face Serum,10,41.04,410.4
+2779,2025-10-16,Selangor,Divya,Fashion,Backpack,8,118.59,948.72
+2780,2025-10-16,Penang,Kumar,Electronics,Smartwatch,6,126.05,756.3
+2781,2025-10-17,Sabah,Siti,Beauty,Face Serum,3,52.16,156.48
+2782,2025-10-17,Sabah,Wei Ling,Fashion,Wallet,12,117.1,1405.2
+2783,2025-10-17,Penang,Divya,Fashion,Wallet,2,120.72,241.44
+2784,2025-10-17,Johor,Nadia,Beauty,Sunscreen,10,53.82,538.2
+2785,2025-10-17,Kuala Lumpur,Ryan,Fashion,Sunglasses,10,101.9,1019.0
+2786,2025-10-18,Selangor,Farid,Electronics,Smartwatch,4,92.11,368.44
+2787,2025-10-18,Johor,Kumar,Beauty,Lip Tint,4,62.41,249.64
+2788,2025-10-18,Selangor,Ain,Home & Living,Blender,7,107.65,753.55
+2789,2025-10-19,Penang,Siti,Electronics,Wireless Earbuds,12,90.12,1081.44
+2790,2025-10-19,Sabah,Divya,Electronics,Smartwatch,6,93.04,558.24
+2791,2025-10-19,Johor,Divya,Home & Living,Storage Box,4,70.14,280.56
+2792,2025-10-19,Penang,Kumar,Home & Living,Storage Box,12,65.08,780.96
+2793,2025-10-19,Selangor,Wei Ling,Electronics,Wireless Earbuds,4,86.79,347.16
+2794,2025-10-19,Selangor,Farid,Fashion,Wallet,10,97.43,974.3
+2795,2025-10-19,Penang,Divya,Home & Living,Blender,4,102.61,410.44
+2796,2025-10-20,Penang,Ryan,Fashion,Backpack,2,90.65,181.3
+2797,2025-10-20,Selangor,Farid,Electronics,Smartwatch,9,109.05,981.45
+2798,2025-10-20,Johor,Ain,Home & Living,LED Lamp,10,86.27,862.7
+2799,2025-10-20,Kuala Lumpur,Farid,Fashion,Sunglasses,7,107.31,751.17
+2800,2025-10-20,Kuala Lumpur,Nadia,Fashion,Sneakers,9,99.25,893.25
+2801,2025-10-20,Johor,Nadia,Electronics,Wireless Earbuds,10,123.56,1235.6
+2802,2025-10-20,Selangor,Siti,Electronics,Power Bank,7,105.91,741.37
+2803,2025-10-21,Selangor,Siti,Home & Living,Storage Box,9,101.74,915.66
+2804,2025-10-21,Selangor,Ain,Home & Living,Blender,2,101.12,202.24
+2805,2025-10-21,Penang,Farid,Electronics,Bluetooth Speaker,10,146.1,1461.0
+2806,2025-10-21,Sabah,Farid,Beauty,Sunscreen,5,54.28,271.4
+2807,2025-10-21,Selangor,Divya,Beauty,Sunscreen,11,42.53,467.83
+2808,2025-10-21,Penang,Kumar,Home & Living,LED Lamp,1,57.48,57.48
+2809,2025-10-21,Sabah,Ryan,Beauty,Face Serum,9,46.69,420.21
+2810,2025-10-21,Johor,Wei Ling,Home & Living,Blender,12,79.9,958.8
+2811,2025-10-21,Selangor,Siti,Beauty,Face Serum,10,62.45,624.5
+2812,2025-10-22,Kuala Lumpur,Farid,Fashion,Wallet,1,78.0,78.0
+2813,2025-10-22,Sabah,Ain,Electronics,Smartwatch,7,146.79,1027.53
+2814,2025-10-22,Selangor,Divya,Home & Living,LED Lamp,2,59.17,118.34
+2815,2025-10-22,Kuala Lumpur,Kumar,Fashion,Sneakers,6,85.03,510.18
+2816,2025-10-22,Penang,Farid,Home & Living,Blender,8,92.82,742.56
+2817,2025-10-23,Penang,Siti,Home & Living,Blender,12,97.17,1166.04
+2818,2025-10-23,Kuala Lumpur,Nadia,Beauty,Lip Tint,6,56.08,336.48
+2819,2025-10-23,Kuala Lumpur,Farid,Fashion,Sunglasses,12,97.11,1165.32
+2820,2025-10-24,Penang,Wei Ling,Beauty,Hair Dryer,5,33.97,169.85
+2821,2025-10-24,Sabah,Farid,Home & Living,Air Fryer,12,86.97,1043.64
+2822,2025-10-24,Penang,Divya,Home & Living,LED Lamp,4,95.11,380.44
+2823,2025-10-25,Selangor,Ryan,Beauty,Face Serum,5,40.26,201.3
+2824,2025-10-25,Penang,Ryan,Electronics,Wireless Earbuds,5,155.78,778.9
+2825,2025-10-25,Johor,Kumar,Electronics,Bluetooth Speaker,7,121.3,849.1
+2826,2025-10-26,Johor,Nadia,Home & Living,Blender,9,58.93,530.37
+2827,2025-10-26,Selangor,Siti,Fashion,Sneakers,10,110.53,1105.3
+2828,2025-10-26,Penang,Ryan,Home & Living,LED Lamp,6,96.64,579.84
+2829,2025-10-26,Johor,Nadia,Electronics,Wireless Earbuds,9,116.6,1049.4
+2830,2025-10-27,Sabah,Nadia,Beauty,Hair Dryer,10,54.16,541.6
+2831,2025-10-27,Kuala Lumpur,Kumar,Beauty,Hair Dryer,12,62.77,753.24
+2832,2025-10-27,Kuala Lumpur,Farid,Electronics,Power Bank,11,163.88,1802.68
+2833,2025-10-27,Kuala Lumpur,Nadia,Fashion,Sunglasses,10,87.86,878.6
+2834,2025-10-27,Penang,Ain,Fashion,Sunglasses,11,114.05,1254.55
+2835,2025-10-27,Selangor,Divya,Fashion,Sunglasses,5,116.4,582.0
+2836,2025-10-27,Johor,Siti,Electronics,Bluetooth Speaker,1,123.18,123.18
+2837,2025-10-27,Johor,Farid,Home & Living,Blender,1,88.46,88.46
+2838,2025-10-27,Penang,Nadia,Fashion,Sneakers,8,74.33,594.64
+2839,2025-10-28,Johor,Ain,Home & Living,Storage Box,11,65.77,723.47
+2840,2025-10-28,Kuala Lumpur,Divya,Electronics,Wireless Earbuds,3,141.49,424.47
+2841,2025-10-28,Sabah,Ain,Fashion,Sneakers,9,108.19,973.71
+2842,2025-10-28,Penang,Siti,Fashion,Sneakers,11,116.23,1278.53
+2843,2025-10-28,Sabah,Divya,Electronics,Smartwatch,6,93.17,559.02
+2844,2025-10-29,Sabah,Siti,Electronics,Smartwatch,4,111.37,445.48
+2845,2025-10-29,Johor,Siti,Electronics,Bluetooth Speaker,5,96.02,480.1
+2846,2025-10-29,Sabah,Siti,Fashion,Sunglasses,7,119.54,836.78
+2847,2025-10-30,Penang,Wei Ling,Electronics,Smartwatch,6,87.75,526.5
+2848,2025-10-30,Sabah,Siti,Electronics,Wireless Earbuds,10,101.76,1017.6
+2849,2025-10-30,Sabah,Ain,Fashion,Backpack,7,115.34,807.38
+2850,2025-10-30,Kuala Lumpur,Kumar,Beauty,Face Serum,2,61.7,123.4
+2851,2025-10-30,Sabah,Divya,Beauty,Face Serum,9,56.64,509.76
+2852,2025-10-30,Sabah,Nadia,Beauty,Lip Tint,5,37.64,188.2
+2853,2025-10-31,Penang,Farid,Home & Living,Air Fryer,4,81.53,326.12
+2854,2025-10-31,Kuala Lumpur,Farid,Beauty,Hair Dryer,6,34.01,204.06
+2855,2025-10-31,Penang,Kumar,Beauty,Sunscreen,8,56.27,450.16
+2856,2025-10-31,Sabah,Wei Ling,Home & Living,Storage Box,7,93.75,656.25
+2857,2025-11-01,Penang,Ryan,Fashion,Sunglasses,8,70.43,563.44
+2858,2025-11-01,Johor,Kumar,Home & Living,Blender,15,105.36,1580.4
+2859,2025-11-01,Kuala Lumpur,Nadia,Beauty,Face Serum,4,35.3,141.2
+2860,2025-11-01,Sabah,Ryan,Beauty,Face Serum,4,58.89,235.56
+2861,2025-11-01,Selangor,Ryan,Home & Living,LED Lamp,4,84.83,339.32
+2862,2025-11-01,Johor,Kumar,Fashion,Backpack,9,106.91,962.19
+2863,2025-11-01,Penang,Farid,Electronics,Power Bank,8,133.68,1069.44
+2864,2025-11-02,Selangor,Divya,Electronics,Power Bank,11,160.5,1765.5
+2865,2025-11-02,Johor,Wei Ling,Fashion,Wallet,16,71.48,1143.68
+2866,2025-11-02,Sabah,Siti,Electronics,Smartwatch,1,133.86,133.86
+2867,2025-11-02,Johor,Nadia,Beauty,Lip Tint,11,37.07,407.77
+2868,2025-11-02,Selangor,Ryan,Home & Living,Air Fryer,11,75.1,826.1
+2869,2025-11-02,Penang,Wei Ling,Fashion,Wallet,8,110.71,885.68
+2870,2025-11-02,Selangor,Siti,Home & Living,Blender,12,71.58,858.96
+2871,2025-11-02,Selangor,Nadia,Fashion,Sunglasses,4,70.47,281.88
+2872,2025-11-03,Johor,Nadia,Home & Living,Storage Box,7,108.6,760.2
+2873,2025-11-03,Sabah,Farid,Electronics,Smartwatch,15,107.4,1611.0
+2874,2025-11-03,Kuala Lumpur,Kumar,Home & Living,LED Lamp,14,106.54,1491.56
+2875,2025-11-03,Selangor,Ryan,Beauty,Face Serum,8,37.9,303.2
+2876,2025-11-03,Johor,Farid,Home & Living,Blender,7,107.41,751.87
+2877,2025-11-03,Johor,Wei Ling,Beauty,Hair Dryer,7,34.24,239.68
+2878,2025-11-04,Selangor,Farid,Fashion,Sneakers,16,112.98,1807.68
+2879,2025-11-04,Penang,Farid,Home & Living,Air Fryer,7,81.39,569.73
+2880,2025-11-04,Penang,Siti,Electronics,Bluetooth Speaker,2,162.32,324.64
+2881,2025-11-04,Kuala Lumpur,Ryan,Electronics,Wireless Earbuds,5,95.5,477.5
+2882,2025-11-04,Kuala Lumpur,Wei Ling,Home & Living,Air Fryer,11,64.48,709.28
+2883,2025-11-05,Johor,Farid,Fashion,Backpack,5,102.99,514.95
+2884,2025-11-05,Sabah,Kumar,Home & Living,LED Lamp,9,59.77,537.93
+2885,2025-11-05,Kuala Lumpur,Ryan,Electronics,Bluetooth Speaker,16,106.1,1697.6
+2886,2025-11-05,Sabah,Wei Ling,Home & Living,Air Fryer,11,85.71,942.81
+2887,2025-11-05,Penang,Ryan,Home & Living,Air Fryer,15,83.16,1247.4
+2888,2025-11-05,Sabah,Farid,Fashion,Wallet,7,69.08,483.56
+2889,2025-11-05,Penang,Ryan,Beauty,Hair Dryer,8,39.29,314.32
+2890,2025-11-05,Selangor,Siti,Home & Living,Blender,8,92.99,743.92
+2891,2025-11-06,Johor,Kumar,Home & Living,Blender,11,89.66,986.26
+2892,2025-11-06,Selangor,Ryan,Fashion,Sunglasses,12,76.55,918.6
+2893,2025-11-06,Selangor,Ryan,Fashion,Sunglasses,15,83.01,1245.15
+2894,2025-11-06,Johor,Nadia,Beauty,Hair Dryer,7,60.24,421.68
+2895,2025-11-06,Johor,Nadia,Home & Living,Air Fryer,15,101.84,1527.6
+2896,2025-11-06,Johor,Kumar,Beauty,Sunscreen,14,59.08,827.12
+2897,2025-11-06,Selangor,Ain,Fashion,Backpack,14,97.01,1358.14
+2898,2025-11-06,Johor,Farid,Electronics,Power Bank,8,148.41,1187.28
+2899,2025-11-07,Selangor,Wei Ling,Home & Living,Air Fryer,12,67.11,805.32
+2900,2025-11-07,Sabah,Siti,Beauty,Sunscreen,7,56.74,397.18
+2901,2025-11-07,Penang,Ain,Beauty,Sunscreen,12,54.6,655.2
+2902,2025-11-07,Selangor,Divya,Electronics,Wireless Earbuds,12,117.43,1409.16
+2903,2025-11-07,Selangor,Kumar,Home & Living,Air Fryer,7,57.36,401.52
+2904,2025-11-07,Selangor,Wei Ling,Fashion,Sneakers,9,104.28,938.52
+2905,2025-11-07,Penang,Ryan,Electronics,Wireless Earbuds,2,126.38,252.76
+2906,2025-11-07,Selangor,Ryan,Electronics,Smartwatch,2,145.81,291.62
+2907,2025-11-08,Sabah,Ain,Fashion,Sunglasses,9,95.28,857.52
+2908,2025-11-08,Penang,Divya,Fashion,Wallet,5,69.28,346.4
+2909,2025-11-08,Johor,Ryan,Fashion,Wallet,2,77.0,154.0
+2910,2025-11-08,Sabah,Kumar,Fashion,Wallet,7,120.18,841.26
+2911,2025-11-09,Selangor,Farid,Beauty,Hair Dryer,8,55.53,444.24
+2912,2025-11-09,Johor,Divya,Home & Living,LED Lamp,9,99.19,892.71
+2913,2025-11-09,Penang,Wei Ling,Beauty,Face Serum,15,41.28,619.2
+2914,2025-11-09,Selangor,Divya,Electronics,Smartwatch,5,156.65,783.25
+2915,2025-11-09,Sabah,Divya,Home & Living,LED Lamp,4,78.58,314.32
+2916,2025-11-09,Sabah,Nadia,Home & Living,LED Lamp,11,70.11,771.21
+2917,2025-11-10,Penang,Ryan,Home & Living,LED Lamp,8,94.58,756.64
+2918,2025-11-10,Selangor,Divya,Fashion,Backpack,12,113.07,1356.84
+2919,2025-11-10,Penang,Farid,Home & Living,Air Fryer,11,95.7,1052.7
+2920,2025-11-10,Selangor,Ain,Beauty,Face Serum,9,35.51,319.59
+2921,2025-11-10,Kuala Lumpur,Farid,Electronics,Smartwatch,5,120.76,603.8
+2922,2025-11-10,Selangor,Divya,Beauty,Hair Dryer,4,51.22,204.88
+2923,2025-11-10,Kuala Lumpur,Ryan,Beauty,Hair Dryer,1,40.85,40.85
+2924,2025-11-10,Penang,Wei Ling,Fashion,Sunglasses,14,119.04,1666.56
+2925,2025-11-11,Penang,Divya,Home & Living,Air Fryer,12,89.85,1078.2
+2926,2025-11-11,Johor,Wei Ling,Home & Living,Air Fryer,16,96.33,1541.28
+2927,2025-11-11,Kuala Lumpur,Wei Ling,Beauty,Face Serum,8,44.61,356.88
+2928,2025-11-11,Johor,Kumar,Electronics,Wireless Earbuds,7,142.92,1000.44
+2929,2025-11-12,Selangor,Divya,Beauty,Lip Tint,2,33.42,66.84
+2930,2025-11-12,Sabah,Kumar,Home & Living,LED Lamp,8,91.64,733.12
+2931,2025-11-12,Penang,Ryan,Electronics,Smartwatch,7,107.87,755.09
+2932,2025-11-12,Sabah,Nadia,Fashion,Sunglasses,14,111.32,1558.48
+2933,2025-11-12,Sabah,Kumar,Home & Living,LED Lamp,14,64.54,903.56
+2934,2025-11-12,Penang,Ryan,Home & Living,Air Fryer,14,61.73,864.22
+2935,2025-11-12,Penang,Kumar,Fashion,Wallet,5,73.59,367.95
+2936,2025-11-12,Kuala Lumpur,Ain,Electronics,Smartwatch,4,97.84,391.36
+2937,2025-11-13,Selangor,Ryan,Electronics,Smartwatch,12,151.81,1821.72
+2938,2025-11-13,Johor,Kumar,Fashion,Sunglasses,12,110.88,1330.56
+2939,2025-11-13,Sabah,Siti,Beauty,Hair Dryer,9,53.75,483.75
+2940,2025-11-13,Penang,Wei Ling,Fashion,Sneakers,14,116.06,1624.84
+2941,2025-11-13,Penang,Nadia,Home & Living,Blender,12,80.73,968.76
+2942,2025-11-14,Selangor,Siti,Beauty,Lip Tint,4,32.3,129.2
+2943,2025-11-14,Johor,Kumar,Fashion,Wallet,5,101.87,509.35
+2944,2025-11-14,Johor,Kumar,Fashion,Backpack,16,125.71,2011.36
+2945,2025-11-14,Johor,Siti,Fashion,Backpack,1,99.93,99.93
+2946,2025-11-14,Selangor,Nadia,Fashion,Sunglasses,12,121.06,1452.72
+2947,2025-11-14,Selangor,Nadia,Fashion,Wallet,9,65.77,591.93
+2948,2025-11-14,Penang,Divya,Electronics,Wireless Earbuds,16,161.92,2590.72
+2949,2025-11-14,Johor,Farid,Home & Living,Blender,16,105.0,1680.0
+2950,2025-11-15,Penang,Wei Ling,Electronics,Smartwatch,16,145.84,2333.44
+2951,2025-11-15,Selangor,Ain,Beauty,Face Serum,1,45.47,45.47
+2952,2025-11-15,Penang,Ain,Electronics,Power Bank,5,139.03,695.15
+2953,2025-11-16,Penang,Ryan,Home & Living,Air Fryer,12,56.79,681.48
+2954,2025-11-16,Johor,Wei Ling,Electronics,Wireless Earbuds,5,153.3,766.5
+2955,2025-11-16,Penang,Kumar,Electronics,Smartwatch,11,87.74,965.14
+2956,2025-11-16,Sabah,Ain,Beauty,Sunscreen,15,55.03,825.45
+2957,2025-11-16,Penang,Farid,Fashion,Sunglasses,2,84.51,169.02
+2958,2025-11-17,Johor,Farid,Electronics,Wireless Earbuds,2,99.33,198.66
+2959,2025-11-17,Kuala Lumpur,Kumar,Fashion,Sneakers,4,112.69,450.76
+2960,2025-11-17,Penang,Nadia,Beauty,Face Serum,16,61.21,979.36
+2961,2025-11-17,Kuala Lumpur,Nadia,Home & Living,Air Fryer,1,77.24,77.24
+2962,2025-11-17,Kuala Lumpur,Kumar,Fashion,Backpack,14,82.88,1160.32
+2963,2025-11-17,Kuala Lumpur,Nadia,Fashion,Backpack,4,124.69,498.76
+2964,2025-11-17,Johor,Siti,Fashion,Sneakers,11,85.37,939.07
+2965,2025-11-18,Sabah,Ryan,Beauty,Sunscreen,1,61.41,61.41
+2966,2025-11-18,Kuala Lumpur,Nadia,Home & Living,Blender,8,92.18,737.44
+2967,2025-11-18,Kuala Lumpur,Kumar,Fashion,Sunglasses,2,95.34,190.68
+2968,2025-11-18,Penang,Farid,Home & Living,Blender,7,57.76,404.32
+2969,2025-11-18,Sabah,Siti,Home & Living,Blender,4,82.17,328.68
+2970,2025-11-19,Sabah,Siti,Beauty,Face Serum,8,53.59,428.72
+2971,2025-11-19,Selangor,Farid,Home & Living,Blender,11,74.74,822.14
+2972,2025-11-19,Kuala Lumpur,Wei Ling,Fashion,Sunglasses,4,92.41,369.64
+2973,2025-11-19,Selangor,Ryan,Beauty,Hair Dryer,14,49.64,694.96
+2974,2025-11-19,Johor,Siti,Beauty,Sunscreen,7,54.29,380.03
+2975,2025-11-20,Johor,Farid,Fashion,Sneakers,5,111.08,555.4
+2976,2025-11-20,Johor,Ain,Beauty,Lip Tint,14,44.12,617.68
+2977,2025-11-20,Kuala Lumpur,Kumar,Home & Living,Air Fryer,14,110.05,1540.7
+2978,2025-11-20,Sabah,Ain,Home & Living,Storage Box,15,74.66,1119.9
+2979,2025-11-20,Selangor,Wei Ling,Fashion,Backpack,8,91.9,735.2
+2980,2025-11-20,Johor,Nadia,Electronics,Smartwatch,5,158.17,790.85
+2981,2025-11-21,Selangor,Kumar,Home & Living,Storage Box,5,80.45,402.25
+2982,2025-11-21,Kuala Lumpur,Farid,Fashion,Sneakers,11,73.04,803.44
+2983,2025-11-21,Johor,Divya,Beauty,Sunscreen,11,52.56,578.16
+2984,2025-11-21,Kuala Lumpur,Wei Ling,Electronics,Bluetooth Speaker,4,110.74,442.96
+2985,2025-11-21,Johor,Ryan,Fashion,Sunglasses,15,109.01,1635.15
+2986,2025-11-22,Johor,Ain,Electronics,Power Bank,11,140.27,1542.97
+2987,2025-11-22,Kuala Lumpur,Ain,Home & Living,Storage Box,8,76.29,610.32
+2988,2025-11-22,Sabah,Divya,Beauty,Face Serum,15,38.75,581.25
+2989,2025-11-22,Kuala Lumpur,Siti,Electronics,Smartwatch,7,120.57,843.99
+2990,2025-11-22,Johor,Ryan,Home & Living,Blender,4,71.96,287.84
+2991,2025-11-22,Johor,Ryan,Electronics,Power Bank,9,99.08,891.72
+2992,2025-11-22,Sabah,Farid,Electronics,Bluetooth Speaker,2,113.09,226.18
+2993,2025-11-23,Johor,Ryan,Electronics,Smartwatch,8,94.81,758.48
+2994,2025-11-23,Johor,Ryan,Electronics,Bluetooth Speaker,15,164.63,2469.45
+2995,2025-11-23,Johor,Farid,Electronics,Power Bank,9,105.73,951.57
+2996,2025-11-23,Sabah,Siti,Beauty,Lip Tint,11,53.93,593.23
+2997,2025-11-23,Selangor,Farid,Home & Living,Blender,12,98.54,1182.48
+2998,2025-11-23,Kuala Lumpur,Kumar,Electronics,Power Bank,16,133.57,2137.12
+2999,2025-11-23,Sabah,Ain,Beauty,Hair Dryer,1,46.14,46.14
+3000,2025-11-23,Selangor,Siti,Beauty,Hair Dryer,8,33.08,264.64
+3001,2025-11-24,Johor,Wei Ling,Fashion,Sunglasses,1,97.19,97.19
+3002,2025-11-24,Penang,Nadia,Fashion,Wallet,1,91.15,91.15
+3003,2025-11-24,Selangor,Ryan,Electronics,Power Bank,16,87.08,1393.28
+3004,2025-11-24,Kuala Lumpur,Wei Ling,Home & Living,LED Lamp,12,61.3,735.6
+3005,2025-11-24,Johor,Kumar,Beauty,Lip Tint,8,62.11,496.88
+3006,2025-11-25,Sabah,Ain,Beauty,Face Serum,2,41.79,83.58
+3007,2025-11-25,Kuala Lumpur,Farid,Electronics,Bluetooth Speaker,12,166.34,1996.08
+3008,2025-11-25,Penang,Nadia,Fashion,Wallet,9,64.41,579.69
+3009,2025-11-25,Selangor,Nadia,Beauty,Face Serum,5,49.48,247.4
+3010,2025-11-25,Sabah,Kumar,Home & Living,LED Lamp,8,88.11,704.88
+3011,2025-11-25,Johor,Ain,Fashion,Backpack,7,94.6,662.2
+3012,2025-11-25,Sabah,Ain,Beauty,Sunscreen,15,40.47,607.05
+3013,2025-11-25,Johor,Nadia,Home & Living,LED Lamp,9,92.8,835.2
+3014,2025-11-25,Penang,Ain,Beauty,Lip Tint,2,38.47,76.94
+3015,2025-11-26,Penang,Divya,Home & Living,LED Lamp,14,72.12,1009.68
+3016,2025-11-26,Sabah,Ain,Beauty,Lip Tint,12,43.75,525.0
+3017,2025-11-26,Penang,Wei Ling,Fashion,Sunglasses,8,114.83,918.64
+3018,2025-11-26,Johor,Ryan,Beauty,Sunscreen,12,53.48,641.76
+3019,2025-11-26,Penang,Farid,Beauty,Face Serum,15,58.35,875.25
+3020,2025-11-26,Johor,Siti,Fashion,Sneakers,5,110.12,550.6
+3021,2025-11-26,Penang,Ain,Fashion,Sunglasses,11,105.49,1160.39
+3022,2025-11-26,Kuala Lumpur,Ain,Home & Living,Air Fryer,14,80.17,1122.38
+3023,2025-11-27,Penang,Wei Ling,Beauty,Sunscreen,9,60.52,544.68
+3024,2025-11-27,Johor,Farid,Electronics,Wireless Earbuds,9,102.34,921.06
+3025,2025-11-27,Sabah,Ryan,Fashion,Backpack,4,111.31,445.24
+3026,2025-11-27,Sabah,Nadia,Beauty,Lip Tint,5,44.67,223.35
+3027,2025-11-27,Penang,Siti,Fashion,Sneakers,15,118.74,1781.1
+3028,2025-11-27,Sabah,Divya,Beauty,Sunscreen,9,47.09,423.81
+3029,2025-11-27,Penang,Ain,Beauty,Sunscreen,4,44.1,176.4
+3030,2025-11-27,Sabah,Farid,Fashion,Wallet,15,73.85,1107.75
+3031,2025-11-27,Johor,Ain,Beauty,Hair Dryer,9,37.45,337.05
+3032,2025-11-28,Kuala Lumpur,Ryan,Home & Living,LED Lamp,14,87.95,1231.3
+3033,2025-11-28,Selangor,Divya,Fashion,Backpack,4,98.87,395.48
+3034,2025-11-28,Selangor,Ryan,Fashion,Sneakers,16,100.88,1614.08
+3035,2025-11-28,Sabah,Kumar,Home & Living,Storage Box,11,76.67,843.37
+3036,2025-11-28,Kuala Lumpur,Farid,Beauty,Sunscreen,8,35.68,285.44
+3037,2025-11-28,Selangor,Divya,Home & Living,Blender,11,69.72,766.92
+3038,2025-11-28,Kuala Lumpur,Siti,Home & Living,Blender,12,91.92,1103.04
+3039,2025-11-29,Kuala Lumpur,Ain,Home & Living,Blender,16,109.9,1758.4
+3040,2025-11-29,Selangor,Ryan,Beauty,Hair Dryer,9,33.72,303.48
+3041,2025-11-29,Penang,Ain,Electronics,Wireless Earbuds,11,124.39,1368.29
+3042,2025-11-29,Penang,Divya,Beauty,Face Serum,8,44.08,352.64
+3043,2025-11-29,Johor,Farid,Electronics,Wireless Earbuds,4,155.15,620.6
+3044,2025-11-29,Kuala Lumpur,Kumar,Fashion,Wallet,15,84.41,1266.15
+3045,2025-11-29,Johor,Farid,Home & Living,Air Fryer,2,74.48,148.96
+3046,2025-11-29,Johor,Divya,Beauty,Sunscreen,7,42.29,296.03
+3047,2025-11-29,Penang,Ain,Beauty,Lip Tint,14,40.17,562.38
+3048,2025-11-30,Kuala Lumpur,Siti,Home & Living,Air Fryer,1,68.38,68.38
+3049,2025-11-30,Sabah,Wei Ling,Fashion,Sunglasses,7,122.52,857.64
+3050,2025-11-30,Sabah,Nadia,Fashion,Wallet,16,90.71,1451.36
+3051,2025-11-30,Kuala Lumpur,Ryan,Home & Living,Storage Box,14,72.37,1013.18
+3052,2025-11-30,Penang,Wei Ling,Home & Living,LED Lamp,5,88.66,443.3
+3053,2025-11-30,Sabah,Ryan,Electronics,Power Bank,8,144.58,1156.64
+3054,2025-11-30,Johor,Siti,Home & Living,Air Fryer,15,64.73,970.95
+3055,2025-11-30,Sabah,Divya,Fashion,Wallet,11,103.85,1142.35
+3056,2025-11-30,Kuala Lumpur,Farid,Beauty,Hair Dryer,1,52.57,52.57
+3057,2025-12-01,Kuala Lumpur,Farid,Fashion,Backpack,5,72.46,362.3
+3058,2025-12-01,Kuala Lumpur,Ain,Fashion,Wallet,11,98.87,1087.57
+3059,2025-12-01,Sabah,Ryan,Home & Living,Storage Box,8,93.2,745.6
+3060,2025-12-01,Selangor,Farid,Fashion,Sneakers,7,97.86,685.02
+3061,2025-12-01,Selangor,Wei Ling,Beauty,Sunscreen,5,39.57,197.85
+3062,2025-12-02,Kuala Lumpur,Nadia,Home & Living,Blender,4,58.25,233.0
+3063,2025-12-02,Sabah,Farid,Fashion,Sneakers,16,74.97,1199.52
+3064,2025-12-02,Kuala Lumpur,Divya,Fashion,Sneakers,5,77.34,386.7
+3065,2025-12-02,Johor,Farid,Electronics,Wireless Earbuds,8,150.36,1202.88
+3066,2025-12-02,Kuala Lumpur,Kumar,Beauty,Face Serum,11,34.13,375.43
+3067,2025-12-02,Selangor,Ryan,Home & Living,Blender,7,87.88,615.16
+3068,2025-12-02,Selangor,Divya,Beauty,Sunscreen,14,56.88,796.32
+3069,2025-12-02,Selangor,Wei Ling,Fashion,Wallet,14,80.06,1120.84
+3070,2025-12-03,Sabah,Kumar,Beauty,Lip Tint,15,40.94,614.1
+3071,2025-12-03,Penang,Wei Ling,Fashion,Sunglasses,15,90.72,1360.8
+3072,2025-12-03,Johor,Wei Ling,Electronics,Power Bank,12,123.52,1482.24
+3073,2025-12-03,Kuala Lumpur,Divya,Electronics,Bluetooth Speaker,15,109.59,1643.85
+3074,2025-12-03,Penang,Kumar,Home & Living,Storage Box,2,98.72,197.44
+3075,2025-12-04,Sabah,Nadia,Fashion,Sunglasses,12,92.73,1112.76
+3076,2025-12-04,Sabah,Ryan,Home & Living,Storage Box,8,64.76,518.08
+3077,2025-12-04,Kuala Lumpur,Divya,Home & Living,Storage Box,8,109.58,876.64
+3078,2025-12-04,Sabah,Divya,Beauty,Lip Tint,5,60.88,304.4
+3079,2025-12-04,Penang,Siti,Fashion,Backpack,7,84.02,588.14
+3080,2025-12-05,Penang,Ryan,Beauty,Lip Tint,9,49.24,443.16
+3081,2025-12-05,Selangor,Wei Ling,Beauty,Face Serum,9,42.64,383.76
+3082,2025-12-05,Johor,Nadia,Fashion,Sneakers,16,75.74,1211.84
+3083,2025-12-05,Penang,Ryan,Fashion,Sneakers,8,89.93,719.44
+3084,2025-12-05,Penang,Nadia,Home & Living,Storage Box,14,84.16,1178.24
+3085,2025-12-05,Selangor,Divya,Electronics,Smartwatch,4,111.34,445.36
+3086,2025-12-05,Sabah,Divya,Beauty,Face Serum,15,43.79,656.85
+3087,2025-12-05,Kuala Lumpur,Siti,Fashion,Wallet,1,69.39,69.39
+3088,2025-12-05,Penang,Wei Ling,Fashion,Wallet,7,69.99,489.93
+3089,2025-12-06,Selangor,Nadia,Fashion,Wallet,4,118.06,472.24
+3090,2025-12-06,Sabah,Nadia,Home & Living,LED Lamp,11,69.73,767.03
+3091,2025-12-06,Sabah,Farid,Fashion,Sneakers,4,111.64,446.56
+3092,2025-12-06,Penang,Wei Ling,Fashion,Wallet,16,118.73,1899.68
+3093,2025-12-06,Penang,Kumar,Beauty,Sunscreen,11,42.91,472.01
+3094,2025-12-06,Penang,Ryan,Fashion,Sneakers,4,70.51,282.04
+3095,2025-12-06,Johor,Ain,Beauty,Hair Dryer,1,57.7,57.7
+3096,2025-12-06,Sabah,Ain,Fashion,Sneakers,14,90.54,1267.56
+3097,2025-12-07,Penang,Farid,Beauty,Lip Tint,14,42.01,588.14
+3098,2025-12-07,Selangor,Farid,Electronics,Wireless Earbuds,12,97.29,1167.48
+3099,2025-12-07,Sabah,Ryan,Beauty,Sunscreen,2,55.66,111.32
+3100,2025-12-07,Penang,Siti,Beauty,Hair Dryer,16,36.29,580.64
+3101,2025-12-07,Selangor,Ryan,Home & Living,Air Fryer,11,85.55,941.05
+3102,2025-12-07,Selangor,Ryan,Beauty,Lip Tint,1,51.15,51.15
+3103,2025-12-07,Selangor,Nadia,Electronics,Smartwatch,8,119.88,959.04
+3104,2025-12-08,Kuala Lumpur,Siti,Fashion,Wallet,15,104.92,1573.8
+3105,2025-12-08,Sabah,Wei Ling,Home & Living,Storage Box,4,67.54,270.16
+3106,2025-12-08,Selangor,Farid,Electronics,Wireless Earbuds,4,129.37,517.48
+3107,2025-12-08,Penang,Nadia,Fashion,Backpack,15,76.15,1142.25
+3108,2025-12-08,Kuala Lumpur,Kumar,Beauty,Lip Tint,5,60.99,304.95
+3109,2025-12-08,Penang,Ryan,Electronics,Smartwatch,11,94.34,1037.74
+3110,2025-12-08,Selangor,Divya,Beauty,Sunscreen,9,33.05,297.45
+3111,2025-12-08,Johor,Farid,Home & Living,Storage Box,9,89.05,801.45
+3112,2025-12-08,Selangor,Farid,Home & Living,LED Lamp,4,98.37,393.48
+3113,2025-12-09,Sabah,Farid,Fashion,Sunglasses,9,75.03,675.27
+3114,2025-12-09,Sabah,Divya,Fashion,Wallet,7,95.05,665.35
+3115,2025-12-09,Selangor,Farid,Electronics,Bluetooth Speaker,9,117.63,1058.67
+3116,2025-12-09,Penang,Nadia,Fashion,Sunglasses,2,90.35,180.7
+3117,2025-12-09,Kuala Lumpur,Nadia,Electronics,Bluetooth Speaker,11,85.33,938.63
+3118,2025-12-09,Penang,Ain,Electronics,Smartwatch,5,98.9,494.5
+3119,2025-12-10,Sabah,Ain,Home & Living,Storage Box,16,82.31,1316.96
+3120,2025-12-10,Selangor,Wei Ling,Home & Living,Air Fryer,8,90.58,724.64
+3121,2025-12-10,Johor,Wei Ling,Home & Living,Storage Box,12,110.06,1320.72
+3122,2025-12-10,Penang,Nadia,Electronics,Smartwatch,1,125.79,125.79
+3123,2025-12-11,Penang,Siti,Fashion,Sunglasses,1,112.35,112.35
+3124,2025-12-11,Selangor,Ryan,Beauty,Face Serum,16,58.97,943.52
+3125,2025-12-11,Selangor,Siti,Beauty,Sunscreen,4,34.65,138.6
+3126,2025-12-11,Kuala Lumpur,Divya,Electronics,Bluetooth Speaker,2,93.44,186.88
+3127,2025-12-11,Johor,Ain,Beauty,Hair Dryer,4,58.49,233.96
+3128,2025-12-11,Penang,Siti,Beauty,Hair Dryer,7,35.54,248.78
+3129,2025-12-12,Selangor,Kumar,Beauty,Hair Dryer,16,57.68,922.88
+3130,2025-12-12,Kuala Lumpur,Farid,Home & Living,Storage Box,4,68.63,274.52
+3131,2025-12-12,Selangor,Kumar,Beauty,Lip Tint,14,34.81,487.34
+3132,2025-12-12,Penang,Divya,Home & Living,Air Fryer,8,95.79,766.32
+3133,2025-12-12,Sabah,Wei Ling,Fashion,Backpack,8,89.59,716.72
+3134,2025-12-12,Sabah,Kumar,Electronics,Bluetooth Speaker,15,88.03,1320.45
+3135,2025-12-12,Kuala Lumpur,Kumar,Electronics,Smartwatch,15,86.87,1303.05
+3136,2025-12-13,Johor,Siti,Fashion,Sneakers,14,93.29,1306.06
+3137,2025-12-13,Kuala Lumpur,Nadia,Beauty,Hair Dryer,5,45.78,228.9
+3138,2025-12-13,Sabah,Siti,Beauty,Face Serum,16,40.3,644.8
+3139,2025-12-13,Penang,Divya,Home & Living,Air Fryer,8,101.19,809.52
+3140,2025-12-14,Sabah,Nadia,Beauty,Face Serum,15,58.47,877.05
+3141,2025-12-14,Selangor,Wei Ling,Fashion,Wallet,15,64.6,969.0
+3142,2025-12-14,Selangor,Nadia,Home & Living,Blender,2,62.74,125.48
+3143,2025-12-14,Kuala Lumpur,Farid,Fashion,Sunglasses,11,90.48,995.28
+3144,2025-12-14,Sabah,Kumar,Home & Living,Blender,12,66.91,802.92
+3145,2025-12-14,Selangor,Wei Ling,Home & Living,Air Fryer,12,89.65,1075.8
+3146,2025-12-14,Sabah,Wei Ling,Electronics,Power Bank,12,103.36,1240.32
+3147,2025-12-14,Penang,Kumar,Home & Living,LED Lamp,15,65.28,979.2
+3148,2025-12-14,Kuala Lumpur,Ryan,Beauty,Sunscreen,7,33.04,231.28
+3149,2025-12-15,Johor,Nadia,Beauty,Hair Dryer,11,41.64,458.04
+3150,2025-12-15,Selangor,Nadia,Electronics,Power Bank,16,130.68,2090.88
+3151,2025-12-15,Kuala Lumpur,Divya,Electronics,Wireless Earbuds,9,95.79,862.11
+3152,2025-12-15,Kuala Lumpur,Ryan,Home & Living,Blender,4,92.18,368.72
+3153,2025-12-15,Sabah,Nadia,Home & Living,Storage Box,8,59.95,479.6
+3154,2025-12-16,Johor,Nadia,Electronics,Smartwatch,5,121.24,606.2
+3155,2025-12-16,Penang,Farid,Electronics,Wireless Earbuds,12,110.14,1321.68
+3156,2025-12-16,Sabah,Farid,Beauty,Sunscreen,15,45.31,679.65
+3157,2025-12-16,Sabah,Siti,Beauty,Sunscreen,2,59.23,118.46
+3158,2025-12-17,Selangor,Ryan,Beauty,Lip Tint,2,51.25,102.5
+3159,2025-12-17,Sabah,Farid,Home & Living,Blender,7,68.58,480.06
+3160,2025-12-17,Selangor,Ryan,Fashion,Backpack,15,94.16,1412.4
+3161,2025-12-17,Johor,Nadia,Electronics,Wireless Earbuds,7,154.76,1083.32
+3162,2025-12-17,Penang,Siti,Fashion,Wallet,15,115.69,1735.35
+3163,2025-12-18,Selangor,Kumar,Electronics,Bluetooth Speaker,5,133.21,666.05
+3164,2025-12-18,Sabah,Divya,Beauty,Lip Tint,2,62.92,125.84
+3165,2025-12-18,Sabah,Farid,Beauty,Hair Dryer,1,50.45,50.45
+3166,2025-12-19,Selangor,Ryan,Electronics,Smartwatch,8,132.73,1061.84
+3167,2025-12-19,Johor,Divya,Electronics,Power Bank,15,150.2,2253.0
+3168,2025-12-19,Sabah,Ryan,Electronics,Bluetooth Speaker,15,146.53,2197.95
+3169,2025-12-19,Selangor,Siti,Home & Living,Storage Box,1,91.31,91.31
+3170,2025-12-19,Selangor,Nadia,Fashion,Wallet,1,108.93,108.93
+3171,2025-12-19,Penang,Ain,Fashion,Sunglasses,5,80.43,402.15
+3172,2025-12-19,Penang,Siti,Beauty,Lip Tint,4,38.1,152.4
+3173,2025-12-20,Johor,Siti,Fashion,Backpack,11,116.97,1286.67
+3174,2025-12-20,Penang,Farid,Home & Living,Air Fryer,7,61.67,431.69
+3175,2025-12-20,Johor,Ryan,Fashion,Wallet,15,74.73,1120.95
+3176,2025-12-20,Kuala Lumpur,Divya,Fashion,Wallet,8,84.23,673.84
+3177,2025-12-20,Penang,Kumar,Home & Living,Storage Box,8,56.89,455.12
+3178,2025-12-20,Sabah,Ryan,Fashion,Sunglasses,12,96.91,1162.92
+3179,2025-12-20,Sabah,Ryan,Electronics,Smartwatch,2,91.61,183.22
+3180,2025-12-20,Penang,Wei Ling,Home & Living,Air Fryer,12,75.81,909.72
+3181,2025-12-21,Selangor,Divya,Fashion,Sneakers,8,125.96,1007.68
+3182,2025-12-21,Selangor,Ain,Home & Living,Storage Box,15,111.59,1673.85
+3183,2025-12-21,Johor,Divya,Home & Living,Storage Box,5,105.01,525.05
+3184,2025-12-21,Kuala Lumpur,Ain,Home & Living,LED Lamp,7,69.65,487.55
+3185,2025-12-21,Sabah,Kumar,Beauty,Hair Dryer,9,49.02,441.18
+3186,2025-12-21,Johor,Ryan,Home & Living,Blender,15,88.23,1323.45
+3187,2025-12-22,Penang,Kumar,Fashion,Sunglasses,9,86.32,776.88
+3188,2025-12-22,Penang,Kumar,Fashion,Sneakers,16,71.47,1143.52
+3189,2025-12-22,Sabah,Siti,Home & Living,LED Lamp,12,95.67,1148.04
+3190,2025-12-22,Selangor,Kumar,Home & Living,Air Fryer,16,95.32,1525.12
+3191,2025-12-22,Johor,Divya,Fashion,Sneakers,11,101.98,1121.78
+3192,2025-12-22,Sabah,Divya,Beauty,Face Serum,4,32.2,128.8
+3193,2025-12-22,Sabah,Wei Ling,Electronics,Power Bank,11,156.88,1725.68
+3194,2025-12-22,Selangor,Nadia,Fashion,Sneakers,16,80.39,1286.24
+3195,2025-12-23,Selangor,Wei Ling,Beauty,Hair Dryer,16,55.58,889.28
+3196,2025-12-23,Johor,Nadia,Home & Living,Blender,7,86.15,603.05
+3197,2025-12-23,Penang,Siti,Home & Living,Blender,4,98.91,395.64
+3198,2025-12-23,Selangor,Farid,Electronics,Power Bank,14,94.05,1316.7
+3199,2025-12-23,Sabah,Kumar,Electronics,Bluetooth Speaker,16,97.54,1560.64
+3200,2025-12-23,Kuala Lumpur,Divya,Home & Living,Storage Box,1,92.37,92.37
+3201,2025-12-23,Selangor,Ryan,Fashion,Sneakers,2,122.61,245.22
+3202,2025-12-23,Johor,Wei Ling,Beauty,Hair Dryer,4,58.19,232.76
+3203,2025-12-24,Penang,Nadia,Fashion,Backpack,16,90.11,1441.76
+3204,2025-12-24,Johor,Kumar,Electronics,Smartwatch,7,117.72,824.04
+3205,2025-12-24,Penang,Nadia,Electronics,Power Bank,11,147.15,1618.65
+3206,2025-12-25,Sabah,Wei Ling,Electronics,Wireless Earbuds,15,115.34,1730.1
+3207,2025-12-25,Selangor,Ain,Electronics,Wireless Earbuds,8,116.32,930.56
+3208,2025-12-25,Sabah,Divya,Fashion,Sneakers,4,74.87,299.48
+3209,2025-12-26,Sabah,Wei Ling,Home & Living,Air Fryer,2,104.84,209.68
+3210,2025-12-26,Sabah,Wei Ling,Fashion,Backpack,11,107.5,1182.5
+3211,2025-12-26,Sabah,Farid,Home & Living,Blender,1,90.84,90.84
+3212,2025-12-26,Penang,Wei Ling,Fashion,Sneakers,8,106.03,848.24
+3213,2025-12-27,Johor,Divya,Home & Living,Storage Box,14,107.52,1505.28
+3214,2025-12-27,Sabah,Farid,Beauty,Hair Dryer,2,52.56,105.12
+3215,2025-12-27,Penang,Divya,Home & Living,Air Fryer,4,69.41,277.64
+3216,2025-12-28,Johor,Divya,Electronics,Power Bank,1,161.0,161.0
+3217,2025-12-28,Sabah,Ryan,Electronics,Wireless Earbuds,15,139.0,2085.0
+3218,2025-12-28,Sabah,Kumar,Home & Living,Air Fryer,8,63.59,508.72
+3219,2025-12-28,Penang,Divya,Beauty,Hair Dryer,9,43.38,390.42
+3220,2025-12-29,Johor,Ryan,Electronics,Power Bank,12,124.66,1495.92
+3221,2025-12-29,Penang,Ain,Beauty,Lip Tint,15,53.52,802.8
+3222,2025-12-29,Kuala Lumpur,Wei Ling,Electronics,Power Bank,14,146.82,2055.48
+3223,2025-12-30,Penang,Ryan,Electronics,Wireless Earbuds,1,165.21,165.21
+3224,2025-12-30,Kuala Lumpur,Wei Ling,Fashion,Sneakers,15,118.04,1770.6
+3225,2025-12-30,Sabah,Wei Ling,Fashion,Sneakers,5,69.21,346.05
+3226,2025-12-30,Kuala Lumpur,Kumar,Fashion,Sneakers,16,75.83,1213.28
+3227,2025-12-30,Sabah,Farid,Electronics,Wireless Earbuds,9,101.31,911.79
+3228,2025-12-30,Penang,Siti,Electronics,Smartwatch,15,152.35,2285.25
+3229,2025-12-30,Kuala Lumpur,Ryan,Beauty,Sunscreen,8,60.4,483.2
+3230,2025-12-30,Selangor,Nadia,Home & Living,Storage Box,14,69.79,977.06
+3231,2025-12-31,Sabah,Nadia,Fashion,Backpack,15,109.41,1641.15
+3232,2025-12-31,Johor,Kumar,Electronics,Bluetooth Speaker,9,115.68,1041.12
+3233,2025-12-31,Johor,Ain,Fashion,Sneakers,15,106.63,1599.45
+3234,2025-12-31,Johor,Farid,Home & Living,Storage Box,2,91.71,183.42
+3235,2025-12-31,Kuala Lumpur,Wei Ling,Beauty,Face Serum,4,48.41,193.64
+3236,2025-12-31,Penang,Nadia,Beauty,Lip Tint,12,40.52,486.24
