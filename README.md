@@ -49,4 +49,4 @@ Power BI Desktop, DAX, Power Query (data cleaning and type transformation)
 
 ## Notes
 
-This uses a synthetic dataset generated for practice purposes (seasonal Nov/Dec revenue bump included to make trend analysis meaningful). Built as a self-directed project with no prior Power BI experience going in.
+This uses a synthetic dataset generated for practice purposes (seasonal Nov/Dec revenue bump included to make trend analysis meaningful). Built as a self-directed project .
